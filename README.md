@@ -24,3 +24,7 @@ ruby make_decks.rb
 ```
 
 You'll need the `anki` gem installed.  `gem install anki` to get it.
+
+## License
+
+BSD
