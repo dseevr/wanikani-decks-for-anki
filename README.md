@@ -14,7 +14,14 @@ If you want to regenerate the decks from scratch, you will need to generate an A
 
 ```sh
 export API_KEY="your api key here"
-for f in {1..60}; do echo $f; URL="https://www.wanikani.com/api/user/${YOUR_API_KEY}/vocabulary/$f"; echo $URL; curl -o $f.json $URL; sleep 2; done
+
+# grab all 60 levels of vocab words
+for f in {1..60}; do
+  URL="https://www.wanikani.com/api/user/${YOUR_API_KEY}/vocabulary/$f"
+  echo $URL;
+  curl -o $f.json $URL
+  sleep 2
+done
 ```
 
 Then run:
