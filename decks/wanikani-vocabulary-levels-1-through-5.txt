@@ -1,0 +1,433 @@
+#front;back
+二;に<br><br>two
+十;じゅう<br><br>ten
+下さい;ください<br><br>please
+三;さん<br><br>three
+下;した<br><br>down, below, under, beneath
+二人;ふたり<br><br>two people, pair, two persons
+二つ;ふたつ<br><br>two things
+入れる;いれる<br><br>to insert, to put in
+人口;じんこう<br><br>population
+大きさ;おおきさ<br><br>size
+女;おんな<br><br>woman, female
+川;かわ<br><br>river
+七;なな, しち<br><br>seven
+三人;さんにん<br><br>three people, three persons
+アメリカ人;あめりかじん, アメリカじん<br><br>american, american person
+七つ;ななつ<br><br>seven things
+口;くち<br><br>mouth
+人工;じんこう<br><br>artificial, man made, human made, human work, human skill, artificially
+上がる;あがる<br><br>to rise
+大人;おとな<br><br>adult
+一人;ひとり<br><br>alone, one person
+大きい;おおきい<br><br>big, large
+大した;たいした<br><br>considerable, great, important, big deal
+八;はち<br><br>eight
+八つ;やっつ<br><br>eight things
+入り口;いりぐち<br><br>entrance
+フランス人;ふらんすじん, フランスじん<br><br>frenchman, french person
+山;やま<br><br>mountain
+ふじ山;ふじさん<br><br>mt fuji, mount fuji, mt. fuji
+九;きゅう, く<br><br>nine
+九つ;ここのつ<br><br>nine things
+一;いち<br><br>one
+一つ;ひとつ<br><br>one thing
+人;ひと<br><br>person
+力;ちから<br><br>power, strength
+三つ;みっつ<br><br>three things
+上る;のぼる<br><br>to climb
+入る;はいる<br><br>to enter
+下がる;さがる<br><br>to hang down, to hang
+下げる;さげる<br><br>to hang, to lower, to hang something, to lower something
+上げる;あげる<br><br>to raise, to raise something
+上;うえ<br><br>up, above
+六;ろく<br><br>six
+石;いし<br><br>stone
+刀;かたな<br><br>katana, sword
+五月;ごがつ<br><br>may
+天才;てんさい<br><br>genius
+王;おう<br><br>king
+立つ;たつ<br><br>to stand
+白;しろ<br><br>white
+四十;よんじゅう<br><br>forty
+左手;ひだりて<br><br>left hand
+火;ひ<br><br>fire
+犬;いぬ<br><br>dog
+玉;たま<br><br>ball
+一千;いっせん<br><br>one thousand
+左;ひだり<br><br>left direction, left
+千;せん<br><br>thousand
+王子;おうじ<br><br>prince
+千円;せんえん<br><br>1000 yen, one thousand yen, a thousand yen, thousand yen
+丸い;まるい<br><br>circular, round, spherical
+中々;なかなか<br><br>very, considerably, quite
+六月;ろくがつ<br><br>june
+中;なか<br><br>middle, in, inside, center
+丸;まる<br><br>circle, round, circular
+五十;ごじゅう<br><br>fifty
+六つ;むっつ<br><br>six things
+十六;じゅうろく<br><br>sixteen
+出す;だす<br><br>to remove, to hand over, to take out, to reveal
+四十二;よんじゅうに<br><br>forty two, the answer
+子犬;こいぬ<br><br>puppy
+右;みぎ<br><br>right direction, right
+四;よん, し<br><br>four
+四千;よんせん<br><br>four thousand
+天;てん<br><br>heaven
+上手;じょうず<br><br>good at, skillful, skilled at, skilled
+下手;へた<br><br>unskillful, unskilled, bad at, not good at, not skilled
+文;ぶん<br><br>writing, sentence
+一月;いちがつ<br><br>january
+月;つき<br><br>moon, month
+木;き<br><br>tree, wood
+本;ほん<br><br>book, origin, real, main
+正す;ただす<br><br>to correct
+水;みず<br><br>water
+火山;かざん<br><br>volcano
+田;た<br><br>rice field, rice paddy
+女子;じょし<br><br>girl
+ビー玉;びーだま, ビーだま<br><br>marble
+夕べ;ゆうべ<br><br>evening, last night
+日;ひ<br><br>sun, day
+王女;おうじょ<br><br>princess
+土;つち<br><br>soil, earth, ground, dirt
+五日;いつか<br><br>fifth day, day five, five days
+子;こ<br><br>kid, child
+小さい;ちいさい<br><br>small, little
+正しい;ただしい<br><br>correct, true
+水中;すいちゅう<br><br>underwater
+二日;ふつか<br><br>second day, day two, two days
+人々;ひとびと<br><br>people, everybody, each person
+八日;ようか<br><br>eight days, day eight, eighth day
+九日;ここのか<br><br>nine days, day nine, ninth day
+大いに;おおいに<br><br>very, much, greatly, a lot of, very much
+一日;いちにち, ついたち<br><br>one day, day one, first day
+四月;しがつ<br><br>april
+二月;にがつ<br><br>february
+又;また<br><br>again, and
+白人;はくじん<br><br>caucasian, white person, white people
+出口;でぐち<br><br>exit
+目;め<br><br>eye
+目玉;めだま<br><br>eyeball
+五;ご<br><br>five
+円;えん<br><br>money, yen
+五つ;いつつ<br><br>five things
+十月;じゅうがつ<br><br>october
+四日;よっか<br><br>fourth day, day four, four days
+玉ねぎ;たまねぎ<br><br>onion, round onion
+女王;じょおう<br><br>queen
+四つ;よっつ<br><br>four things
+右手;みぎて<br><br>right hand
+手;て<br><br>hand
+円い;まるい<br><br>round, circular
+〜才;さい<br><br>years old, age
+日本;にほん, にっぽん<br><br>japan
+七日;なのか<br><br>seventh day, day seven, seven days
+三日;みっか<br><br>third day, day three, three days
+六日;むいか<br><br>sixth day, day six, six days
+才人;さいじん<br><br>talented person, clever person
+十日;とおか<br><br>ten days, day ten, tenth day
+出る;でる<br><br>to exit, to leave
+立てる;たてる<br><br>to stand up, to stand something up, to erect, to erect something
+女の子;おんなのこ<br><br>young lady, young woman, young girl, girl
+矢;や<br><br>arrow
+半分;はんぶん<br><br>half
+友人;ゆうじん<br><br>friend
+広い;ひろい<br><br>wide
+方;かた, ほう<br><br>way, direction
+用;よう<br><br>task, use, duty, service, business, purpose, function
+五台;ごだい<br><br>five machines
+市;し<br><br>city
+今;いま<br><br>now
+冬;ふゆ<br><br>winter
+外;そと<br><br>outside
+一台;いちだい<br><br>one machine
+分;ぶん, ふん<br><br>minute, part
+〜台;だい<br><br>big machine, big device, machine, device, machine counter
+母;はは<br><br>mom, mum, ma
+生;なま<br><br>fresh, raw
+一万;いちまん<br><br>ten thousand
+人生;じんせい<br><br>one's life, human life
+久しい;ひさしい<br><br>long time
+兄;あに<br><br>older brother, big brother, elder brother
+分かる;わかる<br><br>to understand
+中古;ちゅうこ<br><br>second hand, used, secondhand
+太い;ふとい<br><br>fat
+少し;すこし<br><br>a little, a few, few
+止める;とめる<br><br>to stop something, to stop
+お母さん;おかあさん<br><br>mother
+父;ちち<br><br>dad, pa, papa
+二万;にまん<br><br>twenty thousand
+北;きた<br><br>north
+十台;じゅうだい<br><br>ten machines
+二台;にだい<br><br>two machines
+今月;こんげつ<br><br>this month, current month
+半;はん<br><br>half
+中止;ちゅうし<br><br>suspension, stoppage, discontinuance, interruption
+市立;しりつ<br><br>municipal, city
+久しぶり;ひさしぶり<br><br>long time no see
+太る;ふとる<br><br>to get fat, to become fat, to grow fat
+心;こころ<br><br>heart
+お父さん;おとうさん<br><br>father
+大切;たいせつ<br><br>important, precious, valuable
+生む;うむ<br><br>to give birth, to produce
+分ける;わける<br><br>to separate, to divide, to part, to split
+万;まん<br><br>ten thousand
+外れ;はずれ<br><br>extremity, furthest point, end, outskirts, outer limits, edge, miss, failure
+大人しい;おとなしい<br><br>obedient, docile, quiet
+〜人;にん<br><br>number of people, people, people counter
+今日は;こんにちは<br><br>hello, good day
+左右;さゆう<br><br>left and right, both ways, influence, control
+生きる;いきる<br><br>to live, to be alive, to exist
+シアトル市;しあとるし, シアトルし<br><br>seattle, city of seattle
+内;うち<br><br>inside, within
+少ない;すくない<br><br>a few, few, scarce
+牛;うし<br><br>cow
+戸口;とぐち<br><br>doorway
+外人;がいじん<br><br>foreigner, outsider
+公用;こうよう<br><br>government business, official business
+古い;ふるい<br><br>old
+お兄さん;おにいさん<br><br>older brother, big brother, elder brother
+十万;じゅうまん<br><br>one hundred thousand, hundred thousand, a hundred thousand
+元;もと<br><br>origin
+生まれる;うまれる<br><br>to be born
+外れる;はずれる<br><br>to be disconnected, to come off, to be out, to be off
+切る;きる<br><br>to cut
+引く;ひく<br><br>to pull, to subtract
+止まる;とまる<br><br>to stop
+用いる;もちいる<br><br>to utilize, to use, to utilise
+少女;しょうじょ, おとめ<br><br>young lady, little girl, virgin, maiden, daughter
+毛;け<br><br>fur, hair
+切れる;きれる<br><br>to be cut
+今日;きょう<br><br>today
+他人;たにん<br><br>another person, other people, stranger
+気;き<br><br>spirit, energy
+耳;みみ<br><br>ear
+虫;むし<br><br>bug, insect
+赤;あか<br><br>red
+丸ごと;まるごと<br><br>in its entirety, whole, wholly, entirely
+赤い;あかい<br><br>red
+足;あし<br><br>foot, leg
+元気;げんき<br><br>energy, spirit, health
+早い;はやい<br><br>early, fast, quick
+五百;ごひゃく<br><br>five hundred
+竹の子;たけのこ<br><br>bamboo shoots, bamboo sprouts
+花;はな<br><br>flower
+名人;めいじん<br><br>master, expert
+年;とし<br><br>year
+月見;つきみ<br><br>moon viewing
+号;ごう<br><br>number, edition, model
+人気;にんき<br><br>popular
+町;まち<br><br>town
+お礼;おれい<br><br>thanks, gratitude
+糸;いと<br><br>thread
+見せる;みせる<br><br>to show
+村;むら<br><br>village, rural town
+天気;てんき<br><br>weather
+白い;しろい<br><br>white
+引き分け;ひきわけ<br><br>tie, draw
+年中;ねんじゅう<br><br>year round, all year, whole year, throughout the year, all year round
+仕方;しかた<br><br>method, way, way of doing
+かき氷;かきごおり<br><br>shaved ice
+貝;かい<br><br>shell, shellfish, clam
+足りる;たりる<br><br>to be enough, to be sufficient, to suffice
+先日;せんじつ<br><br>the other day, a few days ago, other day
+先月;せんげつ<br><br>last month, previous month
+不正;ふせい<br><br>injustice, unfairness
+世;よ<br><br>world, society, age, generation
+代わる;かわる<br><br>to replace, to substitute for, to substitute, to be replaced, to be substituted, to be substituted for
+休み;やすみ<br><br>rest, break, vacation, holiday
+先々月;せんせんげつ<br><br>month before last, the month before last
+先年;せんねん<br><br>former years, formerly, a few years ago, previous years, past years, prior years
+先生;せんせい<br><br>teacher, master, doctor
+気分;きぶん<br><br>feeling, mood
+去年;きょねん<br><br>last year
+一文字;いちもんじ, いちもじ<br><br>straight line
+二百;にひゃく<br><br>two hundred
+年内;ねんない<br><br>within a year, within the year
+一打;いちだ<br><br>strike, stroke, blow
+打つ;うつ<br><br>to hit, to pound, to type
+一気;いっき<br><br>one breath, one go, one sitting
+氷;こおり<br><br>ice
+男;おとこ<br><br>man
+小皿;こざら<br><br>small plate, small dish, little plate, little dish
+皿;さら<br><br>plate, dish
+見方;みかた<br><br>way of seeing, point of view, perspective, viewpoint
+花火;はなび<br><br>fireworks
+見える;みえる<br><br>can see, visible, to be visible, to be able to see, able to see
+車;くるま<br><br>car
+四百;よんひゃく<br><br>four hundred
+皮;かわ<br><br>skin, hide
+子牛;こうし<br><br>calf, baby cow
+竹;たけ<br><br>bamboo
+休日;きゅうじつ<br><br>holiday
+主に;おもに<br><br>mainly, primarily
+平日;へいじつ<br><br>weekdays
+二世;にせい<br><br>second generation
+写す;うつす<br><br>to copy
+村人;むらびと<br><br>villager
+百万;ひゃくまん<br><br>million, one million, a million
+代用;だいよう<br><br>substitution
+少年;しょうねん<br><br>young boy, juvenile, youth, boy
+主人;しゅじん<br><br>head of household, husband, head of a household, head of the household, landlord, master
+２０１１年;にせんじゅういちねん<br><br>year 2011, 2011, the year 2011
+字;じ<br><br>character, kanji character, letter, symbol
+休止;きゅうし<br><br>pause, rest, break
+太字;ふとじ<br><br>bold letter, bold, bold character, bold text, boldface
+休む;やすむ<br><br>to rest
+申す;もうす<br><br>to say humbly, to say, to humbly say
+名字;みょうじ<br><br>surname, last name, family name
+中央;ちゅうおう<br><br>center, central, centre
+平ら;たいら<br><br>flat
+早々;そうそう<br><br>as soon as, just after, immediately after
+一本気;いっぽんぎ<br><br>one track mind, single mindedness
+本気;ほんき<br><br>serious
+気に入る;きにいる<br><br>to be pleased with, to be satisfied with, to be happy with, to be pleased, to be satisfied, to be happy
+耳打ち;みみうち<br><br>whisper in ear, whisper in one's ear, whisper in someone's ear
+車内;しゃない<br><br>inside the car, in the car, in a car, inside a car, within the car, within a car
+見る;みる<br><br>to see, to look
+写る;うつる<br><br>to be photographed
+切手;きって<br><br>postage stamp, stamp
+名;な<br><br>name, reputation
+見分ける;みわける<br><br>to distinguish, to tell apart, to differentiate
+文字;もじ<br><br>letter (of the alphabet), character, letters, characters, letter
+赤ちゃん;あかちゃん<br><br>baby
+百;ひゃく<br><br>hundred, one hundred
+不足;ふそく<br><br>shortage, physical shortage, insufficient, not sufficient, not enough
+出かける;でかける<br><br>to go out, to leave
+二十日;はつか<br><br>twentieth day, day twenty, twenty days
+平気;へいき<br><br>calm, cool, all right, okay
+他;ほか<br><br>other
+一代;いちだい<br><br>lifetime, one lifetime
+大気;たいき<br><br>atmosphere
+申し申し;もうしもうし, もしもし<br><br>telephone hello, hello, hello on telephone
+三世;さんせい<br><br>third generation
+花見;はなみ<br><br>viewing cherry blossoms, sakura viewing, cherry blossom viewing
+先;さき<br><br>previous, ahead, past, former
+先ず;まず<br><br>first of all, to start with, firstly, to begin with
+一年生;いちねんせい<br><br>first year student
+今回;こんかい<br><br>this time
+大学;だいがく<br><br>university, college
+池;いけ<br><br>pond
+色;いろ<br><br>color, colour
+学生;がくせい<br><br>student
+肉;にく<br><br>meat
+来る;くる<br><br>to come
+草;くさ<br><br>grass
+外来;がいらい<br><br>imported, foreign
+雨;あめ<br><br>rain
+北西;ほくせい<br><br>northwest
+谷;たに<br><br>valley
+今まで;いままで<br><br>until now, up to now, so far
+何年;なんねん<br><br>what year, how many years
+声;こえ<br><br>voice
+何;なに, なん<br><br>what
+毛糸;けいと<br><br>wool yarn, yarn
+作文;さくぶん<br><br>composition, writing, essay
+来年;らいねん<br><br>next year
+〜回;かい<br><br>times, number of times, time
+工学;こうがく<br><br>engineering
+毎日;まいにち<br><br>every day, daily
+売り上げ;うりあげ<br><br>amount sold, sales
+金玉;きんたま<br><br>testicles
+近日;きんじつ<br><br>soon, in a few days, coming days
+一回;いっかい<br><br>one time, once
+麦;むぎ<br><br>wheat, barley, oats
+売る;うる<br><br>to sell
+体内;たいない<br><br>internal, within the body, inside the body
+毎月;まいげつ, まいつき<br><br>every month, monthly
+音;おと<br><br>sound
+金;きん, かね<br><br>gold
+会社;かいしゃ<br><br>company, corporation, the office
+自分;じぶん<br><br>oneself, myself, self
+本当;ほんとう<br><br>reality, truth
+社内;しゃない<br><br>within the company, in house, inside the company, inside a company, in the company, within a company
+万人;ばんにん<br><br>all people, everybody
+入学;にゅうがく<br><br>school admission, entry into school, admission into school, school entry, entering a school
+学年;がくねん<br><br>school grade, grade in school, school year, year in school
+空車;くうしゃ<br><br>open taxi, free taxi, open cab, free cab, available taxi, vacant taxi, available cab, vacant cab
+本社;ほんしゃ<br><br>headquarters, hq, head office, company headquarters
+羽;はね<br><br>feathers, feather, wing, wings
+大声;おおごえ<br><br>large voice, loud voice, big voice
+図;ず<br><br>diagram
+里心;さとごころ<br><br>homesick, homesickness
+今すぐ;いますぐ<br><br>at once, right now, immediately, right away
+同じ;おなじ<br><br>same
+男の人;おとこのひと<br><br>man
+大会;たいかい<br><br>convention, tournament, meetup, event
+体力;たいりょく<br><br>physical strength, physical power
+何人;なんにん<br><br>how many people
+何回;なんかい<br><br>how many times
+何日;なんにち<br><br>how many days, what day, which day
+何月;なんがつ<br><br>what month, which month
+光;ひかり<br><br>light, sunlight
+日光;にっこう<br><br>sunlight
+同日;どうじつ<br><br>same day, the same day
+月光;げっこう<br><br>moonlight, moonbeam
+光年;こうねん<br><br>light year
+何千;なんぜん<br><br>thousands
+林;はやし<br><br>forest, woods
+体;からだ<br><br>body
+交ぜる;まぜる<br><br>to mix, to mix something
+会う;あう<br><br>to meet, to encounter
+作る;つくる<br><br>to make, to build, to create
+作用;さよう<br><br>action, effect, operation
+工作;こうさく<br><br>construction
+売り切れ;うりきれ<br><br>sold out, out of stock
+売り手;うりて<br><br>seller, vendor
+多い;おおい<br><br>many, much, lots of
+多分;たぶん<br><br>maybe, perhaps, probably
+学ぶ;まなぶ<br><br>to learn, to study in depth, to study
+兄弟;きょうだい<br><br>siblings, brothers and sisters
+弟;おとうと<br><br>younger brother, little brother
+当たる;あたる<br><br>to be on target, to hit, to touch, to guess correctly, to guess right, to be right, to hit the target
+古来;こらい<br><br>ancient
+年来;ねんらい<br><br>for some years, for years, longstanding
+毎回;まいかい<br><br>every time, each time
+毎年;まいとし, まいねん<br><br>every year, yearly, annually, each year
+男の子;おとこのこ<br><br>boy
+入社;にゅうしゃ<br><br>joining a company, joining the company
+公社;こうしゃ<br><br>public corporation, public company
+空;そら<br><br>sky
+毛虫;けむし<br><br>caterpillar
+米;こめ<br><br>rice
+考え;かんがえ<br><br>thought, a thought
+考える;かんがえる<br><br>to think about, to consider, to give thought
+考え方;かんがえかた<br><br>way of thinking, thought process
+牛肉;ぎゅうにく<br><br>beef
+皮肉;ひにく<br><br>irony, sarcasm
+自立;じりつ<br><br>independence
+水色;みずいろ<br><br>sky blue, light blue, light blue color, light blue colour, sky blue color, sky blue colour
+色々;いろいろ<br><br>various
+行き;ゆき, いき<br><br>train direction, bound for
+行く;いく<br><br>to go
+西;にし<br><br>west
+三角;さんかく<br><br>triangle
+四角;しかく<br><br>square
+言う;いう<br><br>to say
+走行;そうこう<br><br>traveling, travelling
+近い;ちかい<br><br>close, nearby, near
+里;さと<br><br>home village, village, one's parents' home, home town, hometown
+青い;あおい<br><br>blue, unripe
+青年;せいねん<br><br>youth, young man
+会;かい<br><br>meeting, assembly, party
+空気;くうき<br><br>atmosphere, air
+大体;だいたい<br><br>general, approximate, outline, gist
+大作;たいさく<br><br>an epic, epic, epic saga, masterpiece, masterwork, magnum opus
+走る;はしる<br><br>to run
+休学;きゅうがく<br><br>absent from school, absence from school, school absence
+当たり;あたり<br><br>a success, success, hit, guess
+〜形;けい<br><br>form, tense
+角;かく, かど<br><br>angle, corner
+回る;まわる<br><br>to revolve, to go around, to rotate
+一生;いっしょう<br><br>whole life, entire life, a lifetime, all through life, one existence, a generation, an age
+生える;はえる<br><br>to grow, to spring up, to sprout, to come out
+来月;らいげつ<br><br>next month
+仕草;しぐさ<br><br>action, acting, gesture, bearing, treatment, behavior, behaviour, movement
+外交;がいこう<br><br>diplomacy
+生まれ;うまれ<br><br>birthplace, birth
+文学;ぶんがく<br><br>literature
+お金;おかね<br><br>money
+近年;きんねん<br><br>recent years
+行う;おこなう<br><br>to carry out a task, to carry out, to perform, to perform a task, to do a task
+下町;したまち<br><br>downtown, backstreets

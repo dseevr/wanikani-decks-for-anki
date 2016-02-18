@@ -1,0 +1,599 @@
+#front;back
+顔面;がんめん<br><br>face of a person, person's face, face
+箱;はこ<br><br>box
+仏典;ぶってん<br><br>buddhist scriptures, buddhist writing
+証明;しょうめい<br><br>proof, verification
+折り目;おりめ<br><br>fold, crease
+外面;がいめん<br><br>exterior
+遠い;とおい<br><br>far, far away
+不完全;ふかんぜん<br><br>incomplete, imperfect
+折り紙;おりがみ<br><br>origami, art of paper folding
+園;えん, その<br><br>garden, park
+保証;ほしょう<br><br>guarantee
+阪神;はんしん<br><br>hanshin
+保険;ほけん<br><br>insurance
+私立大学;しりつだいがく<br><br>private college, private university
+画面;がめん<br><br>screen, monitor
+〜弁;べん<br><br>dialect
+関西;かんさい<br><br>kansai
+作品;さくひん<br><br>a work, work, production
+仮面;かめん<br><br>mask
+生保;せいほ<br><br>life insurance
+証人;しょうにん<br><br>witness
+前面;ぜんめん<br><br>front, front side
+面;めん<br><br>surface, face
+笑顔;えがお<br><br>smile, smiling face
+急に;きゅうに<br><br>suddenly, immediately, abruptly
+残す;のこす<br><br>to leave behind, to leave over
+証言;しょうげん<br><br>testimony
+希望する;きぼうする<br><br>to request, to wish
+要求する;ようきゅうする<br><br>to demand
+関する;かんする<br><br>to be connected to, to be related
+妥協する;だきょうする<br><br>to compromise
+存じる;ぞんじる<br><br>to know, to be aware of
+笑う;わらう<br><br>to laugh
+真実;しんじつ<br><br>truth, reality
+生存;せいぞん<br><br>existence, life, survival
+急ぐ;いそぐ<br><br>to hurry
+美術館;びじゅつかん<br><br>museum, art museum, art gallery
+急;きゅう<br><br>urgent, sudden, abrupt
+危険;きけん<br><br>risky, unsafe, dangerous, danger, peril, hazard
+保守的;ほしゅてき<br><br>conservative
+特急;とっきゅう<br><br>limited express train, limited express
+政治;せいじ<br><br>politics, government
+ゴミ箱;ごみばこ, ゴミばこ<br><br>garbage can, garbage bin, trash can, trash bin, waste can, waste bin, rubbish bin
+真っ黒;まっくろ<br><br>pitch black, pure black
+冒険;ぼうけん<br><br>adventure
+公園;こうえん<br><br>public park, park
+保存;ほぞん<br><br>preserve, preservation, conservation
+専門;せんもん<br><br>specialty, speciality, area of study, major
+自動車;じどうしゃ<br><br>automobile
+商品;しょうひん<br><br>merchandise
+不幸;ふこう<br><br>unhappiness, misfortune
+料理人;りょうりにん<br><br>a cook, cook, chef
+入門;にゅうもん<br><br>admission, entrance
+弁当;べんとう<br><br>bento, box lunch
+字典;じてん<br><br>character dictionary, kanji dictionary
+関係;かんけい<br><br>connection, relation
+辞書;じしょ<br><br>dictionary
+残品;ざんぴん<br><br>unsold merchandise, remaining stock, unsold stock, remaining merchandise, unsold product, remaining product
+取る;とる<br><br>to take
+急行;きゅうこう<br><br>express
+固める;かためる<br><br>to make hard, to harden
+地面;じめん<br><br>ground, earth's surface
+不治;ふじ, ふち <br><br>incurability, incurable
+写真;しゃしん<br><br>photo, photograph, picture
+日光浴;にっこうよく<br><br>sunbathe
+浴びる;あびる<br><br>to bathe
+東京弁;とうきょうべん<br><br>tokyo dialect
+幸福;こうふく<br><br>happiness
+仏像;ぶつぞう<br><br>image of buddha
+幸せ;しあわせ<br><br>happiness
+門;もん<br><br>gate
+食料品;しょくりょうひん<br><br>groceries
+教科書;きょうかしょ<br><br>textbook
+辞典;じてん<br><br>dictionary, lexicon
+技術;ぎじゅつ<br><br>art, craft, technique
+係わる;かかわる<br><br>to be involved with, to be connected with, to be affected, to have to do with
+保持;ほじ<br><br>retention, maintenance, preservation
+保つ;たもつ<br><br>to preserve, to keep, to maintain
+古典的;こてんてき<br><br>classical
+事典;じてん<br><br>encyclopedia
+冗談;じょうだん<br><br>joke
+卒業する;そつぎょうする<br><br>to graduate
+卒業式;そつぎょうしき<br><br>graduation ceremony, graduation
+品;ひん, しな<br><br>article, item, goods
+新品;しんぴん<br><br>brand new, new item, new product
+喜ぶ;よろこぶ<br><br>to rejoice, to become happy
+守る;まもる<br><br>to protect, to defend
+留守;るす<br><br>absence, away from home
+政府;せいふ<br><br>government
+急死;きゅうし<br><br>sudden death
+曜日;ようび<br><br>day of the week, weekday
+治す;なおす<br><br>to cure, to heal
+全治;ぜんじ, ぜんち<br><br>complete recovery, healed, fully recovered, fully recover, healed completely, heal completely, completely cured, fully cured, fully healed
+明治;めいじ<br><br>meiji era, meiji emperor, meiji
+留学;りゅうがく<br><br>study abroad, studying abroad
+自動的;じどうてき<br><br>automatic
+証;あかし<br><br>evidence, proof
+大阪;おおさか<br><br>osaka, oosaka
+図書館;としょかん<br><br>library
+芸術家;げいじゅつか<br><br>artist
+辞める;やめる<br><br>to quit, to resign
+世辞;せじ<br><br>flattery, compliment
+書く;かく<br><br>to write
+関心;かんしん<br><br>concern, interest
+基本的;きほんてき<br><br>fundamentals, basics, fundamental, standard, basic
+記念日;きねんび<br><br>holiday, anniversary, memorial day
+動物園;どうぶつえん<br><br>zoo, zoological gardens, menagerie
+私自身;わたしじしん, わたくしじしん<br><br>personally, as for me, myself
+荷物;にもつ<br><br>luggage, baggage, load
+場面;ばめん<br><br>scene, setting, locale
+幸運;こううん<br><br>good luck, fortune
+危ない;あぶない<br><br>dangerous
+遠く;とおく<br><br>far away, distant, at a distance, distant place, by far
+下品;げひん<br><br>crude, vulgarity
+面白い;おもしろい<br><br>interesting, amusing, funny
+折れる;おれる<br><br>to break, to snap, to fracture
+治安;ちあん<br><br>public order, public safety, public peace
+不合格;ふごうかく<br><br>fail a test, failure, fail an exam
+愛国心;あいこくしん<br><br>patriotism
+無理;むり<br><br>impossible, unreasonable, overdoing
+愛;あい<br><br>love
+署名;しょめい<br><br>signature
+泣き虫;なきむし<br><br>crybaby
+泣き声;なきごえ<br><br>crying, sob
+外交官;がいこうかん<br><br>diplomat
+水兵;すいへい<br><br>navy soldier, naval soldier, seaman
+左側;ひだりがわ<br><br>left side
+塩;しお<br><br>salt
+席;せき<br><br>seat
+幻覚;げんかく<br><br>hallucination
+干渉;かんしょう<br><br>interference, intervention
+結果;けっか<br><br>result
+主因;しゅいん<br><br>main cause, primary cause
+果物;くだもの<br><br>fruit
+兵士;へいし<br><br>soldier
+意識;いしき<br><br>consciously, awareness, consciousness
+仮説;かせつ<br><br>hypothesis
+鼻;はな<br><br>nose
+両側;りょうがわ<br><br>both sides
+是非;ぜひ<br><br>absolutely, by all means
+無茶;むちゃ<br><br>absurd, rash, excessive
+建つ;たつ<br><br>to be erected, to be built
+無名;むめい<br><br>anonymous
+底;そこ<br><br>bottom
+食堂;しょくどう<br><br>cafeteria, dining hall
+非常;ひじょう<br><br>emergency
+性愛;せいあい<br><br>sexual love
+兵器;へいき<br><br>arms, weapons
+悪因悪果;あくいんあっか<br><br>evil breeds evil, evil begets evil
+幻想;げんそう<br><br>fantasy, illusion
+説明;せつめい<br><br>explanation
+栄光;えいこう<br><br>glory
+官金;かんきん<br><br>government funds, government money
+薬物;やくぶつ<br><br>medicines, drugs
+無知;むち<br><br>ignorance
+知識;ちしき<br><br>knowledge, information
+小説;しょうせつ<br><br>novel
+梅酒;うめしゅ<br><br>ume wine, plum wine, plum liquor, umeshu
+恋愛;れんあい<br><br>love
+察知;さっち<br><br>inference, infer, sense
+空席;くうせき<br><br>open seat, empty seat, free seat
+交渉;こうしょう<br><br>negotiation
+無力;むりょく<br><br>powerless, powerlessness, helplessness
+原作;げんさく<br><br>original work
+警察;けいさつ<br><br>police
+右側;みぎがわ<br><br>right side
+塩水;しおみず<br><br>salt water
+自愛;じあい<br><br>self love, selfishness
+薬方;やくほう<br><br>prescription
+感覚;かんかく<br><br>senses, the senses
+西側;にしがわ<br><br>west side
+察する;さっする<br><br>to guess, to sense, to presume
+梅;うめ<br><br>ume, japanese plum
+兵;へい<br><br>soldier, army, troops
+愛知県;あいちけん<br><br>aichi prefecture
+側;がわ, そば<br><br>side, side of something, part
+出席;しゅっせき<br><br>attendance
+勝敗;しょうはい<br><br>victory or defeat
+イギリス人;いぎりすじん, イギリスじん<br><br>british person, english person
+願い事;ねがいごと<br><br>one's wish, prayer, wish
+日常;にちじょう<br><br>everyday life, normal life, daily life, ordinary, regular, everyday, usual
+虚弱;きょじゃく<br><br>weak, feeble, weakness, feebleness
+愛人;あいじん<br><br>lover, mistress
+結局;けっきょく<br><br>after all, eventually, in the end
+失恋;しつれん<br><br>heartbreak, broken heart
+鼻くそ;はなくそ<br><br>snot, boogers
+原子;げんし<br><br>atom
+鼻先;はなさき<br><br>tip of the nose, tip of nose, nose tip
+川底;かわぞこ<br><br>riverbed, river bottom
+外側;そとがわ<br><br>outside
+薬学;やくがく<br><br>study of pharmacy, pharmacology, pharmaceutics
+薬;くすり<br><br>medicine, drug, drugs
+欠席;けっせき<br><br>absence, nonattendance
+干天;かんてん<br><br>dry weather, drought
+光栄;こうえい<br><br>honor, privilege
+鼻歌;はなうた<br><br>humming
+塩味;しおあじ<br><br>salty taste, tastes salty, salty, salty flavor
+栄える;さかえる<br><br>to flourish, to prosper
+愛情;あいじょう<br><br>love, affection
+原因;げんいん<br><br>cause, origin, source
+内側;うちがわ<br><br>inside
+東側;ひがしがわ<br><br>east side
+兵員;へいいん<br><br>military personnel, military strength
+内因;ないいん<br><br>internal cause, actual reason
+常に;つねに<br><br>ordinarily, always, usually
+常識;じょうしき<br><br>common sense, common knowledge
+干す;ほす<br><br>to dry
+幻;まぼろし<br><br>illusion, phantom
+心底;しんそこ<br><br>bottom of one's heart, bottom of my heart
+建築家;けんちくか<br><br>architect
+建物;たてもの<br><br>building
+恋;こい<br><br>love, lust
+敗れる;やぶれる<br><br>to be defeated, to be unsuccessful
+失敗;しっぱい<br><br>failure, mistake
+敗者;はいしゃ<br><br>loser, the defeated
+無休;むきゅう<br><br>no holidays, always open
+無事;ぶじ<br><br>safe and sound, safe
+無料;むりょう<br><br>free, without charge
+紀元前;きげんぜん<br><br>before christ, bc, bce, before common era
+細い;ほそい<br><br>thin, slender
+薬用;やくよう<br><br>medicinal
+虚栄心;きょえいしん<br><br>vanity
+自覚;じかく<br><br>consciousness, awareness, realization
+図説;ずせつ<br><br>illustration, explanatory diagram
+朝ご飯;あさごはん<br><br>breakfast
+鼻血;はなぢ, はなじ<br><br>nosebleed, bloody nose
+不味い;まずい<br><br>bad tasting, unappetizing, unskillful
+勇む;いさむ<br><br>to be encouraged, to be lively, to be in high spirits, to cheer up, to be excited, to be inspired
+無し;なし<br><br>without, with no
+昼ご飯;ひるごはん<br><br>lunch
+晩ご飯;ばんごはん<br><br>dinner, supper
+変わる;かわる<br><br>to be changed, to be transformed, to be altered, to vary, to be turned
+無言;むごん<br><br>silence
+米兵;べいへい<br><br>us soldier, american soldier
+完結;かんけつ<br><br>conclusion, completion, ending, consummation
+愛する;あいする<br><br>to love
+相変わらず;あいかわらず<br><br>as usual, as ever, the same, as before
+伝説;でんせつ<br><br>legend
+建前;たてまえ<br><br>public behavior, public behaviour, official stance, public position, public face, tatemae
+果てる;はてる<br><br>to end, to be finished, to be exhausted, to die
+一昨日;おととい, いっさくじつ<br><br>day before last, day before yesterday
+虚しい;むなしい<br><br>empty, vacant, futile, vain
+禅僧;ぜんそう<br><br>zen priest
+書き方;かきかた<br><br>penmanship, way of writing, manner of writing
+座る;すわる<br><br>to sit
+〜達;たち<br><br>pluralizing suffix
+夕焼け;ゆうやけ<br><br>sunset
+公告;こうこく<br><br>public notice, public announcement
+お笑い;おわらい<br><br>comedian, comical thing, comical, funny
+落書き;らくがき<br><br>graffiti, scribble, sketch
+達人;たつじん<br><br>master, expert
+報道;ほうどう<br><br>news report
+祈念;きねん<br><br>prayer, a prayer
+切り取る;きりとる<br><br>to cut off, to cut out
+黒煙;こくえん<br><br>black smoke
+保持する;ほじする<br><br>to maintain, to preserve
+枚数;まいすう<br><br>number of sheets, number of flat objects
+達する;たっする<br><br>to attain, to reach, to get to, to arrive at
+予告;よこく<br><br>advance notice, forward notice, prior notice
+報告;ほうこく<br><br>report, information
+借りる;かりる<br><br>to borrow
+弓道;きゅうどう<br><br>archery, kyudo, kyuudou
+訓読み;くんよみ<br><br>kun'yomi, kun reading, japanese reading
+笑い;わらい<br><br>a laugh, laugh
+弓;ゆみ<br><br>bow
+脳死;のうし<br><br>brain death, brain dead
+洗車;せんしゃ<br><br>car wash
+借用;しゃくよう<br><br>borrowing, loan
+脳;のう<br><br>brain
+脳みそ;のうみそ<br><br>brains, gray matter
+洗脳;せんのう<br><br>brainwashing
+分類;ぶんるい<br><br>classification
+上品;じょうひん<br><br>elegant
+借金;しゃっきん<br><br>debt
+等号;とうごう<br><br>equal sign, equals sign
+留学生;りゅうがくせい<br><br>exchange student
+体験;たいけん<br><br>experience
+書き入れる;かきいれる<br><br>to write in, to fill in
+五枚;ごまい<br><br>five flat objects, five sheets
+不可欠;ふかけつ<br><br>indispensable, essential
+不等;ふとう<br><br>inequality, disparity
+汽船;きせん<br><br>steam ship, steam boat
+日曜日;にちようび<br><br>sunday
+取り出す;とりだす<br><br>to pick out, to take out, to retrieve
+水曜日;すいようび<br><br>wednesday
+人種;じんしゅ<br><br>race of people, race
+喫煙;きつえん<br><br>smoking
+僧院;そういん<br><br>temple, monastery
+可能;かのう<br><br>possible
+静止;せいし<br><br>still, standstill, at rest, stationary
+配達する;はいたつする<br><br>to deliver
+忘れる;わすれる<br><br>to forget
+訓練;くんれん<br><br>training
+報じる;ほうじる<br><br>to report on
+試みる;こころみる<br><br>to try, to attempt
+日焼け;ひやけ<br><br>sunburn
+胸;むね<br><br>chest, breasts
+静か;しずか<br><br>quiet
+土曜日;どようび<br><br>saturday
+禁句;きんく<br><br>taboo word, taboo phrase, dirty word, bad word
+試験;しけん<br><br>examination, test, experiment, exam
+忘年会;ぼうねんかい<br><br>year end party, end of year party
+焼き鳥;やきとり<br><br>roast chicken, cooked chicken, yakitori
+借家;しゃくや, しゃっか<br><br>renting a house, house for rent, rented house
+焼き肉;やきにく<br><br>roast meat, grilled meat, cooked meat, yakiniku
+皿洗い;さらあらい<br><br>dishwashing, dishwasher, washing the dishes, washing dishes
+文句;もんく<br><br>complaint
+試食;ししょく<br><br>sample, taste, food sample
+木曜日;もくようび<br><br>thursday
+何枚;なんまい<br><br>how many flat objects, how many sheets
+葉書;はがき<br><br>postcard
+関西弁;かんさいべん<br><br>kansai dialect
+教訓;きょうくん<br><br>lesson, moral
+辞書形;じしょけい<br><br>dictionary form
+試合;しあい<br><br>game, match
+〜枚;まい<br><br>flat object, clothing items, sheets
+可分;かぶん<br><br>divisible, separable
+座席;ざせき<br><br>seat
+証明書;しょうめいしょ<br><br>certificate, credentials
+取り分け;とりわけ<br><br>especially
+予報;よほう<br><br>forecast
+情報;じょうほう<br><br>information, data
+大阪弁;おおさかべん<br><br>osaka dialect
+汽車;きしゃ<br><br>steam train, steam engine train, steam engine
+許す;ゆるす<br><br>to permit, to forgive, to allow
+取れる;とれる<br><br>to come off, to be removed, to fall off
+受験;じゅけん<br><br>take an exam, take an examination, take a test, taking an exam, taking an examination, taking a test
+親類;しんるい<br><br>relatives
+祈願;きがん<br><br>prayer, a prayer
+私大;しだい<br><br>private college, private university, private uni
+取材;しゅざい<br><br>covering an event, collecting data, data collection
+正座;せいざ<br><br>seiza, traditional japanese sitting
+仏僧;ぶっそう<br><br>buddhist priest
+取決め;とりきめ<br><br>arrangement, agreement
+可愛い;かわいい<br><br>cute
+許可;きょか<br><br>permission
+告白;こくはく<br><br>confession
+告げる;つげる<br><br>to announce, to tell
+喫茶店;きっさてん<br><br>tea house, cafe, coffee house, coffee shop
+お守り;おまもり<br><br>charm, amulet
+留守番;るすばん<br><br>caretaker, housesitting, looking after one's house
+座禅;ざぜん<br><br>zen meditation
+銀座;ぎんざ<br><br>ginza
+駅弁;えきべん<br><br>train station bento, station bento
+金曜日;きんようび<br><br>friday
+月曜日;げつようび<br><br>monday
+火曜日;かようび<br><br>tuesday
+下書き;したがき<br><br>rough draft
+書き直す;かきなおす<br><br>to rewrite
+洗う;あらう<br><br>to wash
+洗練;せんれん<br><br>refinement, polish
+煙;けむり<br><br>smoke
+祈る;いのる<br><br>to pray
+禁煙;きんえん<br><br>no smoking
+禁止;きんし<br><br>forbidden, prohibition, ban
+等しい;ひとしい<br><br>equal, similar, equivalent
+一等;いっとう<br><br>first class, first rank, the best
+手荷物;てにもつ<br><br>hand baggage, hand luggage, cabin baggage, carry on
+試す;ためす<br><br>to attempt, to try out, to test, to test the limits, to try
+友達;ともだち<br><br>friend, companion
+伝達;でんたつ<br><br>transmission, transmit, convey
+平静;へいせい<br><br>calm, serene, tranquil
+書類;しょるい<br><br>document
+人類;じんるい<br><br>mankind, race of people, humanity, humankind
+種類;しゅるい<br><br>kind, type
+実験;じっけん<br><br>experiment
+大丈夫;だいじょうぶ<br><br>safe, all right, okay
+警告;けいこく<br><br>warning, advice, caution
+広告;こうこく<br><br>advertisement, ad, advert
+幸い;さいわい<br><br>happiness, luck, fortune
+喜び;よろこび<br><br>joy, delight, glee, rapture, pleasure, satisfaction, gratification, rejoicing, congratulations
+固まる;かたまる<br><br>to harden, to solidify, to become firm, to become certain
+禅寺;ぜんでら, ぜんじ<br><br>zen temple
+子守歌;こもりうた<br><br>lullaby
+高等;こうとう<br><br>high class, high grade
+対等;たいとう<br><br>equality, equal
+禁じる;きんじる<br><br>to prohibit
+焼く;やく<br><br>to bake, to cook, to burn
+猫舌;ねこじた<br><br>aversion to hot foods
+順位;じゅんい<br><br>ranking, standing
+細かい;こまかい<br><br>detailed, small, fine, trivial
+易しい;やさしい<br><br>easy, simple to do
+暴れる;あばれる<br><br>to act violently, to rage
+二枚舌;にまいじた<br><br>forked tongue
+続く;つづく<br><br>to continue
+絡む;からむ<br><br>to get entangled, to be entangled
+三冊;さんさつ<br><br>three books, three volumes
+若者;わかもの<br><br>young person
+一冊;いっさつ<br><br>one book, one volume
+〜冊;さつ<br><br>books counter, counter for books, books
+得;とく<br><br>benefit, profit, advantage, gain
+布;ぬの<br><br>cloth, fabric
+善悪;ぜんあく<br><br>good and evil
+季節;きせつ<br><br>season
+毛布;もうふ<br><br>blanket
+入団;にゅうだん<br><br>join, enlist, enrollment, enlistment
+容疑;ようぎ<br><br>suspicion, suspect
+覚える;おぼえる<br><br>to memorize, to remember, to memorise, to learn, to pick up
+歴史;れきし<br><br>history
+容易;ようい<br><br>ease, easily, easy, simple
+多忙;たぼう<br><br>busy, pressure of work
+若い;わかい<br><br>young
+借財;しゃくざい<br><br>debt
+数詞;すうし<br><br>numeral, number word
+席順;せきじゅん<br><br>seating order
+集団;しゅうだん<br><br>group, crowd
+年代順;ねんだいじゅん<br><br>chronological order
+順番;じゅんばん<br><br>order, one's turn
+舌;した<br><br>tongue
+汽笛;きてき<br><br>steam whistle
+形容詞;けいようし<br><br>adjective
+加える;くわえる<br><br>to add
+混乱;こんらん<br><br>confusion
+内容;ないよう<br><br>contents
+対比;たいひ<br><br>contrast, comparison
+非常に;ひじょうに<br><br>very, extremely, exceedingly
+助詞;じょし<br><br>grammar particle, particle, postposition
+自動詞;じどうし<br><br>intransitive verb
+名詞;めいし<br><br>noun
+原子力;げんしりょく<br><br>nuclear power, nuclear energy, atomic power, atomic energy
+節句;せっく<br><br>seasonal festival
+改善;かいぜん<br><br>improvement, betterment
+改正;かいせい<br><br>revision
+暴走;ぼうそう<br><br>run wild, run out of control
+私財;しざい<br><br>private funds, own funds, private property, personal funds
+困る;こまる<br><br>to be distressed, to be troubled
+財布;さいふ<br><br>wallet, purse, handbag
+動詞;どうし<br><br>verb
+暴力;ぼうりょく<br><br>violence, force
+減法;げんぽう<br><br>subtraction
+別冊;べっさつ<br><br>separate volume
+仏徒;ぶっと<br><br>buddhist
+非常口;ひじょうぐち<br><br>emergency exit
+小さい順;ちいさいじゅん<br><br>increasing order, ascending order, smallest first
+無意識;むいしき<br><br>unconsciously, involuntary, unconsciousness
+宙;ちゅう<br><br>space, air, midair
+警察署;けいさつしょ<br><br>police station
+連絡する;れんらくする<br><br>to contact, to get in touch, to get in contact
+説明書;せつめいしょ<br><br>written explanation, instructions
+八冊;はっさつ<br><br>eight books, eight volumes
+続々;ぞくぞく<br><br>one after another, successively, in succession
+品詞;ひんし<br><br>part of speech
+混ぜる;まぜる<br><br>to mix, to mix something, to stir, to stir something, to blend, to blend something
+乱戦;らんせん<br><br>melee, free for all
+いい加減;いいかげん<br><br>pointless, unfounded, irresponsible, careless
+果たして;はたして<br><br>as was expected, just as i thought, as expected
+笛;ふえ<br><br>flute, whistle
+乱れる;みだれる<br><br>to be in disorder, to be disordered
+乱交;らんこう<br><br>orgy, promiscuity
+参加;さんか<br><br>participation
+宇宙;うちゅう<br><br>outer space, space, universe
+警官;けいかん<br><br>police officer, policeman, cop
+履歴書;りれきしょ<br><br>personal history, resume, resumé, curriculum vitae, cv
+履く;はく<br><br>to put on shoes, to put on pants, to put on boots
+忙しい;いそがしい<br><br>busy
+若布;わかめ<br><br>wakame, wakame seaweed
+布団;ふとん<br><br>futon, bedding, sleeping mat
+生徒;せいと<br><br>follower, pupil, student
+信徒;しんと<br><br>believer, follower
+得る;える<br><br>to acquire, to gain, to obtain
+得意;とくい<br><br>good at, skilled at, strong point, specialty, forte
+説得;せっとく<br><br>persuasion
+恋人;こいびと<br><br>lover
+大失敗;だいしっぱい<br><br>total failure, huge mistake, big mistake, debacle, massive failure, epic fail
+昆布;こんぶ<br><br>konbu, kombu, konbu seaweed, kombu seaweed
+乱暴;らんぼう<br><br>violence
+梅干;うめぼし<br><br>pickled plums, pickled ume, umeboshi
+比べる;くらべる<br><br>to compare
+比例;ひれい<br><br>proportion, ratio
+混ざる;まざる<br><br>to get mixed, to be mixed, to be blended with
+減る;へる<br><br>to be decreased, to get decreased, to decrease
+若々しい;わかわかしい<br><br>youthful
+歌詞;かし<br><br>song lyrics, lyrics
+財閥;ざいばつ<br><br>plutocrats, financial clique, zaibatsu
+連続;れんぞく<br><br>a series, series
+大きい順;おおきいじゅん<br><br>decreasing order, descending order, largest first
+五十音順;ごじゅうおんじゅん<br><br>aiueo order, in aiueo order
+改まる;あらたまる<br><br>to be renewed, to be formal
+連日;れんじつ<br><br>every day, day after day, for days on end, daily, prolonged
+連れる;つれる<br><br>to take along, to bring with, to bring a person, to lead
+混血;こんけつ<br><br>mixed race, mixed parentage
+学歴;がくれき<br><br>academic history, academic background, academic record
+関連;かんれん<br><br>relation, connection, relevance, correlation, association
+連中;れんちゅう, れんぢゅう, れんじゅう<br><br>colleagues, company, these guys, troupe
+在留;ざいりゅう<br><br>residence
+可能性;かのうせい<br><br>possibility
+お尻;おしり<br><br>butt
+会議;かいぎ<br><br>meeting, conference, assembly
+借り手;かりて<br><br>borrower
+飛行機;ひこうき<br><br>airplane, aeroplane, aircraft
+穴場;あなば<br><br>hole in the wall, little known good place
+嫌疑;けんぎ<br><br>suspicion
+議論;ぎろん<br><br>argument
+倒産;とうさん<br><br>bankruptcy
+留守番電話;るすばんでんわ<br><br>answering machine
+嫌;いや<br><br>dislike, eww, ew, gross
+立入禁止;たちいりきんし<br><br>do not enter, no entry, entry prohibited, no trespassing, trespassing prohibited
+人達;ひとたち<br><br>people
+罪;つみ<br><br>sin, crime
+弓矢;ゆみや<br><br>bow and arrow
+妻子;さいし<br><br>wife and kids, wife and children
+防ぐ;ふせぐ<br><br>to defend, to protect against, to prevent
+読者;どくしゃ<br><br>reader
+災い;わざわい<br><br>personal disaster, personal misfortune
+犯人;はんにん<br><br>criminal
+非難;ひなん<br><br>criticism
+被害;ひがい<br><br>damage, harm, injury
+有罪;ゆうざい<br><br>guilty
+危機;きき<br><br>crisis
+経験;けいけん<br><br>experience
+人類学;じんるいがく<br><br>anthropology
+血圧;けつあつ<br><br>blood pressure
+余震;よしん<br><br>aftershock
+防止;ぼうし<br><br>prevention
+鼻の穴;はなのあな<br><br>nostril, nose hole
+飛ぶ;とぶ<br><br>to fly, to jump
+地震;じしん<br><br>earthquake
+経験者;けいけんしゃ<br><br>experienced person
+震度;しんど<br><br>earthquake intensity, earthquake magnitude, magnitude, earthquake scale
+水害;すいがい<br><br>flood damage, water damage
+無害;むがい<br><br>harmless
+穴;あな<br><br>hole
+火災;かさい<br><br>fire disaster
+正確;せいかく<br><br>accurate, precise, exact
+忘れ物;わすれもの<br><br>forgotten item, something forgotten, forgotten thing, lost property
+夫妻;ふさい<br><br>husband and wife
+存在;そんざい<br><br>existence
+機械;きかい<br><br>machine, mechanism
+煙い;けむい<br><br>smoky
+在外;ざいがい<br><br>overseas, abroad
+機嫌;きげん<br><br>mood
+比率;ひりつ<br><br>percentage, ratio
+災難;さいなん<br><br>misfortune, calamity, disaster
+悪夢;あくむ<br><br>nightmare, bad dream
+一個;いっこ<br><br>one small thing, one thing, one small object, one object
+機;き<br><br>machine, chance, opportunity
+手洗い;てあらい<br><br>hand washing, bathroom, restroom, lavatory, washing the hands
+個人;こじん<br><br>personal, individual
+個室;こしつ<br><br>private room, one's own room
+厚い;あつい<br><br>thick
+静々;しずしず<br><br>quietly, calmly
+公害;こうがい<br><br>pollution
+一夫多妻;いっぷたさい<br><br>polygamy
+予防;よぼう<br><br>prevention, prevent
+確率;かくりつ<br><br>probability
+実在;じつざい<br><br>reality, real existence
+余裕;よゆう<br><br>surplus, leeway, room
+文句する;もんくする<br><br>to complain
+犯す;おかす<br><br>to commit a crime, to perpetrate
+残余;ざんよ<br><br>remainder, residual
+経つ;たつ<br><br>to pass, to expire
+妨げる;さまたげる<br><br>to obstruct, to prevent, to hamper
+妨害;ぼうがい<br><br>obstruction, interference
+防水;ぼうすい<br><br>waterproof, watertight
+裕福;ゆうふく<br><br>wealth
+面倒;めんどう<br><br>trouble, difficulty
+議会;ぎかい<br><br>diet, the diet, congress, parliament
+防火;ぼうか<br><br>fire prevention, fire fighting, fire proof
+臭い;くさい<br><br>stinky, stinking, to be stinky, smelly, to be smelly
+確かに;たしかに<br><br>certain, probable, surely, certainly
+夢中;むちゅう<br><br>crazy about, absorption, mad about
+余る;あまる<br><br>to be in surplus, to remain left over, to exceed, to surplus, to be in excess
+論文;ろんぶん<br><br>essay, thesis
+難しい;むずかしい<br><br>difficult, hard
+三個;さんこ<br><br>three small things, three things, three objects, three small objects
+困難;こんなん<br><br>hardship, difficulty
+自在;じざい<br><br>freely, at will
+天気予報;てんきよほう<br><br>weather forecast
+議長;ぎちょう<br><br>chairman, speaker
+焼ける;やける<br><br>to be cooked, to burn
+余計;よけい<br><br>unneeded, more than enough, too much, excess, unnecessary
+倒す;たおす<br><br>to knock over, to knock down, to bring down
+不可分;ふかぶん<br><br>indivisible
+圧力;あつりょく<br><br>pressure, stress
+指圧;しあつ<br><br>shiatsu, finger pressure
+夢;ゆめ<br><br>dream
+妻;つま<br><br>wife, my wife
+嫌い;きらい<br><br>to dislike, to hate, dislike, hate
+電子機器;でんしきき<br><br>electronic equipment, electronics
+災害;さいがい<br><br>natural disaster, disaster, accident
+震災;しんさい<br><br>earthquake disaster
+胸焼け;むねやけ<br><br>heartburn
+論理;ろんり<br><br>logic
+共犯者;きょうはんしゃ<br><br>accomplice
+産む;うむ<br><br>to give birth
+穴子;あなご<br><br>conger eel, anago
+犯罪;はんざい<br><br>crime
+被る;かぶる<br><br>to put on a hat, to put on, to wear a hat, to wear, to put a hat on
+音訓;おんくん<br><br>on'yomi and kun'yomi, chinese and japanese readings
+理論;りろん<br><br>theory
+不思議;ふしぎ<br><br>wonder, mystery, marvel
+入学試験;にゅうがくしけん<br><br>entrance exams, entrance examinations, admission test, admission exam, admission examination, entrance test
+会議室;かいぎしつ<br><br>conference room, council room, meeting room
+議員;ぎいん<br><br>member of the diet, diet member
+尾;お<br><br>tail
+最後尾;さいこうび<br><br>end of a line
+嫌悪;けんお<br><br>disgust, hate, repugnance
+高等学校;こうとうがっこう<br><br>senior high school

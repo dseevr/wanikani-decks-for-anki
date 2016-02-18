@@ -1,0 +1,530 @@
+#front;back
+貴重品;きちょうひん<br><br>valuables, treasures
+象牙;ぞうげ<br><br>ivory, elephant tusk
+伸びる;のびる<br><br>to be stretched, to get stretched
+降りる;おりる<br><br>to get off
+及ぶ;およぶ<br><br>to reach, to amount to
+親子丼;おやこどんぶり, おやこどん<br><br>parent and child bowl, parent and child rice bowl
+吐き気;はきけ<br><br>nausea
+奴ら;やつら<br><br>those dudes, those guys
+電磁場;でんじば<br><br>electromagnetic field
+降参する;こうさんする<br><br>to surrender
+放射能;ほうしゃのう<br><br>radioactivity, radiation
+甘党;あまとう<br><br>sweet tooth
+損害する;そんがいする<br><br>to damage
+枝豆;えだまめ<br><br>edamame, steamed soybeans
+豆腐;とうふ<br><br>tofu, toufu
+姓名;せいめい<br><br>full name
+縄;なわ<br><br>rope
+受諾;じゅだく<br><br>acceptance
+債券;さいけん<br><br>bond
+許諾;きょだく<br><br>consent
+承諾;しょうだく<br><br>consent, agreement
+諾否;だくひ<br><br>consent or refusal, yes or no
+献金;けんきん<br><br>donation, offering
+勤め;つとめ<br><br>duties
+貿易;ぼうえき<br><br>trade, commerce
+甘く見る;あまくみる<br><br>to not take seriously, to take lightly
+将来;しょうらい<br><br>future
+一般;いっぱん<br><br>general, common
+沖合;おきあい<br><br>open sea
+将軍;しょうぐん<br><br>shogun, general, commander, shougun
+復旧;ふっきゅう<br><br>restoration, recovery
+主将;しゅしょう<br><br>commander, commander in chief, team captain
+連盟;れんめい<br><br>league, federation
+核実験;かくじっけん<br><br>nuclear test, nuclear bomb test, nuclear testing
+盟約;めいやく<br><br>pledge, pact
+遺産;いさん<br><br>inheritance
+薦め;すすめ<br><br>recommendation, advice
+歌舞伎;かぶき<br><br>kabuki
+甘い;あまい<br><br>sweet
+核;かく<br><br>nucleus
+国債;こくさい<br><br>national debt, bonds
+換える;かえる<br><br>to exchange
+継父;けいふ<br><br>step father
+換気;かんき<br><br>ventilation
+変換;へんかん<br><br>conversion, change
+口紅;くちべに<br><br>lipstick
+旧姓;きゅうせい<br><br>maiden name
+奈良;なら<br><br>nara
+摘発する;てきはつする<br><br>to unmask, to expose
+津波;つなみ<br><br>tsunami, tidal wave
+医療;いりょう<br><br>medical treatment
+及第;きゅうだい<br><br>passing an exam, make the grade, passing the exam
+治療;ちりょう<br><br>medical therapy, medical treatment
+信頼;しんらい<br><br>reliance, trust
+継ぐ;つぐ<br><br>to inherit
+維持;いじ<br><br>maintenance, support
+廃止;はいし<br><br>abolition, abolishment
+献血;けんけつ<br><br>blood donation
+舞踏;ぶとう<br><br>dancing
+大将;たいしょう<br><br>general, admiral, head, leader
+馬鹿;ばか<br><br>idiot, dumb, fool, stupid, absurd
+吐き出す;はきだす<br><br>to spit out, to disgorge, to spew out
+核兵器;かくへいき<br><br>nuclear weapons
+指摘;してき<br><br>pointing out, identification
+廃れる;すたれる<br><br>to become obsolete
+踏む;ふむ<br><br>to step on, to tread on
+依存;いぞん, いそん<br><br>dependence, reliance
+舞う;まう<br><br>to dance, to flutter
+維新;いしん<br><br>restoration, meiji restoration
+超〜;ちょう<br><br>ultra, super, really
+超音波;ちょうおんぱ<br><br>ultrasonic wave
+頼む;たのむ<br><br>to ask for, to request, to entrust, to rely on
+依頼;いらい<br><br>request, entrust
+鹿児島県;かごしまけん<br><br>kagoshima prefecture
+鹿;しか<br><br>deer
+牙;きば<br><br>fang
+超自然的;ちょうしぜんてき<br><br>supernatural
+超音速;ちょうおんそく<br><br>supersonic speed
+遺体;いたい<br><br>corpse, remains
+普及;ふきゅう<br><br>diffusion
+縄文;じょうもん<br><br>jomon people, joumon people, joumon, jomon, ancient japanese
+神奈川県;かながわけん<br><br>kanagawa prefecture
+継承;けいしょう<br><br>succession, inheritance
+同盟;どうめい<br><br>alliance
+廃絶;はいぜつ<br><br>extinction
+摘む;つむ<br><br>to pluck, to pick, to prune
+幅;はば<br><br>width
+遺失;いしつ<br><br>loss
+指揮者;しきしゃ<br><br>commander
+源氏物語;げんじものがたり<br><br>tale of genji, the tale of genji
+舞台;ぶたい<br><br>stage
+遺伝;いでん<br><br>heredity
+汚い;きたない<br><br>dirty, filthy, foul, unclean
+大幅;おおはば<br><br>big, large, drastic, substantial, major
+債権;さいけん<br><br>credit, claim, debt, liabilities
+舞;まい<br><br>dancing, dance
+誤り;あやまり<br><br>mistake, error, slip, bug, fault
+依然;いぜん<br><br>still, as yet, as it was
+刑期;けいき<br><br>prison term
+爆弾;ばくだん<br><br>bomb
+汁物;しるもの<br><br>soups, soup
+二日酔い;ふつかよい<br><br>hangover
+死刑;しけい<br><br>death penalty
+陣営;じんえい<br><br>camp
+抗戦;こうせん<br><br>resistance
+爆撃;ばくげき<br><br>bombing
+葬式;そうしき<br><br>funeral
+自己紹介;じこしょうかい<br><br>self introduction
+抗体;こうたい<br><br>antibody
+患う;わずらう<br><br>to be afflicted, to be afflicted with illness, to be sick
+弁償;べんしょう<br><br>reimbursement, compensation
+募る;つのる<br><br>to appeal for, to invite, to raise
+応募;おうぼ<br><br>application, subscription
+遺跡;いせき<br><br>ruins, historic ruins, remains, historic remains
+船酔い;ふなよい<br><br>sea sickness
+彼女;かのじょ<br><br>she, girlfriend
+兆候;ちょうこう<br><br>sign, indication
+対向する;たいこうする<br><br>to counter
+抱く;だく, いだく<br><br>to hug, to embrace
+葬る;ほうむる<br><br>to bury, to inter
+臨む;のぞむ<br><br>to face
+聴く;きく<br><br>to listen to, to hear, to listen
+抵抗する;ていこうする<br><br>to resist
+戻る;もどる<br><br>to return, to be returned
+湾;わん<br><br>gulf, bay, inlet
+削る;けずる<br><br>to whittle down, to shave off
+派遣;はけん<br><br>dispatch, deployment
+狙い;ねらい<br><br>aim
+塁;るい<br><br>baseball base, base
+患者;かんじゃ<br><br>a patient, patient, medical patient
+戦闘;せんとう<br><br>battle, a battle
+跡;あと<br><br>traces, mark
+弾;たま<br><br>bullet
+急患;きゅうかん<br><br>emergency patient
+証跡;しょうせき<br><br>evidence
+契約;けいやく<br><br>contract, agreement
+試験地獄;しけんじごく<br><br>entrance exam hell, hell of entrance exams
+崩壊;ほうかい<br><br>collapse, crumbling, breaking down
+火葬;かそう<br><br>cremation
+酔っ払い;よっぱらい<br><br>drunk
+執筆;しっぴつ<br><br>writing, write for a magazine
+闘志;とうし<br><br>fighting spirit
+漁業;ぎょぎょう<br><br>fishing industry, fishery
+掲載;けいさい<br><br>publication, print
+恥知らず;はじしらず<br><br>shameless person
+自爆;じばく<br><br>suicide bomb
+下旬;げじゅん<br><br>last ten days of the month, end of month, end of the month
+削減;さくげん<br><br>reduction, cutback
+狙撃;そげき<br><br>shooting, sniping
+臨時;りんじ<br><br>temporary, provisional
+大抵;たいてい<br><br>generally, usually, in most cases
+前兆;ぜんちょう<br><br>omen, sign
+給油所;きゅうゆしょ<br><br>gas station, filling station
+香港;ほんこん<br><br>hong kong
+旬;しゅん<br><br>in season
+終身刑;しゅうしんけい<br><br>life sentence
+掲示;けいじ<br><br>notice, bulletin
+払い;はらい<br><br>payment, a payment
+削除;さくじょ<br><br>deletion, elimination
+油絵;あぶらえ<br><br>oil painting
+甘酢;あまず<br><br>sweet vinegar
+恥ずかしがる;はずかしがる<br><br>to be shy, to be bashful
+盛り上がる;もりあがる<br><br>to swell, to get excited
+破れる;やぶれる<br><br>to get torn, to get broken, to get ripped
+紹介状;しょうかいじょう<br><br>letter of introduction
+味噌汁;みそしる<br><br>miso soup
+跳ぶ;とぶ<br><br>to jump, to hop, to leap
+昭和;しょうわ<br><br>showa era, shouwa era, showa, shouwa, showa emperor, shouwa emperor
+漁師;りょうし<br><br>fisherman
+漁船;ぎょせん<br><br>fishing boat, fishing vessel
+刑務所;けいむしょ<br><br>jail, prison
+刑罰;けいばつ<br><br>punishment, penalty
+刑事;けいじ<br><br>police detective, detective, criminal case
+募金;ぼきん<br><br>fundraising
+募集;ぼしゅう<br><br>recruiting, solicitation
+執る;とる<br><br>to take control, to carry out
+執着;しゅうちゃく<br><br>attachment to, tenacity, obsessed with, attachment
+塁打;るいだ<br><br>base hit, single
+塁審;るいしん<br><br>baseball umpire, umpire
+戻す;もどす<br><br>to return, to return something
+反抗する;はんこうする<br><br>to rebel
+上旬;じょうじゅん<br><br>first ten days of the month, beginning of month, beginning of the month
+中旬;ちゅうじゅん<br><br>middle ten days of the month, middle of the month, middle of month
+聴力;ちょうりょく<br><br>hearing ability
+台湾;たいわん<br><br>taiwan
+爆発;ばくはつ<br><br>explosion
+爆笑;ばくしょう<br><br>explosive laughter
+弾む;はずむ<br><br>to bounce
+聴者;ちょうしゃ<br><br>listener
+盗聴;とうちょう<br><br>wiretapping, bugging
+奇跡;きせき<br><br>miracle
+弾丸;だんがん<br><br>bullet
+遣う;つかう<br><br>to consider, to make use of
+一人暮らし;ひとりぐらし<br><br>living alone
+〜鍋;なべ<br><br>pot, stew, hotpot
+遅い;おそい<br><br>slow, late
+償う;つぐなう<br><br>to compensate for, to make up for
+闘う;たたかう<br><br>to struggle, to fight
+陣;じん<br><br>army base, army camp
+香り;かおり<br><br>fragrance, aroma
+香水;こうすい<br><br>perfume
+臨海;りんかい<br><br>seaside, coastal
+契機;けいき<br><br>chance, opportunity
+恵む;めぐむ<br><br>to do a favor, to bless
+掲げる;かかげる<br><br>to put up a sign, to put up
+紹介する;しょうかいする<br><br>to introduce
+弾力;だんりょく<br><br>elasticity, flexibility
+知恵;ちえ<br><br>wisdom, intelligence
+香川県;かがわけん<br><br>kagawa prefecture
+崩す;くずす<br><br>to demolish, to break, to pull down, to crumble
+支払い;しはらい<br><br>payment
+老齢;ろうれい<br><br>old age
+夕刊;ゆうかん<br><br>evening edition
+奈良県;ならけん<br><br>nara prefecture
+避難;ひなん<br><br>evacuation
+需要;じゅよう<br><br>demand
+傾向;けいこう<br><br>tendency
+刊行する;かんこうする<br><br>to publish
+抑止;よくし<br><br>deter, stave off
+緩やか;ゆるやか<br><br>loose, mild, gentle
+抑圧;よくあつ<br><br>oppression
+内緒;ないしょ<br><br>secret, confidential
+描写;びょうしゃ<br><br>depiction
+賄賂;わいろ<br><br>bribe
+返還;へんかん<br><br>return, restoration
+受託;じゅたく<br><br>be entrusted with
+対称;たいしょう<br><br>symmetry
+冷房;れいぼう<br><br>air conditioning
+併殺;へいさつ<br><br>double play
+奏楽;そうがく<br><br>musical performance, instrumental music
+緩い;ゆるい<br><br>loose
+一般的;いっぱんてき<br><br>ordinary, normal, common
+逃げる;にげる<br><br>to escape, to flee, to run away
+頼る;たよる<br><br>to rely on, to trust, to depend on
+盤;ばん<br><br>tray
+超す;こす<br><br>to exceed, to go over, to surpass
+馬鹿らしい;ばからしい<br><br>absurd
+頼み;たのみ<br><br>a favor, favor, a request, request
+避妊;ひにん<br><br>birth control, contraception
+舞踏会;ぶとうかい<br><br>ball, dance
+基盤;きばん<br><br>base, basis, foundation
+縄張り;なわばり<br><br>rope off, turf, territory, domain
+円盤;えんばん<br><br>disk, flying saucer
+描画;びょうが<br><br>drawing, painting
+逃亡;とうぼう<br><br>escape, flight
+傾く;かたむく<br><br>to be leaned, to be tilted
+致す;いたす<br><br>to do
+妊娠する;にんしんする<br><br>to be pregnant
+奥;おく<br><br>far back, in the back
+致命的;ちめいてき<br><br>fatal
+一人称;いちにんしょう<br><br>first person
+全般的;ぜんぱんてき<br><br>general, overall, across the board
+遺伝子;いでんし<br><br>genes
+宜しい;よろしい<br><br>good, okay, all right, fine
+一緒;いっしょ<br><br>together
+贈る;おくる<br><br>to give a present, to give
+緩む;ゆるむ<br><br>to loosen
+指摘する;してきする<br><br>to point out, to identify
+踏み込む;ふみこむ<br><br>to step into, to rush into
+伸ばす;のばす<br><br>to stretch something, to stretch
+乗り換える;のりかえる<br><br>to transfer, to change trains, to transfer trains
+仮称;かしょう<br><br>working name, tentative name
+年齢;ねんれい<br><br>years old, age
+明治維新;めいじいしん<br><br>meiji restoration
+朝刊;ちょうかん<br><br>morning edition
+演奏;えんそう<br><br>musical performance, performance
+生還;せいかん<br><br>reaching home plate
+還元;かんげん<br><br>return to origins, reduction
+お見舞い;おみまい<br><br>sympathy visit
+房;ふさ<br><br>cluster, tassel, tuft
+維持する;いじする<br><br>to maintain
+懸命;けんめい<br><br>eager, eagerness
+懸ける;かける<br><br>to hang, to suspend, to stake
+及ぼす;およぼす<br><br>to exert, to reach to
+貿易会社;ぼうえきがいしゃ<br><br>trading firm
+湯豆腐;ゆどうふ<br><br>boiled tofu
+繰る;くる<br><br>to spin
+抑制;よくせい<br><br>control, restrain
+及び;および<br><br>as well as
+廃止する;はいしする<br><br>to abolish
+沖縄;おきなわ<br><br>okinawa
+依頼人;いらいにん<br><br>client
+却下;きゃっか<br><br>rejection, dismissal
+必需品;ひつじゅひん<br><br>necessities, essentials
+高齢者;こうれいしゃ<br><br>elderly person, old person
+一致する;いっちする<br><br>to match
+妊婦;にんぷ<br><br>pregnant woman
+月刊;げっかん<br><br>monthly edition
+日刊;にっかん<br><br>daily edition
+伴う;ともなう<br><br>to accompany
+同伴する;どうはんする<br><br>to accompany
+併合;へいごう<br><br>merger
+却って;かえって<br><br>on the contrary, instead
+遠慮;えんりょ<br><br>restraint, decline
+配慮;はいりょ<br><br>consideration, care
+考慮;こうりょ<br><br>consideration
+暖房;だんぼう<br><br>heating
+扱う;あつかう<br><br>to handle, to treat
+選択;せんたく<br><br>selection, choice
+描く;かく, えがく<br><br>to draw, to sketch
+贈収賄;ぞうしゅうわい<br><br>bribery
+委託;いたく<br><br>consign, goods for sale, entrust
+託す;たくす<br><br>to entrust
+信託;しんたく<br><br>trust, entrusting
+賄う;まかなう<br><br>to pay, to cover
+奥さん;おくさん<br><br>wife
+奥深い;おくぶかい, おくふかい<br><br>profound, deep
+欠伸;あくび<br><br>yawn, yawning
+避ける;さける, よける<br><br>to avoid, to dodge
+降ろす;おろす<br><br>to take down, to launch, to drop, to lower, to bring down
+馬鹿馬鹿しい;ばかばかしい<br><br>absurd, ridiculous, silly
+奥底;おくそこ<br><br>depths, bottom
+崩れる;くずれる<br><br>to crumble, to collapse
+削除する;さくじょする<br><br>to delete, to eliminate
+補充;ほじゅう<br><br>supplement
+片手;かたて<br><br>one handed
+枠;わく<br><br>frame, limit
+掲載する;けいさいする<br><br>to publish, to print
+慎む;つつしむ<br><br>to be discreet, to be careful
+雇用;こよう<br><br>employment
+仙人;せんにん<br><br>hermit, mountain man
+仙台;せんだい<br><br>sendai
+跳躍;ちょうやく<br><br>jump, leap, bound, skip
+勧める;すすめる<br><br>to recommend
+免れる;まぬかれる, まぬがれる<br><br>to escape from, to avoid
+躍る;おどる<br><br>to leap, to jump, to bounce
+小遣い;こづかい<br><br>allowance, spending money
+稲;いね<br><br>rice plant
+充実;じゅうじつ<br><br>fullness, beefing up
+南極圏;なんきょくけん<br><br>antarctic circle, antarctica
+片言;かたこと<br><br>broken japanese, broken english, broken language
+棋院;きいん<br><br>shogi hall, go hall
+雇う;やとう<br><br>to employ, to hire
+解雇する;かいこする<br><br>to fire someone, to fire
+御覧になる;ごらんになる<br><br>to look, to please look
+戻り道;もどりみち<br><br>way back, the way back
+鈴;すず<br><br>buzzer, small bell
+御飯;ごはん<br><br>cooked rice, meal
+水仙;すいせん<br><br>daffodil
+呼び鈴;よびりん<br><br>doorbell
+免状;めんじょう<br><br>diploma, license
+鋼;はがね<br><br>steel
+甲斐;かい<br><br>effect, result, worth
+英語圏;えいごけん<br><br>english speaking world
+群れ;むれ<br><br>flock
+足跡;あしあと<br><br>footprint
+銃;じゅう<br><br>gun, firearm
+片〜;かた<br><br>fragment, one of a pair, incomplete
+本塁打;ほんるいだ<br><br>homerun
+要項;ようこう<br><br>important points, main points
+跡継ぎ;あとつぎ<br><br>heir, heiress, successor
+跳ねる;はねる<br><br>to jump, to leap, to hop
+飛躍;ひやく<br><br>leaping
+免許;めんきょ<br><br>license, certificate, permit
+勧告;かんこく<br><br>recommendation
+謙虚;けんきょ<br><br>modesty, humility
+稲田;いなだ<br><br>rice field, rice paddy, paddy field
+圏外;けんがい<br><br>out of range
+埼玉県;さいたまけん<br><br>saitama prefecture
+短銃;たんじゅう<br><br>pistol, revolver
+隆盛;りゅうせい<br><br>prosperity
+充電;じゅうでん<br><br>recharge
+稲作;いなさく<br><br>rice cultivation, rice crop
+福祉;ふくし<br><br>welfare, well being
+払い戻す;はらいもどす<br><br>to repay, to refund, to reimburse
+銃弾;じゅうだん<br><br>rifle bullet, bullet
+製鋼;せいこう<br><br>steel manufacture
+免税;めんぜい<br><br>tax exemption
+壁紙;かべがみ<br><br>wallpaper
+枠組み;わくぐみ<br><br>frame, framework
+拒否;きょひ<br><br>refusal, rejection
+慎重;しんちょう<br><br>discreet, careful
+渋い;しぶい<br><br>bitter flavor, bitter
+鋼材;こうざい<br><br>steel material
+応募する;おうぼする<br><br>to apply for, to enlist, to answer an ad
+縄跳び;なわとび<br><br>jump rope
+棋士;きし<br><br>shogi player, go player
+岐阜;ぎふ<br><br>gifu
+募集中;ぼしゅうちゅう<br><br>now hiring, now recruiting
+将棋;しょうぎ<br><br>shogi, shougi, japanese chess
+弾く;ひく<br><br>to play a stringed instrument, to play
+言葉遣い;ことばづかい<br><br>choice of words
+狙う;ねらう<br><br>to aim at, to aim
+掲示板;けいじばん<br><br>bulletin board
+渋滞;じゅうたい<br><br>traffic jam, traffic congestion
+取り戻す;とりもどす<br><br>to take back
+原子爆弾;げんしばくだん<br><br>atomic bomb
+邦人;ほうじん<br><br>fellow countryman, japanese national
+邦訳;ほうやく<br><br>translation into japanese, translation to japanese
+隆起;りゅうき<br><br>protuberance, bulge
+壁;かべ<br><br>wall
+片仮名;かたかな<br><br>katakana
+片道;かたみち<br><br>one way street, one way
+群馬県;ぐんまけん<br><br>gunma prefecture
+御免;ごめん<br><br>sorry, i beg your pardon
+免除;めんじょ<br><br>exemption, exclusion
+勧誘;かんゆう<br><br>solicitation, invitation
+埋める;うめる, うずめる<br><br>to bury
+奪う;うばう<br><br>to rob, to steal by force
+連邦;れんぽう<br><br>commonwealth, federation
+拒む;こばむ<br><br>to refuse, to reject
+甲;こう<br><br>turtle shell
+譲る;ゆずる<br><br>to concede, to hand over, to turn over
+移譲;いじょう<br><br>transfer, assignment
+謙譲語;けんじょうご<br><br>humble japanese, humble language
+活躍;かつやく<br><br>activity, great efforts
+項目;こうもく<br><br>clause, entry, data item
+躍進;やくしん<br><br>rush, dash, onslaught
+躍動;やくどう<br><br>lively motion, throb
+事項;じこう<br><br>matter, item, facts
+控え;ひかえ<br><br>backup, reserve, spare, copy, stub
+群集;ぐんしゅう<br><br>crowd, multitude
+銃殺;じゅうさつ<br><br>death by shooting
+薄弱;はくじゃく<br><br>weakness, feebleness
+褒賞;ほうしょう<br><br>medal, prize, reward
+隣;となり<br><br>neighbor, next door neighbor
+近隣;きんりん<br><br>neighborhood
+扱い;あつかい<br><br>handling, treatment
+隣国;りんごく<br><br>neighboring country
+雅致;がち<br><br>artistry, good taste, elegance
+奥様;おくさま<br><br>your wife, wife, ma'am
+取り扱う;とりあつかう<br><br>to manage, to handle
+兼業;けんぎょう<br><br>side business, second job, moonlighting
+携帯;けいたい<br><br>portable, cell phone, mobile phone
+兼用;けんよう<br><br>combined use, serving two purposes
+座敷;ざしき<br><br>tatami room, tatami mat room
+電柱;でんちゅう<br><br>telephone pole
+内緒話;ないしょばなし<br><br>confidential talk, whispering
+頻繁;ひんぱん<br><br>incessant, frequent
+〜殿;どの<br><br>lord, master, milord
+柱;はしら<br><br>pillar
+独唱;どくしょう<br><br>solo
+茂る;しげる<br><br>to be luxurious, to grow thickly
+携わる;たずさわる<br><br>to engage in, to participate, to take part in
+傾ける;かたむける<br><br>to lean, to tilt
+敷く;しく<br><br>to spread out, to lay out
+戒める;いましめる<br><br>to warn, to caution, to admonish
+警戒;けいかい<br><br>vigilance, precaution
+緩める;ゆるめる<br><br>to loosen, to relax
+栄誉;えいよ<br><br>honor, honour
+優雅;ゆうが<br><br>elegance, grace
+衝撃;しょうげき<br><br>shock, crash, impact
+排他;はいた<br><br>exclusion
+頻度;ひんど<br><br>frequency
+新鋭;しんえい<br><br>freshly picked, newly produced
+排気;はいき<br><br>exhaust, ventilation
+殿様;とのさま<br><br>feudal lord
+雅楽;ががく<br><br>japanese court music, gagaku
+過敏;かびん<br><br>oversensitivity, nervousness
+逃亡者;とうぼうしゃ<br><br>fugitive, runaway, refugee
+防腐剤;ぼうふざい<br><br>preservative, antiseptic
+吹く;ふく<br><br>to blow
+内堀;うちぼり<br><br>inner moat
+巡回;じゅんかい<br><br>patrol, going around
+薬剤師;やくざいし<br><br>pharmacist
+巡礼;じゅんれい<br><br>pilgrimage
+駐日;ちゅうにち<br><br>resident of japan, stationed in japan
+生殖;せいしょく<br><br>reproduction
+繁栄;はんえい<br><br>prospering, prosperity
+宜しく;よろしく<br><br>best regards, well, properly, suitably
+〜剤;ざい<br><br>medicine, dose
+薬剤;やくざい<br><br>medicine, drugs
+隣人;りんじん<br><br>neighbor
+透明;とうめい<br><br>transparent, transparency
+隣家;りんか<br><br>neighboring house
+褒める;ほめる<br><br>to praise, to compliment
+鋭敏;えいびん<br><br>sharpness, quick witted, keenness
+懸かる;かかる<br><br>to hang, to depend on, to be at stake
+鋭利;えいり<br><br>sharpness
+繰り返す;くりかえす<br><br>to repeat, to repeat over and over
+繁殖;はんしょく<br><br>breeding, multiplying
+合唱団;がっしょうだん<br><br>chorus, choir
+衝突;しょうとつ<br><br>collision, impact, conflict
+獲得;かくとく<br><br>acquisition, possession
+戒告;かいこく<br><br>admonition
+堀川;ほりかわ<br><br>canal
+薄情;はくじょう<br><br>cold hearted
+洗剤;せんざい<br><br>detergent
+主唱;しゅしょう<br><br>advocate
+堀;ほり<br><br>ditch, moat, canal
+機敏;きびん<br><br>clever, shrewd, smart, quick
+薄い;うすい<br><br>dilute, thin, weak
+排水;はいすい<br><br>drainage
+犠打;ぎだ<br><br>sacrifice fly
+兼ねる;かねる<br><br>to combine, to double as, to be unable, to have trouble doing
+唱歌;しょうか<br><br>singing, songs
+獲物;えもの<br><br>spoils, trophy, game
+排除;はいじょ<br><br>exclusion, removal, elimination
+逃す;のがす<br><br>to let go, to let escape, to set free
+称える;たたえる, となえる<br><br>to praise, to give praise, to call oneself
+一生懸命;いっしょうけんめい<br><br>with all one's might, all out
+選択する;せんたくする<br><br>to select, to choose
+避難する;ひなんする<br><br>to evacuate
+遠慮する;えんりょする<br><br>to decline, to restrain
+宜しくお願いします;よろしくおねがいします<br><br>best regards
+贈り物;おくりもの<br><br>a present, present
+沖縄県;おきなわけん<br><br>okinawa prefecture
+贈賄;ぞうわい<br><br>bribery
+駐在;ちゅうざい<br><br>residence, stay
+顧問;こもん<br><br>advisor
+顧みる;かえりみる<br><br>to look back on, to reflect on
+回顧録;かいころく<br><br>memoirs, reminiscences
+唱える;となえる<br><br>to chant
+駐車場;ちゅうしゃじょう<br><br>parking lot
+駐留軍;ちゅうりゅうぐん<br><br>stationed troops, occupying troops
+駆ける;かける<br><br>to gallop, to drive, to spur on
+歌唱;かしょう<br><br>singing, song
+孝行;こうこう<br><br>filial piety
+不孝;ふこう<br><br>disobedience to parents, lack of filial piety
+俊才;しゅんさい<br><br>genius, person of exceptional talent, exceptionally talented person
+巡る;めぐる<br><br>to go around, to return
+巡査;じゅんさ<br><br>police, policeman
+捕獲;ほかく<br><br>capture, seizure
+名誉;めいよ<br><br>honor, prestige, honour
+訓戒;くんかい<br><br>warning, admonition
+排出;はいしゅつ<br><br>emission
+透ける;すける<br><br>to be transparent, to be see through
+敏感;びんかん<br><br>sensitivity, sensitive to, sensibility
+鋭い;するどい<br><br>sharp
+敷金;しききん<br><br>security deposit
+殿堂;でんどう<br><br>palace
+屋敷;やしき<br><br>residence, estate
+繁茂;はんも<br><br>luxuriant growth
+頻りに;しきりに<br><br>frequently, repeatedly, often
+褒美;ほうび<br><br>reward, prize
+殖える;ふえる<br><br>to multiply, to increase
+頻発;ひんぱつ<br><br>frequency, frequent occurrence
+〜房;ふさ<br><br>section, bunch
+外堀;そとぼり<br><br>outer moat

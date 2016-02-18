@@ -1,0 +1,540 @@
+#front;back
+大敵;たいてき<br><br>arch enemy, rival, enemy
+混乱する;こんらんする<br><br>to be confused
+権利;けんり<br><br>a right, right
+布地;ぬのじ, きれじ<br><br>cloth, fabric, textile
+制服;せいふく<br><br>uniform
+総理;そうり<br><br>prime minister
+人権;じんけん<br><br>human rights
+事件;じけん<br><br>incident, case
+派手;はで<br><br>showy, flashy, gaudy
+暴力団;ぼうりょくだん<br><br>crime syndicate, yakuza, gangster organization, gangster organisation
+解決;かいけつ<br><br>solution
+混む;こむ<br><br>to be crowded
+総体的;そうたいてき<br><br>as a whole
+資本;しほん<br><br>funds, capital
+任務;にんむ<br><br>duty, task
+建設;けんせつ<br><br>construction
+挙がる;あがる<br><br>to rise
+書評;しょひょう<br><br>book review
+実際;じっさい<br><br>actually, really
+宇宙人;うちゅうじん<br><br>alien
+批判;ひはん<br><br>criticism
+定義;ていぎ<br><br>definition
+選挙;せんきょ<br><br>election
+審査;しんさ<br><br>examination, inspection
+参加者;さんかしゃ<br><br>participant
+手続き;てつづき<br><br>procedure
+続ける;つづける<br><br>to continue
+他動詞;たどうし<br><br>transitive verb
+口笛;くちぶえ<br><br>whistling
+容疑者;ようぎしゃ<br><br>suspect
+減らす;へらす<br><br>to decrease, to decrease something
+説得する;せっとくする<br><br>to persuade
+増税;ぞうぜい<br><br>tax increase, raise taxes, increased taxes
+設ける;もうける<br><br>to establish
+検問する;けんもんする<br><br>to inspect, to examine, to check
+主義;しゅぎ<br><br>ism, principle
+審判;しんぱん<br><br>judgment, judgement, decision, refereeing
+判断;はんだん<br><br>judgement, judgment
+素敵;すてき<br><br>lovely, dreamy, beautiful
+義務;ぎむ<br><br>obligation, duty
+事務所;じむしょ<br><br>office
+自制;じせい<br><br>self control, self restraint
+公設;こうせつ<br><br>public, public institution
+素材;そざい<br><br>raw material
+急増;きゅうぞう<br><br>sudden increase, increase suddenly
+責める;せめる<br><br>to blame
+素晴らしい;すばらしい<br><br>wonderful, splendid, the best
+経済;けいざい<br><br>economy, economics, the economy
+増加;ぞうか<br><br>increase, addition, growth
+制度;せいど<br><br>system
+暴走族;ぼうそうぞく<br><br>biker gang, motorcycle gang, japanese bikers, bosozoku
+資金;しきん<br><br>funds, capital
+検査;けんさ<br><br>checkup, inspection, examination
+岡山県;おかやまけん<br><br>okayama prefecture
+企画;きかく<br><br>plan, planning
+増える;ふえる<br><br>to increase
+警察官;けいさつかん<br><br>police officer, policeman
+義理;ぎり<br><br>sense of duty, social obligation
+解説;かいせつ<br><br>explanation, commentary
+形容動詞;けいようどうし<br><br>na adjective
+分解;ぶんかい<br><br>analysis, breakdown, disassembly, dismantling
+理解;りかい<br><br>comprehension, understanding
+強制;きょうせい<br><br>compulsory, obligation, mandatory, obligatory
+保守主義;ほしゅしゅぎ<br><br>conservative, conservatism
+いい加減にしろ;いいかげんにしろ<br><br>cut it out, cut the bs
+国際;こくさい<br><br>international
+資料;しりょう<br><br>material, data
+固有名詞;こゆうめいし<br><br>proper noun
+無税;むぜい<br><br>tax free, no tax
+混じる;まじる<br><br>to get mixed up in, to get mixed, to be mixed
+省く;はぶく<br><br>to omit, to eliminate, to skip
+断る;ことわる<br><br>to refuse, to reject
+条約;じょうやく<br><br>treaty
+女権;じょけん<br><br>women's rights, woman's rights
+正解;せいかい<br><br>correct answer, correct
+際;きわ<br><br>side, edge, brink
+務める;つとめる<br><br>to work for, to serve at, to be employed at
+敵;てき, かたき<br><br>enemy
+評論;ひょうろん<br><br>critique, criticism
+乱す;みだす<br><br>to put in disorder, to throw out of order
+任意;にんい<br><br>optional, voluntary
+企てる;くわだてる<br><br>to plan, to scheme
+判子;はんこ<br><br>one's seal, seal, personal seal
+参加する;さんかする<br><br>to participate
+委員;いいん<br><br>member of a committee, committee member
+正義;せいぎ<br><br>justice, righteousness
+宇宙船;うちゅうせん<br><br>space ship, space shuttle, starship, star ship, ufo, spacecraft, space craft, flying saucer
+履き物;はきもの<br><br>footwear, shoes
+無敵;むてき<br><br>unrivaled, invincible
+済む;すむ<br><br>to come to an end
+反省;はんせい<br><br>reconsideration, reflection
+税金;ぜいきん<br><br>tax
+総合;そうごう<br><br>overall, comprehensive
+解ける;とける<br><br>to become untied, to get untied, to come undone, to become undone
+設定する;せっていする<br><br>to establish
+認める;みとめる<br><br>to recognize, to perceive, to acknowledge
+確認;かくにん<br><br>confirmation, verification
+責任;せきにん<br><br>responsibility
+投資;とうし<br><br>investment
+評判;ひょうばん<br><br>fame, reputation
+楽天主義;らくてんしゅぎ<br><br>optimism
+〜務省;むしょう<br><br>ministry of
+得体;えたい<br><br>character, nature
+心得;こころえ<br><br>knowledge, information, understanding
+立派;りっぱ<br><br>high class, splendid, fine
+条件;じょうけん<br><br>condition, conditions, terms, requirements
+目覚める;めざめる<br><br>to wake up, to awaken
+不可能;ふかのう<br><br>impossible, not possible
+震える;ふるえる<br><br>to shake, to shiver, to quake, to tremble, to quaver, to quiver
+高値;たかね<br><br>high price, expensive price
+営業;えいぎょう<br><br>running a business, managing a business
+産業;さんぎょう<br><br>industry, heavy industry
+各自;かくじ<br><br>each person, individual
+地価;ちか<br><br>land value
+坊さん;ぼうさん<br><br>monk
+姿勢;しせい<br><br>posture
+私営;しえい<br><br>private, privately run, run privately
+罰する;ばっする<br><br>to punish, to penalize
+政策;せいさく<br><br>policy, a policy
+提案;ていあん<br><br>proposition, proposal
+応じる;おうじる<br><br>to respond
+統合;とうごう<br><br>unification, integration
+値;ね<br><br>value, price
+態度;たいど<br><br>attitude, manner, behavior
+副題;ふくだい<br><br>subtitle, subheading
+市営;しえい<br><br>run by the city, city run
+費用;ひよう<br><br>expenses, cost
+副詞;ふくし<br><br>adverb
+罰金;ばっきん<br><br>a fine, fine
+失態;しったい<br><br>blunder, disgrace
+区域;くいき<br><br>boundary, zone
+坊主;ぼうず<br><br>buddhist priest
+防犯;ぼうはん<br><br>crime prevention
+社費;しゃひ<br><br>company expenses
+各地;かくち<br><br>each area
+脱線;だっせん<br><br>digression, derailment, derail
+観念;かんねん<br><br>idea, notion
+昼寝;ひるね<br><br>nap
+脱字;だつじ<br><br>omitted character, omitted word
+過去;かこ<br><br>past, the past
+位置;いち<br><br>position, location, place
+罰;ばつ<br><br>penalty, punishment
+公示;こうじ<br><br>public announcement
+公営;こうえい<br><br>public, government run, run by the government
+地域;ちいき<br><br>region, area, zone
+観光;かんこう<br><br>sightseeing
+支援;しえん<br><br>support
+吸う;すう<br><br>to smoke, to suck, to inhale
+領土;りょうど<br><br>territory
+存在する;そんざいする<br><br>to exist
+大嫌い;だいきらい<br><br>to hate, to really hate, hate
+伝統;でんとう<br><br>tradition
+案外;あんがい<br><br>unexpectedly, more than expected
+飛ばす;とばす<br><br>to let fly, to send flying
+主観;しゅかん<br><br>subjectivity
+消費;しょうひ<br><br>consumption, expenditure
+賀状;がじょう<br><br>greeting card, new year's card
+変態;へんたい<br><br>pervert, abnormal
+勢い;いきおい<br><br>force, vigor
+営む;いとなむ<br><br>to run a business, to manage a business
+姿;すがた<br><br>figure, shape, form
+外観;がいかん<br><br>external appearance, outward appearance
+高血圧;こうけつあつ<br><br>high blood pressure, hypertension
+非難する;ひなんする<br><br>to criticize
+面倒臭い;めんどうくさい<br><br>troublesome, a bother
+確かめる;たしかめる<br><br>to make sure of, to verify, to confirm, to make certain
+寝坊;ねぼう<br><br>oversleep
+受領書;じゅりょうしょ<br><br>receipt, docket
+圧倒する;あっとうする<br><br>to overwhelm
+援助;えんじょ<br><br>assistance, aid
+誕生;たんじょう<br><br>birth
+宮;みや<br><br>palace
+寝る;ねる<br><br>to lie down, to go to bed, to sleep
+大勢;おおぜい<br><br>crowd
+提出;ていしゅつ<br><br>presentation, filing, handing in, turning in
+脱税;だつぜい<br><br>tax evasion
+お手洗い;おてあらい<br><br>toilet, restroom, bathroom, lavatory
+指示;しじ<br><br>instructions, directions
+脱走する;だっそうする<br><br>to escape, to flee
+過ぎる;すぎる<br><br>to surpass
+脱ぐ;ぬぐ<br><br>to undress, to take off clothes
+観る;みる<br><br>to view, to spectate, to watch
+不機嫌;ふきげん<br><br>bad mood, pout, displeasure, ill humor, ill humour, sullen
+在留する;ざいりゅうする<br><br>to reside, to stay, to remain
+待機;たいき<br><br>alert, standby
+倒れる;たおれる<br><br>to get knocked over, to get knocked down, to collapse
+評価;ひょうか<br><br>appraisal, verdict, valuation, assessment
+価;あたい<br><br>value
+物価;ぶっか<br><br>prices
+安値;やすね<br><br>low price, cheap price
+価値;かち<br><br>value, worth, merit
+副業;ふくぎょう<br><br>side business
+勢力;せいりょく<br><br>influence, force
+各々;おのおの<br><br>each, every, respectively
+県営;けんえい<br><br>run by the prefecture, prefecture run
+案内;あんない<br><br>guide
+機会;きかい<br><br>opportunity, chance
+各〜;かく<br><br>each, every, various
+赤ん坊;あかんぼう<br><br>baby
+領域;りょういき<br><br>domain, domain name
+嫌味;いやみ<br><br>hurtful words, hurtful speech, sarcasm, disagreeableness
+寝不足;ねぶそく<br><br>lack of sleep
+一応;いちおう<br><br>tentatively, for now
+反応;はんのう, はんおう<br><br>a response, response, a reaction, reaction
+応援;おうえん<br><br>aid, assistance, root for
+状態;じょうたい<br><br>condition, state
+策;さく<br><br>a plan, plan, scheme
+大統領;だいとうりょう<br><br>president
+置く;おく<br><br>to put down, to set down, to place
+罰ゲーム;ばつげーむ, ばつゲーム<br><br>batsu game, penalty game
+藤;ふじ<br><br>wisteria
+被害者;ひがいしゃ<br><br>victim, victims
+観客;かんきゃく<br><br>audience, spectators
+態と;わざと<br><br>on purpose, deliberately, intentionally
+価格;かかく<br><br>price, value, cost
+嫌悪感;けんおかん<br><br>unpleasant feelings
+官営;かんえい<br><br>government management, government operation, run by the government, government run
+対応;たいおう<br><br>interaction, correspondence, coping with, dealing with, support, software support
+有り難う;ありがとう<br><br>thank you, thanks
+示す;しめす<br><br>to indicate, to show
+尻尾;しっぽ<br><br>tail
+演ずる;えんずる<br><br>to perform, to play
+崎;さき<br><br>cape, small peninsula
+牛乳;ぎゅうにゅう<br><br>milk, cow's milk
+呼ぶ;よぶ<br><br>to call, to call out
+張る;はる<br><br>to stretch
+裁判;さいばん<br><br>trial
+贅沢;ぜいたく<br><br>extravagant
+停止;ていし<br><br>stoppage, suspension
+年賀状;ねんがじょう<br><br>new year's card, new year's greeting card
+医師;いし<br><br>doctor
+規則;きそく<br><br>rule, regulation
+優勝;ゆうしょう<br><br>championship, victory
+宅;たく<br><br>home, house
+無職;むしょく<br><br>unemployment
+幹;みき<br><br>tree trunk
+自宅;じたく<br><br>one's home, one's own home
+挙げる;あげる<br><br>to raise, to elevate, to bring up
+批判する;ひはんする<br><br>to criticize
+経済学;けいざいがく<br><br>economics, study of economics
+了解;りょうかい<br><br>comprehension, understanding, roger
+領収書;りょうしゅうしょ<br><br>receipt
+吸収;きゅうしゅう<br><br>absorption
+俳優;はいゆう<br><br>actor
+弁護士;べんごし<br><br>attorney, lawyer
+バス停;ばすてい, バスてい<br><br>bus stop
+基準;きじゅん<br><br>standard, a standard
+法律;ほうりつ<br><br>law
+俳句;はいく<br><br>haiku
+収入;しゅうにゅう<br><br>income
+求職;きゅうしょく<br><br>job hunting
+川崎;かわさき<br><br>kawasaki, kawasaki city
+各駅停車;かくえきていしゃ<br><br>local train
+長崎;ながさき<br><br>nagasaki
+職業;しょくぎょう<br><br>occupation
+判断する;はんだんする<br><br>to judge
+優先;ゆうせん<br><br>priority
+責任感;せきにんかん<br><br>sense of responsibility
+確認する;かくにんする<br><br>to confirm, to verify
+役割;やくわり<br><br>role
+規律;きりつ<br><br>rules, law, order, discipline
+停電;ていでん<br><br>power outage, cutoff of electricity, power cut
+吸血鬼;きゅうけつき<br><br>vampire
+男優;だんゆう<br><br>actor
+沢;さわ<br><br>swamp
+総理府;そうりふ<br><br>prime minister's office
+済ます;すます<br><br>to finish, to settle
+現在;げんざい<br><br>present, now, current
+皮革;ひかく<br><br>leather, hides, pelts
+検査する;けんさする<br><br>to examine, to inspect, to check
+割合;わりあい<br><br>ratio
+台詞;せりふ<br><br>speech, words, one's lines, remarks
+優秀;ゆうしゅう<br><br>superior, superiority
+不文律;ふぶんりつ<br><br>unwritten law, unwritten rule, common law
+理解する;りかいする<br><br>to understand, to comprehend
+優しい;やさしい<br><br>gentle, kind, warm hearted, nice
+新幹線;しんかんせん<br><br>bullet train, shinkansen
+委員会;いいんかい<br><br>committee
+表現;ひょうげん<br><br>expression, figure of speech
+看護師;かんごし<br><br>nurse
+現実;げんじつ<br><br>reality
+現れる;あらわれる<br><br>to appear, to emerge
+施行;しこう, せこう<br><br>carry out, enforcement
+秀でる;ひいでる<br><br>to excel, to surpass
+一割;いちわり<br><br>ten percent
+革命;かくめい<br><br>revolution
+演技;えんぎ<br><br>acting, performance
+城;しろ<br><br>castle
+乳首;ちくび<br><br>nipple
+備える;そなえる<br><br>to provide, to furnish, to equip, to prepare for
+準備;じゅんび<br><br>preparations
+反則;はんそく<br><br>foul
+法則;ほうそく<br><br>physical law, law
+割る;わる<br><br>to divide
+増やす;ふやす<br><br>to increase something, to increase
+住宅;じゅうたく<br><br>dwelling, residence
+導く;みちびく<br><br>to lead, to guide
+指導;しどう<br><br>guidance
+教師;きょうし<br><br>teacher
+律動;りつどう<br><br>rhythm
+施設;しせつ<br><br>institution, facilities, facility, establishment
+選挙する;せんきょする<br><br>to elect
+断つ;たつ<br><br>to cut off
+経済的;けいざいてき<br><br>economic, financial, economical
+現場;げんば<br><br>current location, current place, actual spot, present location
+職場;しょくば<br><br>place of work, workplace, place of employment
+職員;しょくいん<br><br>personnel, staff, employee
+有職;ゆうしょく<br><br>employed
+辞職;じしょく<br><br>resignation, quitting
+裁く;さばく<br><br>to judge
+解く;とく<br><br>to untie, to untie something
+保護する;ほごする<br><br>to conserve, to protect
+革;かわ<br><br>leather
+鬼;おに<br><br>demon, ogre
+上演;じょうえん<br><br>performance, presentation, production, staging, mount
+沢山;たくさん<br><br>a lot, many, much
+演芸;えんげい<br><br>performance, entertainment
+心得る;こころえる<br><br>to know, to understand, to be aware of, to consent, to agree
+現に;げんに<br><br>actually, really
+月額;げつがく<br><br>monthly amount
+残額;ざんがく<br><br>remaining amount
+肩;かた<br><br>shoulder
+無視する;むしする<br><br>to ignore, to disregard
+特質;とくしつ<br><br>characteristic, trait
+質;しつ<br><br>quality
+展示会;てんじかい<br><br>trade show, exhibition
+全額;ぜんがく<br><br>total, full amount, sum, total amount, entirety, grand total
+木製;もくせい<br><br>wooden, made from wood, made of wood
+感触;かんしょく<br><br>touch, touch sense, sense of touch
+腕;うで<br><br>arm
+定量;ていりょう<br><br>fixed quantity, measurement, fixed amount, set quantity, set amount
+年額;ねんがく<br><br>annual amount, yearly amount
+担当;たんとう<br><br>in charge
+血管;けっかん<br><br>blood vessel
+境界;きょうかい<br><br>boundary
+可燃ゴミ;かねんごみ, かねんゴミ<br><br>burnable garbage, burnable trash
+親展;しんてん<br><br>confidential
+象;ぞう<br><br>elephant
+環境;かんきょう<br><br>environment
+官庁;かんちょう<br><br>government office, government authorities, government agency
+交差点;こうさてん<br><br>intersection
+遠視;えんし<br><br>farsightedness, longsightedness
+大量;たいりょう<br><br>large quantity, huge amount
+法規;ほうき<br><br>laws, regulations
+〜層;そう<br><br>layer of, layer
+中国製;ちゅうごくせい<br><br>made in china
+日本製;にほんせい<br><br>made in japan
+通販;つうはん<br><br>mail order
+製作;せいさく<br><br>manufacturing, production
+武道;ぶどう<br><br>martial arts
+価値観;かちかん<br><br>moral values, sense of values, values
+警察庁;けいさつちょう<br><br>national police agency
+近視;きんし<br><br>nearsightedness, shortsightedness
+量;りょう<br><br>quantity, amount
+過去形;かこけい<br><br>past tense
+所載;しょさい<br><br>printed, published
+原型;げんけい<br><br>prototype, model
+視覚;しかく<br><br>sense of sight, sight
+観光客;かんこうきゃく<br><br>tourist, sightseer
+製品;せいひん<br><br>product, manufactured goods
+質問;しつもん<br><br>question
+発展する;はってんする<br><br>to develop
+違う;ちがう<br><br>to be different, to be wrong, to be mistaken, to vary, to differ
+置き場;おきば<br><br>place to put something, place to put down, location to put something, location to put down
+応援する;おうえんする<br><br>to root for, to cheer on, to cheer
+差す;さす<br><br>to shine at, to shine on
+支援する;しえんする<br><br>to support, to back, to aid
+触る;さわる<br><br>to touch
+典型的;てんけいてき<br><br>typical
+展開;てんかい<br><br>unfolding, development
+主観的;しゅかんてき<br><br>subjective
+量る;はかる<br><br>to measure, to weigh
+伝統的;でんとうてき<br><br>traditional
+副大統領;ふくだいとうりょう<br><br>vice president
+管;くだ<br><br>pipe, tube
+援助する;えんじょする<br><br>to assist, to aid
+提案する;ていあんする<br><br>to propose
+気象;きしょう<br><br>weather, disposition
+差別;さべつ<br><br>discrimination, distinction
+届く;とどく<br><br>to be delivered, to arrive, to reach
+過ぎ;すぎ<br><br>too much
+供える;そなえる<br><br>to make an offering, to offer
+燃やす;もやす<br><br>to burn something, to burn
+提供;ていきょう<br><br>offer, program sponsoring, programme sponsoring
+腰;こし<br><br>waist
+自家製;じかせい<br><br>homemade, home brewed, made at home
+朝寝坊;あさねぼう<br><br>late riser, oversleep
+額;がく<br><br>framed picture, picture, frame
+不燃ゴミ;ふねんごみ, ふねんゴミ<br><br>nonburnable garbage, unburnable garbage, nonburnable trash, unburnable trash
+品質;ひんしつ<br><br>material quality, item quality, product quality, quality
+腕時計;うでどけい<br><br>wristwatch, watch
+境;さかい<br><br>boundary
+株;かぶ<br><br>stock, share
+負担;ふたん<br><br>burden, responsibility
+子供;こども<br><br>child, kid, children, kids
+記述;きじゅつ<br><br>description, account
+輸出;ゆしゅつ<br><br>export
+良質;りょうしつ<br><br>good quality, high quality, superior quality
+多額;たがく<br><br>large amount, large sum
+警視庁;けいしちょう<br><br>metropolitan police department, metro police department
+応援団;おうえんだん<br><br>rooting section, cheerleaders, cheering section
+販売;はんばい<br><br>sales, selling, marketing
+株式;かぶしき<br><br>stock company, stock
+記載;きさい<br><br>record, report
+誕生日;たんじょうび<br><br>birthday
+国境;こっきょう<br><br>national border
+燃料;ねんりょう<br><br>fuel
+武士;ぶし<br><br>samurai
+営業中;えいぎょうちゅう<br><br>open for business
+営業する;えいぎょうする<br><br>to run a business, to manage a business
+寝坊する;ねぼうする<br><br>to oversleep
+型;かた<br><br>model, type
+時差;じさ<br><br>time difference
+都庁;とちょう<br><br>metropolitan government, metro government
+一層;いっそう<br><br>much more, all the more
+自動販売機;じどうはんばいき<br><br>vending machine
+担ぐ;かつぐ<br><br>to carry
+武器;ぶき<br><br>weapon
+狭い;せまい<br><br>narrow
+祝う;いわう<br><br>to celebrate
+祝日;しゅくじつ<br><br>holiday
+対策;たいさく<br><br>counter plan, counter measure
+管理;かんり<br><br>management, administration
+アメリカ製;あめりかせい, アメリカせい<br><br>made in america
+規準;きじゅん<br><br>standard, criterion
+触角;しょっかく<br><br>antenna
+対象;たいしょう<br><br>target, subject
+現象;げんしょう<br><br>phenomenon
+載る;のる<br><br>to be published, to be reported, to be printed
+輸血;ゆけつ<br><br>blood transfusion
+上述;じょうじゅつ<br><br>above mentioned, the above mentioned
+述べる;のべる<br><br>to mention, to state, to explain
+違い;ちがい<br><br>difference
+半額;はんがく<br><br>half price
+定額;ていがく<br><br>fixed amount, fixed sum, flat rate, ration
+左腕;ひだりうで, さわん<br><br>left arm
+指差す;ゆびさす<br><br>to point at, to point to
+本質;ほんしつ<br><br>essence, true nature, substance, reality
+両腕;りょううで, もろうで<br><br>both arms
+時限;じげん<br><br>time limit
+反響;はんきょう<br><br>echo, reverberation, influence, repercussion, reaction
+先輩;せんぱい<br><br>senior, older graduate, superior
+準備する;じゅんびする<br><br>to prepare
+属する;ぞくする<br><br>to belong to, to fall under
+模型;もけい<br><br>plastic model, model, dummy, scale model
+効率;こうりつ<br><br>efficiency
+習慣;しゅうかん<br><br>custom, habit
+満月;まんげつ<br><br>full moon
+上巻;じょうかん<br><br>first volume
+絞殺;こうさつ<br><br>death by strangling, strangled to death, strangling
+前景;ぜんけい<br><br>foreground
+無限;むげん<br><br>infinite, limitless
+限界;げんかい<br><br>limit, boundary
+期限;きげん<br><br>term, period, due date
+慣れる;なれる<br><br>to become accustomed to, to get used to
+限る;かぎる<br><br>to limit
+効果;こうか<br><br>an effect, effect
+賞与金;しょうよきん<br><br>bonus
+豊か;ゆたか<br><br>plentiful, abundant
+新鮮;しんせん<br><br>fresh
+鮮魚;せんぎょ<br><br>fresh fish
+金属;きんぞく<br><br>metal
+肥満;ひまん<br><br>obesity
+影;かげ<br><br>shadow
+一巻;いっかん<br><br>one volume, first volume
+豊満;ほうまん<br><br>plump, full figured
+不況;ふきょう<br><br>recession
+隠居;いんきょ<br><br>retirement
+時候;じこう<br><br>season, time of year
+後輩;こうはい<br><br>junior, one's junior
+長崎県;ながさきけん<br><br>nagasaki prefecture
+満員;まんいん<br><br>sold out, full house, no vacancy
+天候;てんこう<br><br>the weather, weather
+居る;いる<br><br>to be alive, to exist
+呼ばれる;よばれる<br><br>to be called
+効く;きく<br><br>to be effective
+渡る;わたる<br><br>to cross, to cross over, to go across
+抜く;ぬく<br><br>to extract, to pluck
+隠す;かくす<br><br>to hide
+替える;かえる<br><br>to replace, to substitute, to switch
+現す;あらわす<br><br>to show
+女優;じょゆう<br><br>actress
+絞る;しぼる<br><br>to strangle, to wring out, to squeeze
+光景;こうけい<br><br>spectacle, sight
+模様;もよう<br><br>pattern
+効力;こうりょく<br><br>effectiveness, in effect
+訴える;うったえる<br><br>to sue
+規模;きぼ<br><br>scale, scope
+含む;ふくむ<br><br>to include
+割引;わりびき<br><br>discount
+含意;がんい<br><br>implication, hint at, suggestion
+投票する;とうひょうする<br><br>to vote
+構成;こうせい<br><br>organization, configuration
+景色;けしき<br><br>scenery, scene, landscape
+二巻;にかん<br><br>second volume, two volumes
+満足;まんぞく<br><br>satisfied, totally satisfied, satisfaction
+下巻;げかん<br><br>last volume, final volume
+割れる;われる<br><br>to be divided, to be separated, to break
+規則正しい;きそくただしい<br><br>regular, well regulated, systematic
+結構;けっこう<br><br>fine, fairly, alright
+気候;きこう<br><br>climate
+全景;ぜんけい<br><br>complete view, full view, panoramic view, panorama
+満点;まんてん<br><br>perfect score
+掛ける;かける<br><br>to hang
+吸収する;きゅうしゅうする<br><br>to absorb
+革命者;かくめいしゃ<br><br>revolutionary, a revolutionary
+律動的;りつどうてき<br><br>rhythmical, rhythmic
+渡す;わたす<br><br>to hand over
+年輩;ねんぱい<br><br>elderly person, old person, elderly
+限定;げんてい<br><br>limit
+与える;あたえる<br><br>to give, to grant
+所属;しょぞく<br><br>attached to, belong to
+巻く;まく<br><br>to roll, to roll up
+頑張る;がんばる<br><br>to persevere
+捕まる;つかまる<br><br>to be caught, to get caught
+捜査;そうさ<br><br>criminal investigation
+景況;けいきょう<br><br>business climate, economic climate, condition, the situation
+替わる;かわる<br><br>to be replaced, to be substituted, to be switched
+補う;おぎなう<br><br>to supplement, to compensate for
+構う;かまう<br><br>to care about, to mind
+票;ひょう<br><br>ballot, a vote, vote
+響く;ひびく<br><br>to echo, to reverberate, to resound
+肥料;ひりょう<br><br>manure, fertilizer
+訴訟;そしょう<br><br>lawsuit, litigation
+告訴;こくそ<br><br>accusation, charge
+逮捕;たいほ<br><br>arrest, capture
+影響;えいきょう<br><br>influence
+鮮やか;あざやか<br><br>vivid, splendid
+見渡す;みわたす<br><br>to look out over, to survey, to sweep, to glance over, to take an extensive view of
+収める;おさめる<br><br>to dedicate, to make an offering, to supply, to store, to finish
+捜す;さがす<br><br>to search
+革ジャン;かわじゃん, かわジャン<br><br>leather jacket
+家庭教師;かていきょうし<br><br>tutor, coach, private teacher
+不規則;ふきそく<br><br>irregularity, unsteadiness, disorderly, irregular, erratic, inconsistant
+限度;げんど<br><br>limit
+状況;じょうきょう<br><br>condition, circumstances, situation
+増す;ます<br><br>to increase, to grow
+景観;けいかん<br><br>scenery, spectacular view, great view
+候補者;こうほしゃ<br><br>candidate, applicant

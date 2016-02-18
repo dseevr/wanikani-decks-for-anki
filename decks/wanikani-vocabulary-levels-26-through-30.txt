@@ -1,0 +1,557 @@
+#front;back
+お祝い;おいわい<br><br>congratulation, congratulations, celebration, festival, congratulatory gift
+管理人;かんりにん<br><br>manager
+授業;じゅぎょう<br><br>lesson, class, teaching
+再来年;さらいねん<br><br>year after next
+往復;おうふく<br><br>round trip
+比較;ひかく<br><br>comparison
+汗;あせ<br><br>sweat
+汗臭い;あせくさい<br><br>sweaty smell, smell sweaty, sweaty stench
+事故;じこ<br><br>accident
+怪獣;かいじゅう<br><br>giant monster, kaiju
+突然;とつぜん<br><br>suddenly
+河;かわ<br><br>river, suffix for rivers, river suffix
+豚肉;ぶたにく<br><br>pork, pig meat
+故障;こしょう<br><br>malfunction, out of order
+針医;はりい<br><br>acupuncturist
+保障;ほしょう<br><br>guarantee, warranty, security, safeguard
+気違い;きちがい<br><br>crazy
+鉛;なまり<br><br>lead
+鉛管;えんかん<br><br>lead pipe
+間違い;まちがい<br><br>a mistake, mistake
+酒造;しゅぞう<br><br>brewing, distilling
+運河;うんが<br><br>canal
+獣類;じゅうるい<br><br>beasts, animals
+大違い;おおちがい<br><br>big difference, major mistake
+名刺;めいし<br><br>business card
+特徴;とくちょう<br><br>characteristic, distinctive feature
+人造;じんぞう<br><br>artificial, synthetic, imitation, man made
+独り;ひとり<br><br>alone
+獣;けもの<br><br>beast, a beast
+お菓子;おかし<br><br>candy, pastry, sweets
+怪談;かいだん<br><br>ghost story
+再開;さいかい<br><br>reopening
+障子;しょうじ<br><br>japanese sliding door, sliding door
+故意;こい<br><br>intention, premeditation, purpose, intent
+燃え付く;もえつく<br><br>to catch fire, to catch on fire
+創造;そうぞう<br><br>creation
+激励;げきれい<br><br>encouragement
+輸入;ゆにゅう<br><br>import
+造園;ぞうえん<br><br>landscape gardening
+読み違い;よみちがい<br><br>misreading, misread
+印;しるし<br><br>seal, logo, symbol
+構造;こうぞう<br><br>structure
+激しい;はげしい<br><br>fierce, violent, intense
+製造;せいぞう<br><br>manufacturing
+再来月;さらいげつ<br><br>month after next, the month after next
+届ける;とどける<br><br>to deliver
+燃える;もえる<br><br>to get burned, to be burned, to burn
+差し上げる;さしあげる<br><br>to give, to raise up
+郵便;ゆうびん<br><br>mail
+人違い;ひとちがい<br><br>mistaken identity
+独占;どくせん<br><br>monopoly
+鉛筆;えんぴつ<br><br>pencil
+担う;になう<br><br>to carry, to assume responsibility, to take on a burden, to take responsibility
+怪事件;かいじけん<br><br>strange mystery, mystery case
+回復;かいふく<br><br>recovery
+改造;かいぞう<br><br>remodeling, renewal
+貯金;ちょきん<br><br>savings
+無我;むが<br><br>selflessness
+独学;どくがく<br><br>self study, self education
+象徴;しょうちょう<br><br>symbol
+教授;きょうじゅ<br><br>teaching, professor, pedagogy
+障る;さわる<br><br>to hinder
+従う;したがう<br><br>to obey
+占める;しめる<br><br>to occupy
+刺す;さす<br><br>to stab, to pierce, to poke, to sting, to stick, to shank
+独特;どくとく<br><br>unique
+振動;しんどう<br><br>vibration, oscillation
+野獣;やじゅう<br><br>wild beast, wild animal
+独身;どくしん<br><br>single, unmarried
+復習;ふくしゅう<br><br>review
+独創;どくそう<br><br>originality, creativity
+鉛毒;えんどく<br><br>lead poisoning
+従来;じゅうらい<br><br>up to now, so far
+河豚;ふぐ, ふく<br><br>fugu, blowfish, pufferfish
+株式会社;かぶしきがいしゃ, かぶしきかいしゃ<br><br>corporation
+獣医;じゅうい<br><br>veterinarian, vet
+造る;つくる<br><br>to mass produce, to produce, to manufacture, to create, to make, to brew, to prepare
+再建;さいけん<br><br>rebuilding, reconstruction
+従業;じゅうぎょう<br><br>employment
+怪物;かいぶつ<br><br>monster, ghost, goblin
+豚;ぶた<br><br>pig
+再び;ふたたび<br><br>again, once again
+討論;とうろん<br><br>debate, discussion
+障害;しょうがい<br><br>disability, handicap
+触れる;ふれる<br><br>to feel, to perceive
+突く;つく<br><br>to stab, to poke, to jab
+故;ゆえ<br><br>circumstances, reason
+再度;さいど<br><br>twice, a second time, again
+再来週;さらいしゅう<br><br>week after next
+刺激;しげき<br><br>stimulation
+創立;そうりつ<br><br>establishment, founding
+第一印象;だいいちいんしょう<br><br>first impression
+差別する;さべつする<br><br>to discriminate
+占い;うらない<br><br>fortune telling
+人差し指;ひとさしゆび<br><br>index finger, pointer finger
+怪しい;あやしい<br><br>suspicious, shady
+我;われ<br><br>i, me
+振る;ふる<br><br>to shake, to jolt
+不振;ふしん<br><br>dullness, slump, stagnation
+直接;ちょくせつ<br><br>direct
+間接;かんせつ<br><br>indirect
+面接;めんせつ<br><br>interview
+株式市場;かぶしきしじょう<br><br>stock market
+河童;かっぱ<br><br>kappa
+氷河;ひょうが<br><br>glacier
+気象庁;きしょうちょう<br><br>weather agency, meteorological agency
+自販機;じはんき<br><br>vending machine
+独立;どくりつ<br><br>independence
+検討する;けんとうする<br><br>to examine, to study, to look into
+お誕生日おめでとう;おたんじょうびおめでとう<br><br>happy birthday
+貯える;たくわえる<br><br>to save, to put something aside
+載せる;のせる<br><br>to publish, to place on top
+輸出する;ゆしゅつする<br><br>to export
+過ごす;すごす<br><br>to spend time on
+針金;はりがね<br><br>wire
+何故;なぜ<br><br>why, how
+違反;いはん<br><br>violation, transgression, infringement, breach
+従順;じゅうじゅん<br><br>obedient, gentle, meek, submissive, docile, tame
+励ます;はげます<br><br>to encourage someone, to cheer up someone, to encourage
+筆;ふで<br><br>writing brush, brush
+狭める;せばめる<br><br>to narrow, to reduce, to contract
+万年筆;まんねんひつ<br><br>fountain pen
+右腕;みぎうで, うわん<br><br>right arm
+秒針;びょうしん<br><br>seconds hand
+胃痛;いつう<br><br>stomachache
+訪問;ほうもん<br><br>a visit, visit
+迫る;せまる<br><br>to urge, to coerce, to draw near
+迷信;めいしん<br><br>superstition
+退院する;たいいんする<br><br>to be discharged, to leave the hospital
+間抜け;まぬけ<br><br>idiot
+途中;とちゅう<br><br>on the way, en route
+野郎;やろう<br><br>bastard, guy, fellow
+結構です;けっこうです<br><br>no thank you, no thanks
+眠い;ねむい<br><br>sleepy
+睡眠;すいみん<br><br>sleep
+靴;くつ<br><br>shoes
+端;はし<br><br>edge
+早退;そうたい<br><br>leave early
+昇給;しょうきゅう<br><br>pay raise, salary raise, raise
+健康;けんこう<br><br>health
+効果的;こうかてき<br><br>effective
+退屈;たいくつ<br><br>boring, boredom, tedium
+悪影響;あくえいきょう<br><br>bad influence, evil influence
+腰抜け;こしぬけ<br><br>coward
+居酒屋;いざかや<br><br>izakaya, japanese style bar
+巻きずし;まきずし<br><br>rolled sushi, sushi roll, makizushi
+小規模;しょうきぼ<br><br>small scale
+南極;なんきょく<br><br>antarctica
+悩み;なやみ<br><br>a worry, worry, a trouble, trouble
+階段;かいだん<br><br>stairs, stairway
+頭痛;ずつう<br><br>headache
+迷路;めいろ<br><br>maze
+圧迫;あっぱく<br><br>pressure
+靴下;くつした<br><br>socks
+暇;ひま<br><br>spare time, free time
+長靴;ながぐつ<br><br>boots
+〜症;しょう<br><br>disease, sickness
+就業;しゅうぎょう<br><br>employment
+極端;きょくたん<br><br>extreme
+段々;だんだん<br><br>gradually, steps
+迷子;まいご<br><br>lost child, lost kid
+極楽;ごくらく<br><br>paradise
+供給;きょうきゅう<br><br>supply
+症状;しょうじょう<br><br>symptom
+就く;つく<br><br>to settle in, to take a seat, to take a position
+迫害;はくがい<br><br>persecution
+段階;だんかい<br><br>stage, phase
+誘惑;ゆうわく<br><br>temptation
+先端;せんたん<br><br>tip, the latest, advanced technology
+逮捕する;たいほする<br><br>to arrest, to capture
+締結する;ていけつする<br><br>to conclude, to enter, to execute
+締める;しめる<br><br>to tighten, to tie
+退く;しりぞく<br><br>to withdraw from, to withdraw, to retreat
+貸す;かす<br><br>to lend, to rent
+隠居する;いんきょする<br><br>to retire
+織る;おる<br><br>to weave, to knit
+訪ねる;たずねる<br><br>to visit
+招待する;しょうたいする<br><br>to invite, to summon
+誘う;さそう<br><br>to invite, to summon
+迷う;まよう<br><br>to go astray, to get lost, to be perplexed, to waver, to hesitate
+給料;きゅうりょう<br><br>wages, pay, salary, net pay, base wages, base salary
+春巻き;はるまき<br><br>spring rolls
+頑張れ;がんばれ<br><br>do your best, good luck
+組織;そしき<br><br>organization
+靴屋;くつや<br><br>shoe store, shoe shop
+手掛かり;てがかり<br><br>clue, a clue
+休暇;きゅうか<br><br>holiday, time off, day off
+怒鳴る;どなる<br><br>to shout at, to yell at
+健忘症;けんぼうしょう<br><br>amnesia, loss of memory
+お構いなく;おかまいなく<br><br>don't worry about it, don't worry
+抜ける;ぬける<br><br>to be extracted, to get extracted, to be plucked, to get plucked, to come out, to fall out, to be omitted, to leave
+給与;きゅうよ<br><br>allowance, wages, pay, salary, gross pay
+掛かる;かかる<br><br>to be hung, to get hung, to hang
+切迫;せっぱく<br><br>urgency, pressure, draw near, be imminent
+貸し切り;かしきり<br><br>reserved, reservation
+捕える;とらえる<br><br>to grasp an idea, to grasp a concept, to catch the meaning, to seize, to catch
+悩む;なやむ<br><br>to worry, to be troubled
+隠れる;かくれる<br><br>to be hidden
+値段;ねだん<br><br>price, cost
+就職;しゅうしょく<br><br>finding employment, finding a job, getting a job, accepting a job
+怒る;おこる<br><br>to get angry, to get mad
+惑う;まどう<br><br>to be misguided, to be led astray, to be perplexed, to be puzzled
+迷惑;めいわく<br><br>trouble, annoyance, inconvenience, nuisance
+見抜く;みぬく<br><br>to see through
+招く;まねく<br><br>to beckon, to invite, to summon
+昇る;のぼる<br><br>to ascend
+昇進;しょうしん<br><br>job promotion, promotion
+両替;りょうがえ<br><br>money exchange, make change, currency exchange
+取り替える;とりかえる<br><br>to exchange
+着替え;きがえ<br><br>change of clothes
+究極;きゅうきょく<br><br>ultimate
+極める;きわめる<br><br>to carry to extremes, to carry to the extreme, to take to the extreme, to take to an extreme, to carry to an extreme, to take to extremes, to master
+構え;かまえ<br><br>stance
+大規模;だいきぼ<br><br>large scale
+第一段;だいいちだん<br><br>the first step, first step
+濃い;こい<br><br>thick, dense, concentrated, deep, strong
+不眠症;ふみんしょう<br><br>insomnia
+痛い;いたい<br><br>painful, ow, it hurts, ouch
+中途半端;ちゅうとはんぱ<br><br>half finished, half assed
+減給;げんきゅう<br><br>pay cut
+理屈;りくつ<br><br>theory, reason
+腹;はら<br><br>belly, abdomen, stomach
+居間;いま<br><br>living room, sitting room, parlor, parlour
+抜き出す;ぬきだす<br><br>to select, to extract, to start to pull out
+屈む;かがむ<br><br>to stoop, to lean over, to bend down, to crouch, to bend forward, to bow, to bend over
+限定販売;げんていはんばい<br><br>limited edition
+切腹;せっぷく<br><br>seppuku, ritual suicide
+引退;いんたい<br><br>retire, retirement
+濃度;のうど<br><br>density, concentration
+手渡す;てわたす<br><br>to hand over, to surrender
+胃;い<br><br>stomach
+微生物;びせいぶつ<br><br>microorganism, microbe
+妙;みょう<br><br>odd, unusual, strange
+並;なみ<br><br>ordinary, average
+並行;へいこう<br><br>parallel
+清い;きよい<br><br>pure, clean
+記録;きろく<br><br>record
+並ぶ;ならぶ<br><br>to be lined up
+研修;けんしゅう<br><br>training, in service training, study
+傘立て;かさたて<br><br>umbrella stand, umbrella holder
+〜券;けん<br><br>ticket
+旅券;りょけん<br><br>passport
+創造的;そうぞうてき<br><br>creative
+児童;じどう<br><br>children
+博物館;はくぶつかん<br><br>museum
+博打;ばくち<br><br>gambling
+微妙;びみょう<br><br>not so good, not really, delicate, not great, complicated, doubtful
+妙薬;みょうやく<br><br>wonder drug
+回復する;かいふくする<br><br>to recover
+処分;しょぶん<br><br>disposal
+振り仮名;ふりがな<br><br>furigana, small kana next to kanji
+面接する;めんせつする<br><br>to interview with, to interview
+攻める;せめる<br><br>to attack
+専攻;せんこう<br><br>major, college major, field of study
+潔い;いさぎよい<br><br>pure hearted, pure
+独り言;ひとりごと<br><br>talking to yourself
+過程;かてい<br><br>process, a process
+精度;せいど<br><br>precision, accuracy
+絶対;ぜったい<br><br>absolutely, without fail, unconditionally
+不潔;ふけつ<br><br>filthy, dirty
+絶つ;たつ<br><br>to sever, to cut off
+絶望;ぜつぼう<br><br>despair
+庫;くら<br><br>warehouse, granary
+逆効果;ぎゃくこうか, ぎゃっこうか<br><br>opposite effect
+夫婦;ふうふ<br><br>husband and wife, wife and husband, married couple
+反攻;はんこう<br><br>counterattack, counter offensive
+横浜;よこはま<br><br>yokohama
+憲法;けんぽう<br><br>constitution
+利益;りえき<br><br>profit
+公益;こうえき<br><br>public benefit
+日程;にってい<br><br>schedule, agenda
+移住;いじゅう<br><br>migration, immigration
+録音;ろくおん<br><br>sound recording, audio recording
+大衆;たいしゅう<br><br>general public
+逆;ぎゃく<br><br>reverse, opposite
+大間違い;おおまちがい<br><br>big mistake
+郵便箱;ゆうびんばこ<br><br>mailbox, postbox
+凍死;とうし<br><br>freeze to death
+凍結;とうけつ<br><br>freeze
+浜;はま<br><br>beach
+有益;ゆうえき<br><br>beneficial
+冷静;れいせい<br><br>cool headed
+比較する;ひかくする<br><br>to compare
+兵隊;へいたい<br><br>soldier, sailor
+国益;こくえき<br><br>national benefit, national interests
+移す;うつす<br><br>to shift, to transfer
+我々;われわれ<br><br>we, us
+巨大;きょだい<br><br>huge, gigantic, enormous
+攻撃;こうげき<br><br>attack
+回数券;かいすうけん<br><br>book of tickets, train tickets, train coupons
+幼児;ようじ<br><br>children, child
+軍隊;ぐんたい<br><br>army, an army
+前売り券;まえうりけん<br><br>advance ticket, ticket sold in advance
+幼年時代;ようねんじだい<br><br>childhood
+幼稚;ようち<br><br>childish, immature
+金庫;きんこ<br><br>a safe, safe
+冷たい;つめたい<br><br>cold, cool, cold to the touch
+傘;かさ<br><br>umbrella
+矢印;やじるし<br><br>arrow
+憲政;けんせい<br><br>constitutional government
+処理;しょり<br><br>deal with, take care of
+入隊;にゅうたい<br><br>enlist in the army, enlist
+程;ほど<br><br>extent, an extent
+車庫;しゃこ<br><br>garage
+身振り;みぶり<br><br>gesture
+並列;へいれつ<br><br>in a row, arrange in a row
+婦人;ふじん<br><br>lady
+郵便局;ゆうびんきょく<br><br>post office
+貯金箱;ちょきんばこ<br><br>savings box, piggy bank, bank, money box
+修理;しゅうり<br><br>repair
+創造力;そうぞうりょく<br><br>creative power, creativity
+修辞学;しゅうじがく<br><br>rhetoric
+刺身;さしみ<br><br>sashimi
+〜隊;たい<br><br>squad
+輸入する;ゆにゅうする<br><br>to import
+比較的;ひかくてき<br><br>comparatively
+郵便番号;ゆうびんばんごう<br><br>post number, postal code, postcode
+移民;いみん<br><br>immigration, emigration, emigrant, immigrant, migration, migrant
+菓子屋;かしや<br><br>candy store, candy shop, sweet store, sweet shop
+進撃;しんげき<br><br>advance, charge
+星占い;ほしうらない<br><br>astrology, horoscope
+程度;ていど<br><br>degree, extent, level
+冷凍庫;れいとうこ<br><br>freezer
+微か;かすか<br><br>delicate, faint, indistinct, dim
+故に;ゆえに<br><br>therefore, consequently
+移住者;いじゅうしゃ<br><br>emigrant, immigrant, migrant
+衆議院;しゅうぎいん<br><br>house of representatives
+幼い;おさない<br><br>childish, very young, immature
+修士;しゅうし<br><br>master's degree
+逆説;ぎゃくせつ<br><br>paradox
+清潔;せいけつ<br><br>pure, clean
+登録;とうろく<br><br>registration
+家政婦;かせいふ<br><br>housekeeper, maid
+精神;せいしん<br><br>spirit, mind, soul
+凍る;こおる<br><br>to freeze
+撃つ;うつ<br><br>to shoot, to attack, to fire a gun
+絶景;ぜっけい<br><br>superb view, splendid view, stunning view, spectacular view, great view
+逆らう;さからう<br><br>to go against, to oppose, to be contrary to
+処置;しょち<br><br>treatment, measure
+直接的;ちょくせつてき<br><br>directly
+無我夢中;むがむちゅう<br><br>total absorption, ecstasy
+主婦;しゅふ<br><br>housewife
+浜辺;はまべ<br><br>beach
+従兄弟;いとこ<br><br>male cousin
+成程;なるほど<br><br>i see, that's right, indeed
+何故なら;なぜなら<br><br>because, the reason is
+巨人;きょじん<br><br>a giant, giant
+訪れる;おとずれる<br><br>to visit
+官僚;かんりょう<br><br>bureaucrat, bureaucracy
+迷惑メール;めいわくめーる, めいわくメール<br><br>spam, junk mail, unsolicited mail
+請ける;うける<br><br>to receive, to undertake
+禅宗;ぜんしゅう<br><br>zen sect
+熱烈;ねつれつ<br><br>impassioned, passionate enthusiasm
+大臣;だいじん<br><br>minister, cabinet member
+道に迷う;みちにまよう<br><br>to get lost, to be lost
+詰める;つめる<br><br>to stuff in, to cram in
+誘惑する;ゆうわくする<br><br>to tempt
+促す;うながす<br><br>to urge, to pressure
+二杯;にはい<br><br>two cups, two cups of liquid
+緊急;きんきゅう<br><br>urgent, emergency
+乾く;かわく<br><br>to get dry, to become dry, to be dried
+乾杯;かんぱい<br><br>kanpai, toast, cheers
+催促;さいそく<br><br>urge, press for, demand
+壊す;こわす<br><br>to break something, to break
+構える;かまえる<br><br>to assume a stance, to get ready to fight
+宗派;しゅうは<br><br>sect, denomination
+宴;うたげ<br><br>banquet, dinner party, party, feast
+不健康;ふけんこう<br><br>unhealthy, not healthy
+乾季;かんき<br><br>dry season
+一人娘;ひとりむすめ<br><br>only daughter
+恐怖;きょうふ<br><br>terror, fear
+航空;こうくう<br><br>aviation, flight
+痛み止め;いたみどめ<br><br>painkiller
+一杯;いっぱい<br><br>one cup, one cup of liquid, a drink, one drink
+眠る;ねむる<br><br>to sleep
+略図;りゃくず<br><br>rough sketch
+痛み;いたみ<br><br>a pain, pain
+痛む;いたむ<br><br>to be painful, to hurt
+貸し;かし<br><br>rental
+恐怖症;きょうふしょう<br><br>phobia
+同僚;どうりょう<br><br>colleague, coworker
+診断;しんだん<br><br>diagnosis
+英雄;えいゆう<br><br>hero
+腹切り;はらきり<br><br>harakiri, ritual suicide
+閣議;かくぎ<br><br>cabinet meeting
+怒気;どき<br><br>anger, fit of anger
+織物;おりもの<br><br>cloth, fabric
+略語;りゃくご<br><br>abbreviation
+娘;むすめ<br><br>daughter
+江戸;えど<br><br>edo, tokyo
+宴会;えんかい<br><br>banquet, dinner party
+欧米;おうべい<br><br>europe and america, america and europe, usa and europe, europe and usa, the west
+閣僚;かくりょう<br><br>cabinet ministers
+要請;ようせい<br><br>demand, request
+中欧;ちゅうおう<br><br>central europe
+倒壊;とうかい<br><br>collapse, destruction, crumbling
+請求;せいきゅう<br><br>demand, claim, request, charge
+検索;けんさく<br><br>lookup, internet search
+診察;しんさつ<br><br>medical exam
+航法;こうほう<br><br>navigation
+直航;ちょっこう<br><br>nonstop flight, direct voyage
+催告;さいこく<br><br>notification
+宗教;しゅうきょう<br><br>religion
+怖い;こわい<br><br>scary
+睡眠薬;すいみんやく<br><br>sleeping pills, sleeping drugs, sleeping medicine
+韓国;かんこく<br><br>south korea, korea
+主催;しゅさい<br><br>sponsorship, promotion
+緊張;きんちょう<br><br>stress, tension
+看板;かんばん<br><br>store sign
+強烈;きょうれつ<br><br>strong, intense
+怒り;いかり<br><br>anger, wrath
+奇数;きすう<br><br>odd number
+大略;たいりゃく<br><br>summary, outline
+三杯;さんばい<br><br>three cups, three cups of liquid
+締まる;しまる<br><br>to tighten, to become tight, to become taut
+奇妙;きみょう<br><br>strange, curious, odd
+診る;みる<br><br>to examine a patient, to examine
+板;いた<br><br>a board, board, a plank, plank
+極めて;きわめて<br><br>extremely
+体積;たいせき<br><br>volume
+日欧;にちおう<br><br>europe and japan, japan and europe
+入江;いりえ<br><br>inlet, cove
+添える;そえる<br><br>to append, to be included, to garnish
+添付;てんぷ<br><br>attachment
+猛烈;もうれつ<br><br>fierce, violent, intense
+省略;しょうりゃく<br><br>abbreviate, leave out
+略す;りゃくす<br><br>to abbreviate
+眠り薬;ねむりぐすり<br><br>sleeping pills, sleeping drugs, sleeping medicine
+積もる;つもる<br><br>to accumulate, to get piled up
+面積;めんせき<br><br>area
+索引;さくいん<br><br>index
+締切;しめきり<br><br>deadline, closing date
+商店街;しょうてんがい<br><br>shopping district
+請願;せいがん<br><br>petition
+日韓;にっかん<br><br>japan and south korea, south korea and japan, japan and korea, korea and japan
+好奇心;こうきしん<br><br>curiosity
+恐ろしい;おそろしい<br><br>scary, fearful
+腹立つ;はらだつ<br><br>to get mad, to get angry
+腹が減った;はらがへった<br><br>hungry, to be hungry
+全壊;ぜんかい<br><br>complete destruction, total destruction
+黒板;こくばん<br><br>blackboard
+お腹;おなか<br><br>belly, stomach, abdomen
+詰まる;つまる<br><br>to be stuffed, to be crammed full
+街道;かいどう<br><br>highway, motorway
+猛〜;もう<br><br>fierce, energetic
+招き猫;まねきねこ<br><br>shop window cat, maneki neko
+寄る;よる<br><br>to approach, to visit, to drop in
+見極める;みきわめる<br><br>to see through, to get to the bottom of
+寄与;きよ<br><br>contribution, service
+綺麗;きれい<br><br>pretty, beautiful, clean
+寄付;きふ<br><br>contribution, donation
+居眠り;いねむり<br><br>nap, doze, dozing, nodding off, dozing off
+怒らせる;おこらせる<br><br>to anger someone, to anger, to provoke, to offend someone
+迷い;まよい<br><br>hesitation, indecision, doubt
+貧しい;まずしい<br><br>poor
+官僚的;かんりょうてき<br><br>bureaucratic
+魅力;みりょく<br><br>allure, charm, attraction, appeal
+博覧会;はくらんかい<br><br>exposition, exhibition, fair
+攻撃する;こうげきする<br><br>to attack
+研修生;けんしゅうせい<br><br>trainee
+詳細;しょうさい<br><br>details
+快速;かいそく<br><br>high speed, express
+照らす;てらす<br><br>to illuminate
+不詳;ふしょう<br><br>unknown
+浮く;うく<br><br>to float
+押す;おす<br><br>to push
+懐かしい;なつかしい<br><br>nostalgic, nostalgia
+枕;まくら<br><br>pillow
+白旗;しらはた, はっき<br><br>white flag
+背景;はいけい<br><br>background
+冷やす;ひやす<br><br>to chill something, to chill
+翌日;よくじつ<br><br>the next day, next day
+盗む;ぬすむ<br><br>to steal
+出版;しゅっぱん<br><br>publishing
+遊ぶ;あそぶ<br><br>to play
+逆さま;さかさま<br><br>upside down
+版権;はんけん<br><br>copyright
+翌年;よくねん, よくとし<br><br>the next year, next year
+越える;こえる<br><br>to go beyond, to cross over
+登録する;とうろくする<br><br>to register
+観覧;かんらん<br><br>viewing, seeing
+初版;しょはん<br><br>first edition
+渇く;かわく<br><br>to become thirsty, to be thirsty, to become dry
+服飾;ふくしょく<br><br>attire
+精神病;せいしんびょう<br><br>mental illness, mental disorder
+浮気;うわき<br><br>affair, infidelity
+遊園地;ゆうえんち<br><br>amusement park, theme park
+診断する;しんだんする<br><br>to diagnose
+不適;ふてき<br><br>unsuitable, inappropriate
+精一杯;せいいっぱい<br><br>with all one's might, with all your might
+体系的;たいけいてき<br><br>systematic
+未婚;みこん<br><br>unmarried
+背;せ<br><br>height, back, spine
+新婚旅行;しんこんりょこう<br><br>honeymoon
+照明;しょうめい<br><br>illumination
+欠乏;けつぼう<br><br>lack, scarcity
+騒音;そうおん<br><br>noise, din
+盗作;とうさく<br><br>plagiarism
+快感;かいかん<br><br>pleasure
+貧乏;びんぼう<br><br>poor, poverty
+不快;ふかい<br><br>unpleasant, uncomfortable
+騒ぐ;さわぐ<br><br>to make noise, to be boisterous, to make a fuss
+〜系;けい<br><br>tribe, lineage, group
+ご覧;ごらん<br><br>look at, see
+延長;えんちょう<br><br>prolonging, extension
+購入;こうにゅう<br><br>purchase
+太陽系;たいようけい<br><br>solar system
+更生;こうせい<br><br>rebirth, resuscitation
+更新;こうしん<br><br>renewal, update
+乏しい;とぼしい<br><br>scarce, meager
+漏水;ろうすい<br><br>water leakage
+購読;こうどく<br><br>subscription
+預金;よきん<br><br>bank deposit, deposit, bank account
+漏出;ろうしゅつ<br><br>leak out, escape, leakage
+移る;うつる<br><br>to be shifted, to be transferred
+先程;さきほど<br><br>a while ago
+並べる;ならべる<br><br>to line up, to put in order
+結婚;けっこん<br><br>marriage
+主;ぬし<br><br>master, head of household, leader
+延ばす;のばす<br><br>to prolong, to lengthen, to extend
+延期する;えんきする<br><br>to postpone
+快い;こころよい<br><br>pleasant
+盗撮;とうさつ<br><br>hidden camera
+旗;はた<br><br>flag
+国旗;こっき<br><br>national flag
+更に;さらに<br><br>again, anew, furthermore
+変更;へんこう<br><br>alteration, change
+漏れる;もれる<br><br>to leak, to leak out
+照れる;てれる<br><br>to feel embarrassed, to be shy, to be embarrassed, to feel shy
+強盗;ごうとう<br><br>burglary, robbery
+盗品;とうひん<br><br>stolen goods, stolen items
+幼稚園;ようちえん<br><br>kindergarten
+切符;きっぷ<br><br>ticket
+日系;にっけい<br><br>japanese descent, of japanese descent
+絶える;たえる<br><br>to die out, to end
+翌月;よくげつ<br><br>the next month, next month
+詳しい;くわしい<br><br>detailed, expert
+撮る;とる<br><br>to take a picture, to take a photograph, to take a photo, to photograph, to take video, to film
+越権;えっけん<br><br>overstepping your authority, overstep one's authority, overstepping one's authority
+適当;てきとう<br><br>appropriate, proper, irresponsible
+預ける;あずける<br><br>to deposit, to deposit money
+翌朝;よくちょう, よくあさ<br><br>the next morning, next morning
+電飾;でんしょく<br><br>decorative lighting
+精神的;せいしんてき<br><br>spiritual
+押し;おし<br><br>push, pressure
+求婚;きゅうこん<br><br>marriage proposal
+飾る;かざる<br><br>to decorate
+購買;こうばい<br><br>purchasing
+撮影;さつえい<br><br>photoshoot, movie shoot, photographing, filming
+背後;はいご<br><br>background, behind the scenes
+程よく;ほどよく<br><br>properly, well
+快楽;かいらく<br><br>pleasure, enjoyment
+快適;かいてき<br><br>pleasant, agreeable, comfortable
+一覧;いちらん<br><br>a look, a glance, list, table
+浮世絵;うきよえ<br><br>woodblock print, ukiyoe
+遊び;あそび<br><br>play, playing, games

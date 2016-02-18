@@ -1,0 +1,521 @@
+#front;back
+潜水艦;せんすいかん<br><br>submarine
+雇用者;こようしゃ<br><br>employer, employee
+炭;すみ<br><br>charcoal
+埋め合わせる;うめあわせる<br><br>to compensate for
+鉄鉱;てっこう<br><br>iron ore
+思い遣り;おもいやり<br><br>consideration, sympathy
+生き甲斐;いきがい<br><br>reason for living, something worth living for
+伺う;うかがう<br><br>to implore, to inquire, to ask
+徹夜;てつや<br><br>all night, sleepless night, all nighter
+拠点;きょてん<br><br>position, location
+証拠;しょうこ<br><br>physical evidence, evidence, proof
+根拠;こんきょ<br><br>basis, grounds
+儀式;ぎしき<br><br>ceremony
+虎;とら<br><br>tiger
+焼酎;しょうちゅう<br><br>shochu, shouchuu, japanese liquor
+艦船;かんせん<br><br>warship, ocean vessel
+軍艦;ぐんかん<br><br>battleship
+〜畑;はたけ, はた<br><br>field, crop
+包む;つつむ, くるむ<br><br>to wrap
+破片;はへん<br><br>fragment
+包丁;ほうちょう<br><br>kitchen knife, cutlery, carving knife
+炭鉱;たんこう<br><br>coal mine, coal pit
+果樹;かじゅ<br><br>fruit tree
+偽る;いつわる<br><br>to lie, to cheat, to deceive
+至る;いたる<br><br>to arrive at
+侵す;おかす<br><br>to invade, to violate, to intrude
+更衣室;こういしつ<br><br>changing room, locker room, dressing room
+廃墟;はいきょ<br><br>ruins, abandoned building
+蜂;はち<br><br>bee, hornet, wasp
+蜂蜜;はちみつ<br><br>honey
+躍り;おどり<br><br>jumping, leaping
+措置;そち<br><br>measures, steps
+瀬;せ<br><br>rapids, shallows, current
+辞儀する;じぎする<br><br>to bow
+拳銃;けんじゅう<br><br>revolver, pistol, handgun
+早瀬;はやせ<br><br>swift currents
+樹皮;じゅひ<br><br>tree bark, bark
+措辞;そじ<br><br>wording
+拳;こぶし<br><br>fist
+徹する;てっする<br><br>to devote oneself, to sink in, to penetrate
+徹底;てってい<br><br>thoroughness, completeness
+廃棄;はいき<br><br>annulment, disposal
+蜜;みつ<br><br>honey
+偽装;ぎそう<br><br>camouflage
+仁;じん<br><br>humanity
+放棄;ほうき<br><br>resignation, abandonment
+埋もれる;うもれる<br><br>to get buried, to be buried
+麦畑;むぎばたけ<br><br>wheat field, barley field
+撤兵;てっぺい<br><br>withdrawal of troops
+炭素;たんそ<br><br>carbon
+拠る;よる<br><br>to be due to, to be caused by
+仁義;じんぎ<br><br>humanity and justice, duty
+祝儀;しゅうぎ<br><br>celebration, congratulations
+謙遜;けんそん<br><br>humble, humility, modesty
+充電する;じゅうでんする<br><br>to charge a battery, to recharge, to recharge a battery
+瀬戸;せと<br><br>seto, strait, channel
+社会福祉;しゃかいふくし<br><br>social welfare
+偽;にせ<br><br>fake, imitation
+侵害;しんがい<br><br>infringement, violation
+高瀬;たかせ<br><br>shallows
+潜む;ひそむ<br><br>to lurk, to lie dormant
+石炭;せきたん<br><br>coal
+田畑;たはた<br><br>field, field of rice, field of crops
+原潜;げんせん<br><br>nuclear submarine
+渋谷;しぶや<br><br>shibuya
+忠誠;ちゅうせい<br><br>loyalty
+包囲;ほうい<br><br>siege, encirclement
+誠意;せいい<br><br>sincerity, good faith
+投棄;とうき<br><br>abandonment
+潜水;せんすい<br><br>diving
+偽造;ぎぞう<br><br>forgery
+礼儀;れいぎ<br><br>manners, courtesy, etiquette
+植樹;しょくじゅ<br><br>tree planting
+脱衣;だつい<br><br>undressing
+航空母艦;こうくうぼかん<br><br>aircraft carrier
+蛍;ほたる<br><br>firefly, lightning bug, glowworm
+鉱物;こうぶつ<br><br>mineral
+撤去;てっきょ<br><br>withdrawal, repeal
+岐阜県;ぎふけん<br><br>gifu prefecture
+鉱業;こうぎょう<br><br>mining industry
+潜在意識;せんざいいしき<br><br>subconscious
+撤回;てっかい<br><br>withdrawal, repeal
+鉱山;こうざん<br><br>a mine, mine
+衣;ころも<br><br>clothes, garment
+艦隊;かんたい<br><br>naval fleet, armada
+やり甲斐;やりがい<br><br>worth doing
+原爆;げんばく<br><br>atomic bomb
+鉱石;こうせき<br><br>ore, mineral
+冬至;とうじ<br><br>winter solstice
+拳骨;げんこつ<br><br>clenched fist, knuckles
+手の甲;てのこう<br><br>back of one's hand
+御免なさい;ごめんなさい<br><br>sorry, i beg your pardon
+控える;ひかえる<br><br>to abstain
+侵攻;しんこう<br><br>invasion
+必至;ひっし<br><br>inevitable, necessary, foregone
+至上;しじょう<br><br>supremacy
+誠;まこと<br><br>sincerity, truth
+誠実;せいじつ<br><br>sincere, honest, faithful
+郷里;きょうり<br><br>birthplace, hometown
+帰郷する;ききょうする<br><br>to return to one's hometown
+侵入;しんにゅう<br><br>intrusion, penetration
+葬儀;そうぎ<br><br>funeral
+群れる;むれる<br><br>to flock, to crowd
+衣服;いふく<br><br>clothes, clothing, garment
+御手洗;おてあらい<br><br>restroom, bathroom, toilet
+夏至;げし<br><br>summer solstice
+渋々;しぶしぶ<br><br>reluctantly, unwillingly
+甲斐性;かいしょう<br><br>resourcefulness, competence
+故郷;こきょう, ふるさと<br><br>hometown, birthplace
+逃れる;のがれる<br><br>to escape
+袋;ふくろ<br><br>sack, bag
+統括;とうかつ<br><br>unification
+枢軸;すうじく<br><br>axle, pivot
+総括;そうかつ<br><br>synthesis, recap
+揺る;ゆる<br><br>to shake, to jolt
+括弧;かっこ<br><br>parentheses, brackets
+通信網;つうしんもう<br><br>communications network
+掛軸;かけじく<br><br>hanging scroll
+宿泊;しゅくはく<br><br>lodging, stay the night
+親不孝;おやふこう<br><br>lack of filial piety, disobedience to parents
+哲学;てつがく<br><br>philosophy
+吹き出す;ふきだす<br><br>to begin to blow, to breathe out, to burst out laughing
+吹き込む;ふきこむ<br><br>to blow in
+口笛を吹く;くちぶえをふく<br><br>to whistle
+挑戦;ちょうせん<br><br>a challenge, challenge
+分析;ぶんせき<br><br>analysis
+解析;かいせき<br><br>analysis
+到着;とうちゃく<br><br>arrival
+握力;あくりょく<br><br>handgrip, grip of the hand
+不孝者;ふこうもの<br><br>disobedient child, unfilial child
+克明;こくめい<br><br>detailed
+ゴミ袋;ゴミぶくろ, ごみぶくろ<br><br>garbage bag, garbage sack
+範;はん<br><br>example, model
+焦点;しょうてん<br><br>focal point, focus
+暫く;しばらく<br><br>in a little while, in a short while, in a moment
+芝草;しばくさ<br><br>lawn, turf
+発掘;はっくつ<br><br>excavation
+斎場;さいじょう<br><br>funeral hall
+双子;ふたご<br><br>twins
+肝炎;かんえん<br><br>hepatitis
+福袋;ふくぶくろ<br><br>mystery bag, mystery sack
+網;あみ<br><br>net, netting, web
+不透明;ふとうめい<br><br>opacity
+堅い;かたい<br><br>solid, tough
+綱;つな<br><br>rope, sumo belt
+書斎;しょさい<br><br>study, den, library
+暫定;ざんてい<br><br>tentative, temporary
+干潟;ひがた<br><br>tidal flat, tideland
+柄;がら, え<br><br>pattern, design
+荒れる;あれる<br><br>to be stormy, to be rough
+吹き飛ばす;ふきとばす<br><br>to blow away
+掘る;ほる<br><br>to dig
+挑発;ちょうはつ<br><br>provocation
+紛らす;まぎらす<br><br>to divert, to distract
+東芝;とうしば<br><br>toshiba, toushiba
+荒い;あらい<br><br>wild, rough
+綱引き;つなひき<br><br>tug of war
+横綱;よこづな, よこずな<br><br>yokozuna, sumo grand champion
+円弧;えんこ<br><br>arc
+中軸;ちゅうじく<br><br>axis, pivot
+糾弾;きゅうだん<br><br>blame
+中枢;ちゅうすう<br><br>center, centre, pivot
+紛糾;ふんきゅう<br><br>complication, confusion
+模範;もはん<br><br>exemplification, model, example
+範囲;はんい<br><br>extent, scope
+芝;しば<br><br>lawn, turf
+二泊;にはく<br><br>two night's stay
+病床;びょうしょう<br><br>sickbed
+携帯電話;けいたいでんわ<br><br>portable phone, cell phone, mobile phone
+起床;きしょう<br><br>rising, getting out of bed
+双;そう<br><br>pair
+駆け込む;かけこむ<br><br>to rush into
+駆け出す;かけだす<br><br>to rush out
+最新鋭;さいしんえい<br><br>state of the art, cutting edge
+駆け回る;かけまわる<br><br>to run around
+犠飛;ぎひ<br><br>sacrifice fly
+喪失;そうしつ<br><br>loss, forfeit
+克服;こくふく<br><br>conquest
+喪;も<br><br>mourning
+床;ゆか<br><br>floor
+括る;くくる<br><br>to fasten, to tie up, to tie together, to bind
+一括;いっかつ<br><br>all together, batch, one lump
+挑む;いどむ<br><br>to challenge someone, to challenge something, to challenge
+揚げる;あげる<br><br>to hoist, to fly, to raise, to deep fry
+握る;にぎる<br><br>to grasp, to clasp
+握手;あくしゅ<br><br>handshake, shaking hands
+動揺;どうよう<br><br>shaking, trembling, jolt
+軸;じく<br><br>axis
+国柄;くにがら<br><br>national character
+人柄;ひとがら<br><br>personal character, personality, character
+一泊;いっぱく<br><br>one night's stay
+泊まる;とまる<br><br>to stay the night, to stay at
+円滑;えんかつ<br><br>effortless, smooth
+肝臓;かんぞう<br><br>liver
+潟;かた<br><br>lagoon
+焦げる;こげる<br><br>to be burned, to get burned
+交通網;こうつうもう<br><br>traffic network
+肝;きも<br><br>liver, chutzpah, courage
+芝生;しばふ<br><br>lawn
+親孝行;おやこうこう<br><br>filial piety
+双眼鏡;そうがんきょう<br><br>binoculars
+薄める;うすめる<br><br>to dilute, to water down
+逃がす;にがす<br><br>to let go, to set free, to let escape
+小柄;こがら<br><br>small build, small stature, petite
+透き通る;すきとおる<br><br>to be transparent, to be clear, to be see through
+温床;おんしょう<br><br>hotbed, breeding ground
+滑る;すべる<br><br>to slide, to slip
+懲罰;ちょうばつ<br><br>discipline, punishment
+潜る;くぐる, もぐる<br><br>to pass through, to pass under, to evade, to dive underwater, to get in, to go underground
+風潮;ふうちょう<br><br>tide, current
+偽物;にせもの<br><br>fake, counterfeit
+群がる;むらがる<br><br>to flock, to crowd
+奇襲;きしゅう<br><br>surprise attack
+国籍;こくせき<br><br>citizenship
+分裂;ぶんれつ<br><br>split, division
+誰;だれ<br><br>who
+垣;かき<br><br>fence
+安泰;あんたい<br><br>peace, security
+露出;ろしゅつ<br><br>exposure, photographic exposure
+沈滞;ちんたい<br><br>stagnation, inactivity
+明朗;めいろう<br><br>bright, cheerful, clear
+威厳;いげん<br><br>dignity, majesty
+牧師;ぼくし<br><br>pastor, minister, clergyman
+山岳;さんがく<br><br>mountains
+牧草;ぼくそう<br><br>pasture, grass
+一斉;いっせい<br><br>simultaneous, all at once
+旨い;うまい<br><br>delicious, skillful, clever
+壊滅;かいめつ<br><br>destruction, annihilation
+刷る;する<br><br>to print
+朗報;ろうほう<br><br>good news
+満潮;まんちょう<br><br>high tide, full tide
+封書;ふうしょ<br><br>sealed letter
+沈める;しずめる<br><br>to sink
+潮流;ちょうりゅう<br><br>tide, tidal current
+泥沼;どろぬま<br><br>bog, marsh
+即座;そくざ<br><br>immediate, instantaneous
+懇談;こんだん<br><br>informal talk
+即死;そくし<br><br>instant death
+垣根;かきね<br><br>hedge, fence
+慰問;いもん<br><br>condolences, sympathy call
+球威;きゅうい<br><br>a pitcher's stuff, pitcher's stuff
+懇意;こんい<br><br>kindness, intimacy
+高炉;こうろ<br><br>blast furnace
+滅亡;めつぼう<br><br>downfall, ruin
+幻滅;げんめつ<br><br>disillusionment
+柔道;じゅうどう<br><br>judo, juudou
+滅ぼす;ほろぼす<br><br>to destroy, to annihilate
+沼田;ぬまた, ぬた<br><br>marshy rice field, marshy rice paddy
+沼地;ぬまち<br><br>marshland, wetland, swampland
+滋養;じよう<br><br>nourishment
+撲滅;ぼくめつ<br><br>extermination
+原子炉;げんしろ<br><br>atomic reactor, nuclear reactor
+決裂;けつれつ<br><br>breakdown, rupture
+開封;かいふう<br><br>unsealed letter
+浴衣;ゆかた<br><br>yukata
+石垣;いしがき<br><br>stone wall
+潮;しお<br><br>tide, current
+軍艦島;ぐんかんじま<br><br>battleship island, gunkanjima
+沼;ぬま<br><br>bog, swamp
+朗らか;ほがらか<br><br>brightness, cheerfulness
+暖炉;だんろ<br><br>fireplace, hearth, stove
+炉心;ろしん<br><br>nuclear reactor core
+裂く;さく<br><br>to tear, to rip up
+包み;つつみ<br><br>bundle, package, parcel
+珍味;ちんみ<br><br>delicacy
+相撲;すもう<br><br>sumo wrestling, sumou wrestling, sumo, sumou
+沼沢;しょうたく<br><br>swamp, marsh
+貢献;こうけん<br><br>contribution
+懇親;こんしん<br><br>friendship
+逆襲;ぎゃくしゅう<br><br>counterattack
+筒;つつ<br><br>pipe, cylinder
+絶滅;ぜつめつ<br><br>destruction, extinction
+趣味;しゅみ<br><br>hobby
+慰安;いあん<br><br>solace, relaxation
+論旨;ろんし<br><br>point of an argument
+印刷;いんさつ<br><br>printing
+珍;ちん<br><br>rare, curious, strange
+即日;そくじつ<br><br>same day
+伺い;うかがい<br><br>inquiry, enquiry, question
+封;ふう<br><br>seal
+距離;きょり<br><br>distance, range
+暴露;ばくろ<br><br>disclosure, exposure
+誠に;まことに<br><br>indeed, really, absolutely
+珍しい;めずらしい<br><br>rare, unusual, curious
+即〜;そく<br><br>immediate, instant
+誰か;だれか<br><br>someone
+襲う;おそう<br><br>to attack
+襲撃;しゅうげき<br><br>attack, assault
+空襲;くうしゅう<br><br>air raid, air attack
+威張る;いばる<br><br>to be proud, to be arrogant
+趣;おもむき<br><br>gist, vibe, taste, charm
+戸籍;こせき<br><br>family register, census
+露骨;ろこつ<br><br>frank, blunt
+露店;ろてん<br><br>street stall, stand, booth
+牧野;ぼくや, まきの<br><br>pasture land, ranch
+牧場;ぼくじょう<br><br>livestock farm, ranch, station
+即興;そっきょう<br><br>improvisation
+権威;けんい<br><br>authority
+封建主義;ほうけんしゅぎ<br><br>feudalism
+柔和;にゅうわ<br><br>gentleness
+封筒;ふうとう<br><br>envelope
+岳;たけ<br><br>peak, mountain
+慰謝;いしゃ<br><br>consolation
+慰める;なぐさめる<br><br>to console
+懇話;こんわ<br><br>friendly chat, friendly talk
+懲りる;こりる<br><br>to learn by experience
+摩擦;まさつ<br><br>friction
+擦れる;すれる<br><br>to chafe, to rub
+旨;むね<br><br>gist, principle
+要旨;ようし<br><br>point, essentials
+柔らかい;やわらかい<br><br>gentle, flexible, soft, tender
+沈む;しずむ<br><br>to sink
+琴;こと<br><br>koto, japanese harp, harp
+慰謝料;いしゃりょう<br><br>compensation, consolation money, reparation, settlement
+露;つゆ<br><br>dew
+埋まる;うまる<br><br>to be buried, to be surrounded, to overflow, to be filled
+即効;そっこう<br><br>immediate effect, instant effect
+僕;ぼく<br><br>i, me
+斗;と<br><br>ladle, big dipper, measure of volume, eighteen liters, eighteen litres
+荒波;あらなみ<br><br>stormy seas, raging waves
+涙;なみだ<br><br>tears, tear, teardrop
+竜巻;たつまき<br><br>tornado
+縁談;えんだん<br><br>marriage proposal
+右翼;うよく<br><br>right wing
+吉;きち<br><br>good omen
+桃;もも<br><br>peach
+取り逃がす;とりにがす<br><br>to fail to catch
+寸法;すんぽう<br><br>measurement, size, dimension
+寸前;すんぜん<br><br>on the brink, on the verge, just in front of, just before
+俺たち;おれたち<br><br>we
+辛子;からし<br><br>mustard
+姫様;ひめさま<br><br>princess
+粒;つぶ<br><br>grain, bead, counter for grains
+雷;かみなり<br><br>thunder
+砂丘;さきゅう<br><br>sand dune
+縁起;えんぎ<br><br>omen
+泊まり;とまり<br><br>stay, stopover
+荒々しい;あらあらしい<br><br>wild, rough, desolate
+喪服;もふく<br><br>mourning dress, mourning clothes
+寸;すん<br><br>sun, three point zero three centimeters, three centimeters, three point oh three centimeters
+大砲;たいほう<br><br>cannon
+〜匹;ひき<br><br>small animal counter, counter for small animals
+縁;ふち<br><br>edge
+朱;あけ<br><br>vermillion, scarlet red, blood
+香辛料;こうしんりょう<br><br>spices
+感涙;かんるい<br><br>tears of gratitude
+手袋;てぶくろ<br><br>gloves
+揺れる;ゆれる<br><br>to be shaken, to be jolted
+魚雷;ぎょらい<br><br>torpedo
+塔;とう<br><br>tower, pagoda
+無縁;むえん<br><br>unrelated
+辛い;からい, つらい<br><br>spicy, hot, difficult, painful
+釣る;つる<br><br>to fish
+辛勝;しんしょう<br><br>narrow victory
+謎;なぞ<br><br>riddle, a mystery, mystery
+謎々;なぞなぞ<br><br>riddle, puzzle, enigma
+缶ビール;かんびーる, かんビール<br><br>can beer, canned beer
+揺さぶる;ゆさぶる<br><br>to shake, to jolt
+挑戦者;ちょうせんしゃ<br><br>a challenger, challenger
+エッフェル塔;えっふぇるとう, エッフェルとう<br><br>eiffel tower
+揚げ;あげ<br><br>fried
+本棚;ほんだな<br><br>bookcase, bookshelf
+叫ぶ;さけぶ<br><br>to shout, to scream
+俺ら;おれら<br><br>we
+紛れる;まぎれる<br><br>to be diverted, to be distracted
+刃物;はもの<br><br>edged tool, cutlery, kitchen cutlery
+刃先;はさき<br><br>edge of blade, blade edge
+四匹;よんひき<br><br>four small animals
+叱る;しかる<br><br>to scold
+紛らわしい;まぎらわしい<br><br>confusing, misleading
+手堅い;てがたい<br><br>solid, steady, firm
+忍者;にんじゃ<br><br>ninja
+朱印;しゅいん<br><br>red seal
+揺する;ゆする<br><br>to shake, to jolt
+恐竜;きょうりゅう<br><br>dinosaur
+丘;おか<br><br>hill, knoll
+髪;かみ<br><br>hair, head hair, hair on your head
+竜;りゅう<br><br>dragon
+哲学者;てつがくしゃ<br><br>philosopher
+娯楽;ごらく<br><br>pleasure, amusement
+左翼;さよく<br><br>left wing
+網戸;あみど<br><br>screen door
+梨;なし<br><br>pear
+不吉;ふきつ<br><br>ominous, sinister, bad luck, ill omen
+克服する;こくふくする<br><br>to conquer
+侍;さむらい<br><br>samurai
+芽;め<br><br>sprout, bud
+刃;は<br><br>blade, sharp edge
+笠;かさ<br><br>conical hat, bamboo hat
+缶;かん<br><br>tin can, can, tin
+戸棚;とだな<br><br>cupboard
+嵐;あらし<br><br>storm, tempest
+釣り;つり<br><br>fishing
+翼;つばさ<br><br>wing, political wing
+俺;おれ<br><br>i, me
+一匹;いっぴき<br><br>one small animal
+桃色;ももいろ<br><br>peach color, peach colour
+粒子;りゅうし<br><br>particle, grain, atomic particle
+バベルの塔;ばべるのとう, バベルのとう<br><br>tower of babel
+金髪;きんぱつ<br><br>blonde
+髪の毛;かみのけ<br><br>head hair
+荒らす;あらす<br><br>to lay waste, to devastate
+髪型;かみがた<br><br>hairstyle, hair style, hairdo
+空き缶;あきかん<br><br>empty can
+辛抱;しんぼう<br><br>patience, endurance
+缶コーヒー;かんこーひー, かんコーヒー<br><br>canned coffee, can coffee
+姫;ひめ<br><br>princess, noble girl
+棚;たな<br><br>shelf
+雷雨;らいう<br><br>thunderstorm
+管制塔;かんせいとう<br><br>control tower
+寝床;ねどこ<br><br>bed, crib
+握り;にぎり<br><br>grip
+見逃す;みのがす<br><br>to overlook
+携帯ストラップ;けいたいストラップ, けいたいすとらっぷ<br><br>cell phone strap, mobile phone strap
+泊める;とめる<br><br>to let someone stay over, to let someone stay the night
+滑り台;すべりだい<br><br>playground slide, slide
+焦る;あせる<br><br>to be in a hurry, to be impatient
+焦がす;こがす<br><br>to burn, to scorch
+落雷;らくらい<br><br>thunderbolt, lightning, bolt of lightning, lightning strike
+絶叫;ぜっきょう<br><br>exclamation, scream, shout
+一翼;いちよく<br><br>part, a part
+両翼;りょうよく<br><br>both wings, both flanks
+忍ぶ;しのぶ<br><br>to endure, to conceal, to hide
+井戸;いど<br><br>well
+翔ける;かける<br><br>to fly, to soar
+溝;みぞ<br><br>gutter, ditch, drain
+眺める;ながめる<br><br>to stare at, to look at, to view, to gaze at
+いつ頃;いつごろ<br><br>about when, how soon
+凶悪;きょうあく<br><br>atrocious, fiendish
+細菌;さいきん<br><br>bacteria
+襲撃する;しゅうげきする<br><br>to attack, to assault
+滝;たき<br><br>waterfall
+潮時;しおどき<br><br>tidal hour, the right time
+肌触り;はだざわり<br><br>the touch of, feel of, texture
+小舟;こぶね<br><br>boat, small craft
+暦;こよみ<br><br>calendar, almanac
+可也;かなり<br><br>considerably, fairly, quite
+凶器;きょうき<br><br>dangerous weapon, lethal weapon
+肌;はだ<br><br>human skin, skin
+脚;あし<br><br>leg, foot
+澄む;すむ<br><br>to become clear, to become transparent
+年頃;としごろ<br><br>approximate age
+呪い;のろい<br><br>curse
+狩り;かり<br><br>hunting
+近頃;ちかごろ<br><br>lately, recently
+近距離;きんきょり<br><br>short distance
+呪う;のろう<br><br>to curse, to put a curse on
+引き裂く;ひきさく<br><br>to tear up, to tear off, to split
+西暦;せいれき<br><br>christian era
+塾;じゅく<br><br>cram school, coaching school, juku
+無菌;むきん<br><br>sterilized, sterilised, pasteurised, pasteurized
+霊園;れいえん<br><br>cemetery
+ばい菌;ばいきん<br><br>germ
+曇る;くもる<br><br>to get cloudy, to become cloudy
+裸;はだか<br><br>naked
+曇り;くもり<br><br>cloudiness, cloudy weather
+賭け;かけ<br><br>betting, gambling, a gamble, a bet
+排水溝;はいすいこう<br><br>drainage
+疲労;ひろう<br><br>fatigue, weariness
+半裸;はんら<br><br>half naked, half nude
+賭ける;かける<br><br>to gamble, to bet, to stake, to risk
+塾生;じゅくせい<br><br>cram school student
+加湿器;かしつき<br><br>humidifier
+黒潮;くろしお<br><br>japan current, kuroshio current
+海溝;かいこう<br><br>ocean trench
+磨く;みがく<br><br>to polish, to shine, to brush your teeth
+湿地;しっち<br><br>wetlands
+亡霊;ぼうれい<br><br>ghost, the dead
+湿気;しっけ<br><br>moisture, humidity
+嫁;よめ<br><br>bride, wife
+嫁ぐ;とつぐ<br><br>to marry
+狂気;きょうき<br><br>madness, insanity
+若い頃;わかいころ<br><br>one's youth, early life
+擦る;する, こする<br><br>to rub, to scrub
+塊;かたまり<br><br>lump, mass, bundle
+磨き;みがき<br><br>polish, shine
+義塾;ぎじゅく<br><br>private school
+滝川;たきがわ<br><br>rapids
+先頃;さきごろ<br><br>recently, the other day
+硬直;こうちょく<br><br>rigidity, stiffening, stiffness
+硬い;かたい<br><br>stiff, hard
+魂;たましい<br><br>soul
+頃;ころ, ごろ<br><br>approximate time, around, about, approximate
+卓;たく<br><br>table, desk
+核分裂;かくぶんれつ<br><br>nuclear fission, karyokinesis
+〜魂;こん<br><br>spirit
+遠距離;えんきょり<br><br>long distance
+短距離;たんきょり<br><br>short distance
+入籍;にゅうせき<br><br>entry in family register
+一斉に;いっせいに<br><br>simultaneously, all at once
+滅びる;ほろびる<br><br>to be destroyed, to be annihilated
+稼ぐ;かせぐ<br><br>to earn income, to make money
+矛;ほこ<br><br>halberd
+肌色;はだいろ<br><br>flesh colored, skin colored, flesh coloured, skin coloured
+鳥肌;とりはだ<br><br>goosebumps
+舟;ふね<br><br>boat
+鐘;かね<br><br>bell, chime
+警鐘;けいしょう<br><br>alarm bell, fire bell
+狩人;かりゅうど<br><br>hunter
+この頃;このごろ<br><br>recently, nowadays, these days
+脚本;きゃくほん<br><br>script, screenplay
+天井;てんじょう<br><br>ceiling
+旧暦;きゅうれき<br><br>lunisolar calendar, traditional japanese calendar, japanese calendar
+眺望;ちょうぼう<br><br>prospect, view
+全裸;ぜんら<br><br>completely nude, totally nude, completely naked, totally naked
+殺菌;さっきん<br><br>sterilization, sterilisation
+疲れる;つかれる<br><br>to be exhausted, to be tired
+電卓;でんたく<br><br>calculator
+食卓;しょくたく<br><br>dining table
+卓球;たっきゅう<br><br>table tennis, ping pong
+陰;かげ<br><br>shadow, shade
+陰気;いんき<br><br>gloom, melancholy
+悪霊;あくりょう<br><br>evil spirit
+霊感;れいかん<br><br>inspiration
+湿る;しめる<br><br>to be damp, to be moist, to be wet
+狂う;くるう<br><br>to go mad, to go crazy
+包み紙;つつみがみ<br><br>wrapping paper
+悪趣味;あくしゅみ<br><br>bad habit, bad taste
+手頃;てごろ<br><br>moderate, handy, convenient, reasonable
+元凶;げんきょう, がんきょう<br><br>ringleader, main culprit

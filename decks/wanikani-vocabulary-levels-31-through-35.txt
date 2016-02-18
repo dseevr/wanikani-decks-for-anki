@@ -1,0 +1,555 @@
+#front;back
+嘆息;たんそく<br><br>sigh, lament
+緊張する;きんちょうする<br><br>to stress, to stress out, to be nervous
+帯;おび<br><br>belt
+幾つ;いくつ<br><br>how many
+豪華;ごうか<br><br>luxurious, splendid
+雄犬;おすいぬ<br><br>male dog
+壊れ物;こわれもの<br><br>fragile thing, breakables, fragile item
+人脈;じんみゃく<br><br>personal connections, network
+粉状;ふんじょう<br><br>powdered
+既に;すでに<br><br>as mentioned before, as mentioned previously, already, previously
+総理大臣;そうりだいじん<br><br>prime minister
+富士山;ふじさん<br><br>mt fuji, mount fuji
+既決;きけつ<br><br>decided, settled
+富裕;ふゆう<br><br>wealthy, affluent
+花粉症;かふんしょう<br><br>hay fever
+粉;こな<br><br>powder, flour
+尋問;じんもん<br><br>questioning
+催促する;さいそくする<br><br>to urge, to press for, to demand
+探究;たんきゅう<br><br>research
+華やか;はなやか<br><br>showy
+怖がる;こわがる<br><br>to be scared, to be afraid of
+富む;とむ<br><br>to be rich, to be wealthy
+壊れる;こわれる<br><br>to be broken, to get broken
+菜食;さいしょく<br><br>vegetarianism, vegetarian diet
+散る;ちる<br><br>to be scattered, to get scattered, to scatter
+思い詰める;おもいつめる<br><br>to think hard
+ハチの巣;はちのす, ハチのす<br><br>beehive
+平均;へいきん<br><br>average, mean
+大陸;たいりく<br><br>continent
+幾度;いくど<br><br>how many times, how often
+墓地;ぼち<br><br>graveyard, cemetery
+中華;ちゅうか<br><br>chinese
+通貨;つうか<br><br>currency
+直径;ちょっけい<br><br>diameter
+恐れる;おそれる<br><br>to fear, to dread
+陸軍;りくぐん<br><br>land army, army
+積む;つむ<br><br>to pile things up, to accumulate
+航空券;こうくうけん<br><br>airplane ticket
+泥水;でいすい, どろみず<br><br>muddy water
+倉;くら<br><br>warehouse
+除外;じょがい<br><br>exception
+画廊;がろう<br><br>picture gallery
+真似;まね<br><br>impersonation
+離婚;りこん<br><br>divorce
+融合;ゆうごう<br><br>fusion
+印鑑;いんかん<br><br>seal
+監督;かんとく<br><br>supervision, direction, director
+普段;ふだん<br><br>usual, ordinary, habitual, always, everyday
+血脈;けつみゃく<br><br>blood vessel, blood relationship
+孫;まご<br><br>grandchild
+墓;はか<br><br>grave
+巣;す<br><br>nest, habitat
+半径;はんけい<br><br>radius
+富;とみ<br><br>wealth
+道徳;どうとく<br><br>morals, morality
+倉庫;そうこ<br><br>storehouse, warehouse
+地帯;ちたい<br><br>zone, district
+子孫;しそん<br><br>descendant
+解散;かいさん<br><br>breakup, dissolution
+棒;ぼう<br><br>pole, wooden pole, rod
+既存;きそん, きぞん<br><br>existing
+迷わす;まよわす<br><br>to lead astray, to perplex
+編者;へんしゃ<br><br>editor
+主催する;しゅさいする<br><br>to sponsor, to promote
+鼻詰まり;はなづまり<br><br>stuffy nose, blocked nose
+見詰める;みつめる<br><br>to stare at
+絶やす;たやす<br><br>to kill off, to let die out
+融資;ゆうし<br><br>financing, loan
+分離;ぶんり<br><br>segregation, separation
+離れる;はなれる<br><br>to separate, to leave
+編集;へんしゅう<br><br>edit
+嘆く;なげく<br><br>to lament, to grieve
+普通;ふつう<br><br>normal, normally
+編む;あむ<br><br>to knit
+感嘆符;かんたんふ<br><br>exclamation mark, exclamation point
+外務大臣;がいむだいじん<br><br>minister of foreign affairs
+地下街;ちかがい<br><br>underground shopping mall, underground shopping center, shopping centre
+監視;かんし<br><br>observation, monitor, keep watch over
+廊下;ろうか<br><br>corridor, hallway
+鑑定;かんてい<br><br>expert opinion
+巣立ち;すだち<br><br>leave the nest, become independent
+掃除;そうじ<br><br>cleaning
+除く;のぞく<br><br>to exclude
+尋ねる;たずねる<br><br>to inquire, to ask
+幾ら;いくら<br><br>how much
+幾何学;きかがく<br><br>geometry
+掃く;はく<br><br>to sweep
+泥;どろ<br><br>mud
+驚嘆;きょうたん<br><br>admiration, wonder
+クモの巣;くものす, クモのす<br><br>spiderweb
+経路;けいろ<br><br>route, course
+救急車;きゅうきゅうしゃ<br><br>ambulance
+救う;すくう<br><br>to rescue
+散歩;さんぽ<br><br>a stroll, a walk, stroll, walk
+探偵;たんてい<br><br>private detective, private investigator, detective, sleuth, investigator
+山脈;さんみゃく<br><br>mountain range
+野菜;やさい<br><br>vegetable
+探す;さがす<br><br>to look for, to search for
+似る;にる<br><br>to resemble
+均等;きんとう<br><br>equality, uniformity, evenness
+均整;きんせい<br><br>symmetry, balance
+徳川;とくがわ<br><br>tokugawa, tokugawa shogun
+徳島県;とくしまけん<br><br>tokushima prefecture
+内偵;ないてい<br><br>scouting, reconnaissance, secret investigation
+貨物;かもつ<br><br>freight, cargo
+麦粉;むぎこ<br><br>wheat flour
+華道;かどう<br><br>flower arrangement
+恐い;こわい<br><br>scary, frightening, eerie, deadful, i'm afraid, i'm scared
+驚く;おどろく<br><br>to be surprised, to be shocked
+恐らく;おそらく<br><br>probably, perhaps, likely, i dare say, maybe, as likely as not
+恐れ;おそれ<br><br>fear, horror, anxiety, concern, uneasiness, dread
+用心棒;ようじんぼう<br><br>bodyguard, bouncer, guard
+華美;かび<br><br>gaudy, pomp, splendor, splendour
+賛成;さんせい<br><br>agreement, approval, support
+採用;さいよう<br><br>use, adoption, acceptance
+血液;けつえき<br><br>blood
+衛星;えいせい<br><br>satellite
+結婚式;けっこんしき<br><br>marriage ceremony, wedding
+押しボタン;おしぼたん, おしボタン<br><br>push button
+生卵;なまたまご<br><br>raw egg
+志望;しぼう<br><br>desire, ambition
+眼球;がんきゅう<br><br>eyeball
+老眼;ろうがん<br><br>farsightedness
+込む;こむ<br><br>to be crowded, to be included
+祖母;そぼ<br><br>grandmother, grandma
+傷者;しょうしゃ<br><br>injured person, wounded person
+自民党;じみんとう<br><br>liberal democratic party, ldp
+興味;きょうみ<br><br>interest
+通訳;つうやく<br><br>interpreting, interpretation
+雑音;ざつおん<br><br>noise, static
+温暖;おんだん<br><br>warm, mild, warmth
+採算;さいさん<br><br>profit
+政党;せいとう<br><br>political party
+汚染;おせん<br><br>pollution
+迎える;むかえる<br><br>to pick someone up, to meet someone
+捨てる;すてる<br><br>to throw away, to abandon
+恩賞;おんしょう<br><br>reward, a reward
+密会;みっかい<br><br>secret meeting, clandestine meeting
+秘める;ひめる<br><br>to conceal, to keep secret
+傷める;いためる<br><br>to damage
+染める;そめる<br><br>to dye
+順序;じゅんじょ<br><br>sequence, steps
+密輸;みつゆ<br><br>smuggling
+社会党;しゃかいとう<br><br>socialist party
+汚点;おてん<br><br>stain, smudge
+採る;とる<br><br>to gather
+卵;たまご<br><br>egg
+桜肉;さくらにく<br><br>horse meat
+撮影禁止;さつえいきんし<br><br>no photos, no photos allowed
+背中;せなか<br><br>one's back, back
+恩人;おんじん<br><br>benefactor
+桜んぼ;さくらんぼ<br><br>cherry
+銭;ぜに<br><br>coin
+桜;さくら<br><br>sakura, cherry tree
+購読する;こうどくする<br><br>to subscribe
+採決;さいけつ<br><br>voting
+先祖;せんぞ<br><br>ancestors, one's ancestors
+複雑;ふくざつ<br><br>complicated, complex
+液体;えきたい<br><br>liquid
+序文;じょぶん<br><br>preface
+意志;いし<br><br>will, volition
+食欲;しょくよく<br><br>appetite
+便秘;べんぴ<br><br>constipation
+英訳;えいやく<br><br>english translation
+秘密;ひみつ<br><br>secret, a secret
+厳しい;きびしい<br><br>strict
+訳語;やくご<br><br>translated term
+ゆで卵;ゆでたまご<br><br>boiled egg
+肉欲;にくよく<br><br>carnal desires
+汚水;おすい<br><br>dirty water, filthy water, sewage
+傷心;しょうしん<br><br>heartbreak
+和訳;わやく<br><br>japanese translation
+浮かれる;うかれる<br><br>to be happy, to be in high spirits, to feel happy
+越す;こす<br><br>to go beyond
+延長する;えんちょうする<br><br>to prolong, to extend
+密か;ひそか<br><br>secret, private
+訳者;やくしゃ<br><br>translator
+貧乏人;びんぼうにん<br><br>poor person
+出版する;しゅっぱんする<br><br>to publish
+功績;こうせき<br><br>achievement, accomplishment
+訳す;やくす<br><br>to translate
+暖かい;あたたかい<br><br>warm place, warm
+欲求;よっきゅう<br><br>wants, desires, personal needs
+飼う;かう<br><br>to keep a pet, to raise a pet, to own a pet
+押入れ;おしいれ<br><br>closet, wall cubbard, wall cupboard
+背丈;せたけ<br><br>stature, height
+意欲;いよく<br><br>will, desire, ambition
+火傷;やけど<br><br>burn, scald
+今更;いまさら<br><br>too late, now
+漏らす;もらす<br><br>to leak something, to leak
+出版社;しゅっぱんしゃ<br><br>publishing company, publisher
+照り焼き;てりやき<br><br>teriyaki
+冷える;ひえる<br><br>to be chilled, to get cold
+結婚する;けっこんする<br><br>to marry, to get married
+大騒ぎ;おおさわぎ<br><br>clamor, uproar, big noise
+志;こころざし<br><br>intention, ambition
+桜色;さくらいろ<br><br>pink, pink color, pink colour, color pink, colour pink
+永遠;えいえん<br><br>forever, eternity, permanence
+永久;えいきゅう<br><br>forever, eternity
+眼;め<br><br>eyeball
+祖父;そふ<br><br>grandfather, grandpa
+成績;せいせき<br><br>grades, ranking
+党員;とういん<br><br>party member
+自衛;じえい<br><br>self defense
+衛生;えいせい<br><br>hygiene
+複数;ふくすう<br><br>multiple, plural
+複写;ふくしゃ<br><br>copying, duplication, copy, duplicate
+雑費;ざっぴ<br><br>miscellaneous expenses
+酸っぱい;すっぱい<br><br>sour
+酸素;さんそ<br><br>oxygen
+銭湯;せんとう<br><br>public bath
+傷;きず<br><br>wound, damage
+共産党;きょうさんとう<br><br>communist party
+厳禁;げんきん<br><br>strictly forbidden, strictly prohibited, strict prohibition, ban
+密告;みっこく<br><br>secret information
+感染;かんせん<br><br>infection, contagion
+伝染病;でんせんびょう<br><br>contagious disease
+汚れる;よごれる<br><br>to get dirty, to get polluted, to become dirty
+欲しい;ほしい<br><br>wanted, to want, desired
+机;つくえ<br><br>desk
+訳;わけ<br><br>reason
+飾り;かざり<br><br>decoration, ornament
+背が高い;せがたかい<br><br>tall
+飾り気;かざりけ<br><br>showing off, affectation
+火照る;ほてる<br><br>to feel hot, to flush, to burn
+裏切り;うらぎり<br><br>backstab, betrayal
+尊敬;そんけい<br><br>respect
+蔵;くら<br><br>storehouse
+皇室;こうしつ<br><br>imperial palace, imperial household
+拡大;かくだい<br><br>zoom, magnification, enlargement, expansion
+服装;ふくそう<br><br>attire, dress
+裏;うら<br><br>backside
+蒸気;じょうき<br><br>steam, vapor
+変装;へんそう<br><br>disguise
+雑誌;ざっし<br><br>magazine
+果糖;かとう<br><br>fructose
+筋肉;きんにく<br><br>muscle
+操作;そうさ<br><br>operation, handling
+否決;ひけつ<br><br>rejection
+冷蔵庫;れいぞうこ<br><br>refrigerator, fridge
+尊い;とうとい<br><br>revered, noble, precious
+熟語;じゅくご<br><br>compound word, compound kanji, jukugo
+暮らす;くらす<br><br>to live, to live one's life
+異性;いせい<br><br>opposite sex, opposite gender
+編集する;へんしゅうする<br><br>to edit
+開閉;かいへい<br><br>opening and closing, opening and shutting
+著作;ちょさく<br><br>writing, authorship
+似合う;にあう<br><br>to suit, to match
+窓;まど<br><br>window
+驚かす;おどろかす<br><br>to surprise, to shock, to astonish
+乾かす;かわかす<br><br>to dry something, to dry
+諸〜;しょ<br><br>various
+離す;はなす<br><br>to separate, to keep apart
+宝;たから<br><br>treasure
+野暮;やぼ<br><br>unrefined, rustic, stupid
+熟れる;うれる<br><br>to ripen
+砂;すな<br><br>sand, grains
+異状;いじょう<br><br>abnormality, something wrong
+無糖;むとう<br><br>sugar free, unsweetened
+裏通り;うらどおり<br><br>alley, back street
+灰;はい<br><br>ash, ashes
+装置;そうち<br><br>equipment, device, apparatus
+盛る;もる<br><br>to heap up, to serve food
+灰皿;はいざら<br><br>ashtray
+装い;よそおい<br><br>attire, dress, garb
+著者;ちょしゃ<br><br>author
+裏口;うらぐち<br><br>back door, rear entrance
+蒸れる;むれる<br><br>to be humid
+操;みさお<br><br>chastity, virginity
+皇太子;こうたいし<br><br>crown prince
+否定;ひてい<br><br>denial
+砂漠;さばく<br><br>desert
+裏切る;うらぎる<br><br>to backstab, to betray
+除いて;のぞいて<br><br>except
+忠実;ちゅうじつ<br><br>faithful, devoted, loyal
+垂らす;たらす<br><br>to dangle something, to dangle
+小麦粉;こむぎこ<br><br>flour
+閉店;へいてん<br><br>store closed, closed store
+筋;すじ<br><br>tendon
+閉める;しめる<br><br>to close, to shut
+垂直;すいちょく<br><br>vertical, perpendicular
+敬語;けいご<br><br>honorific, term of respect, keigo
+皇族;こうぞく<br><br>imperial family, member of the imperial family
+宝石;ほうせき<br><br>jewel
+国宝;こくほう<br><br>national treasure, nic cage
+異義;いぎ<br><br>different meaning
+地蔵;じぞう<br><br>jizo, jizou
+成熟;せいじゅく<br><br>ripen, mature, ripeness, maturity
+拡張;かくちょう<br><br>enlargement, expansion, extension
+編集者;へんしゅうしゃ<br><br>editor
+掃除する;そうじする<br><br>to clean
+泥棒;どろぼう<br><br>robber, burglar
+納入;のうにゅう<br><br>payment, supply
+物真似;ものまね<br><br>impersonation
+簡単;かんたん<br><br>simple, easy, simply
+散歩する;さんぽする<br><br>to go for a walk, to go for a stroll, to take a walk, to take a stroll
+散らかす;ちらかす<br><br>to scatter
+貨物船;かもつせん<br><br>freighter, freight ship
+掃除機;そうじき<br><br>vacuum cleaner
+華々しい;はなばなしい<br><br>gorgeous, flamboyant, brilliant, remarkable
+墓場;はかば<br><br>graveyard, cemetery
+窓口;まどぐち<br><br>ticket window
+宣伝;せんでん<br><br>propaganda, advertising
+宣言;せんげん<br><br>proclamation, declaration
+拡がる;ひろがる<br><br>to extend, to spread
+忠告;ちゅうこく<br><br>advice, admonishment
+漠然;ばくぜん<br><br>vague
+操る;あやつる<br><br>to manipulate
+肺がん;はいがん<br><br>lung cancer
+体操;たいそう<br><br>calisthenics, gymnastics
+灰色;はいいろ<br><br>gray, grey, gray color, grey color, grey colour, gray colour
+未熟;みじゅく<br><br>not yet good at, not good at
+異なる;ことなる<br><br>to differ
+天皇;てんのう<br><br>emperor of japan, emperor
+砂糖;さとう<br><br>sugar
+納める;おさめる<br><br>to supply, to deliver, to pay
+収納;しゅうのう<br><br>storage
+肺;はい<br><br>lung
+肺病;はいびょう<br><br>lung disease
+著しい;いちじるしい<br><br>remarkable, marked
+賃貸;ちんたい<br><br>rental
+諸君;しょくん<br><br>gentlemen, my friends
+家賃;やちん<br><br>house rent, rent
+武装;ぶそう<br><br>arms, armament, armed
+簡易;かんい<br><br>simple, easy
+散らし;ちらし<br><br>leaflet, handbill, flyer, scattering
+異常;いじょう<br><br>abnormal, strange, disorder
+否;いな, いいえ, いえ, いや<br><br>no
+沿岸;えんがん<br><br>coast, shore
+豆;まめ<br><br>beans
+悲劇;ひげき<br><br>tragedy
+牛丼;ぎゅうどん<br><br>beef bowl, beef rice bowl
+劇的;げきてき<br><br>dramatic
+降る;ふる<br><br>to fall, to come down
+通勤;つうきん<br><br>commute
+聖書;せいしょ<br><br>bible
+聖地;せいち<br><br>holy land, holy ground
+肺臓;はいぞう<br><br>lung
+内臓;ないぞう<br><br>internal organ
+誤算;ごさん<br><br>miscalculation
+誤字;ごじ<br><br>typo
+じゃが芋;じゃがいも<br><br>white potato, irish potato
+劇団;げきだん<br><br>drama troupe
+歓迎;かんげい<br><br>a welcome, welcome
+小豆;あずき<br><br>azuki beans, adzuki beans
+爪;つめ<br><br>claw, nail, talon, hoof
+沿海;えんかい<br><br>coastal waters, coast
+聖日;せいじつ<br><br>holy day
+推薦;すいせん<br><br>recommendation
+磁気;じき<br><br>magnetism
+爪切り;つめきり<br><br>nail clipper
+込める;こめる<br><br>to include
+追い越す;おいこす<br><br>to overtake
+腐る;くさる<br><br>to rot
+幕;まく<br><br>curtain
+損;そん<br><br>disadvantage, handicap, loss
+字幕;じまく<br><br>subtitles
+劇場;げきじょう<br><br>theater, theatre
+純毛;じゅんもう<br><br>all wool
+複数形;ふくすうけい<br><br>plural
+傷つく;きずつく<br><br>to get hurt
+兄貴;あにき<br><br>older brother, big brother, elder brother, one's senior
+言い訳;いいわけ<br><br>excuse, explanation
+誤解;ごかい<br><br>misunderstanding
+誤用;ごよう<br><br>misuse
+沿線;えんせん<br><br>along the train line
+興味がない;きょうみがない<br><br>no interest, not interested
+詰め込む;つめこむ<br><br>to stuff, to cram
+降参;こうさん<br><br>surrender
+承認;しょうにん<br><br>approval
+神聖;しんせい<br><br>holiness, holy
+推理;すいり<br><br>reasoning, inference
+焼き芋;やきいも<br><br>roast potato, baked potato
+拝見する;はいけんする<br><br>to have a look at, to see
+芋;いも<br><br>potato
+縮まる;ちぢまる, ちじまる<br><br>to shrink, to contract
+縮小;しゅくしょう<br><br>reduction, cut
+縦;たて<br><br>vertical
+粋;いき<br><br>stylish
+磁場;じば<br><br>magnetic field
+発射する;はっしゃする<br><br>to launch, to fire
+祖父母;そふぼ<br><br>grandparents
+書き込む;かきこむ<br><br>to fill out, to write in
+申し込む;もうしこむ<br><br>to apply, to submit an application
+劇;げき<br><br>drama, play, show
+奴;やつ<br><br>dude, guy
+汚す;よごす<br><br>to make dirty, to make something dirty
+投げ捨てる;なげすてる<br><br>to throw away
+腐敗;ふはい<br><br>decomposition, decay
+常勤;じょうきん<br><br>full time employment, full time
+源氏;げんじ<br><br>genji
+枝;えだ<br><br>branch
+源;みなもと<br><br>ground spring, source, origin
+不純;ふじゅん<br><br>impure
+納豆;なっとう<br><br>natto, fermented soybeans
+染まる;そまる<br><br>to be dyed
+発揮する;はっきする<br><br>to exhibit, to demonstrate
+縦書;たてがき<br><br>vertical writing, vertical style writing
+黒幕;くろまく<br><br>wirepuller, mastermind, black curtain, dick cheney
+貴様;きさま<br><br>you
+震源地;しんげんち<br><br>epicenter, epicentre
+歓楽街;かんらくがい<br><br>pleasure quarter
+丼;どんぶり<br><br>rice bowl
+注射;ちゅうしゃ<br><br>shot, injection
+単純;たんじゅん<br><br>simple
+染み;しみ<br><br>stain, a stain
+損なう;そこなう<br><br>to harm, to injure
+全損;ぜんそん<br><br>total loss
+賛成する;さんせいする<br><br>to agree, to support
+血液型;けつえきがた<br><br>blood type, blood group
+降車;こうしゃ<br><br>getting off a train, get off a train, getting off the train, get off the train
+迎え;むかえ<br><br>welcome, meeting, greeting, reception
+承知;しょうち<br><br>consent, know
+推定;すいてい<br><br>estimate, estimation, assumption
+人込み;ひとごみ<br><br>crowd of people, crowded, crowded with people
+大損;おおぞん<br><br>heavy loss, big loss
+薦める;すすめる<br><br>to recommend
+心臓;しんぞう<br><br>heart
+反射;はんしゃ<br><br>reflection
+引っ越す;ひっこす<br><br>to move, to move homes
+飼い主;かいぬし<br><br>pet owner
+傷つける;きずつける<br><br>to hurt someone, to injure, to wound, to scratch, to damage
+使い捨て;つかいすて<br><br>disposable
+飛び込み自殺;とびこみじさつ<br><br>suicide by train
+紅;べに, くれない<br><br>deep red, dark red
+貴い;とうとい<br><br>valuable, sacred
+純粋;じゅんすい<br><br>pure, genuine
+貴族;きぞく<br><br>the nobility, a noble
+うなぎ丼;うなぎどん<br><br>eel bowl, eel rice bowl
+奴隷;どれい<br><br>slave
+吐く;はく<br><br>to puke, to throw up, to barf
+損害;そんがい<br><br>damage, injury
+縦横;たてよこ, じゅうおう<br><br>length and width, vertical and horizontal
+磁石;じしゃく<br><br>magnet, a magnet
+紅茶;こうちゃ<br><br>black tea
+指揮;しき<br><br>command, lead
+勤める;つとめる<br><br>to be employed at, to work for
+放射;ほうしゃ<br><br>radiation
+拝む;おがむ<br><br>to worship, to pray to
+自薦;じせん<br><br>recommendation
+沿う;そう<br><br>to run alongside, to run parallel to
+腐食;ふしょく<br><br>corrosion
+電源;でんげん<br><br>power source, light socket
+歌劇;かげき<br><br>opera
+承る;うけたまわる<br><br>to consent, to hear, to be informed, to listen to
+刻む;きざむ<br><br>to carve, to cut up
+時刻表;じこくひょう<br><br>timetable, schedule
+深刻;しんこく<br><br>serious, grave
+喜劇;きげき<br><br>comedy
+眼鏡;めがね<br><br>glasses, eyeglasses
+幕府;ばくふ<br><br>bakufu, shogunate
+貴重;きちょう<br><br>precious, valuable
+傷む;いたむ<br><br>to be damaged, to go bad, to spoil
+汁;しる<br><br>soup
+測る;はかる<br><br>to measure, to measure scientifically
+講演;こうえん<br><br>lecture, address
+遅延;ちえん<br><br>delay
+遅れる;おくれる<br><br>to be late
+閉じる;とじる<br><br>to shut, to close
+滞る;とどこおる<br><br>to be overdue
+入獄;にゅうごく<br><br>imprisonment
+長寿;ちょうじゅ<br><br>long life, longevity
+破船;はせん<br><br>shipwreck
+三つ編み;みつあみ<br><br>braided hair, hair braid, plaited hair, plait
+蒸し返す;むしかえす<br><br>to reheat
+紹介;しょうかい<br><br>introduction
+海亀;うみがめ<br><br>sea turtle
+互い;たがい<br><br>mutual, each other, reciprocal, together
+相互;そうご<br><br>mutual, reciprocal
+剣道;けんどう<br><br>kendo, japanese fencing, way of the sword
+寿司;すし<br><br>sushi
+喜寿;きじゅ<br><br>seventy seventh birthday
+彼氏;かれし<br><br>boyfriend
+兵舎;へいしゃ<br><br>barracks
+遅滞;ちたい<br><br>delay
+為に;ために<br><br>for the sake of, sake of
+自己;じこ<br><br>self, oneself
+有意;ゆうい<br><br>significance
+地獄;じごく<br><br>hell
+獄内;ごくない<br><br>in prison
+青銅;せいどう<br><br>bronze
+銅像;どうぞう<br><br>copper statue, bronze statue
+彼;かれ<br><br>he
+寿命;じゅみょう<br><br>lifespan
+彼ら;かれら<br><br>they
+泥酔;でいすい<br><br>dead drunk, completely drunk
+果汁;かじゅう<br><br>fruit juice
+出獄;しゅつごく<br><br>release from prison
+炎症;えんしょう<br><br>inflammation
+脱獄;だつごく<br><br>jailbreak, escape from prison
+湖;みずうみ<br><br>lake
+鍋;なべ<br><br>pot, hotpot
+醤油;しょうゆ<br><br>shoyu, soy sauce, shouyu
+油断;ゆだん<br><br>inattentiveness, let your guard down
+原油;げんゆ<br><br>crude oil
+行為;こうい<br><br>deed
+熊本県;くまもとけん<br><br>kumamoto prefecture
+遅刻;ちこく<br><br>be late, be tardy, late, tardy
+介入;かいにゅう<br><br>intervention
+山中湖;やまなかこ<br><br>lake yamanaka, yamanaka lake
+講義;こうぎ<br><br>lecture
+一筋;ひとすじ<br><br>single mindedly, intently, earnestly
+剣;けん<br><br>sword, sabre, blade, double edged sword
+熊;くま<br><br>bear
+恥ずかしい;はずかしい<br><br>embarrassing, embarrassed, ashamed
+酢;す<br><br>vinegar
+暮らし;くらし<br><br>life, living, daily living
+納得;なっとく<br><br>consent
+田舎;いなか<br><br>countryside, rural
+給油;きゅうゆ<br><br>fueling
+杉;すぎ<br><br>cedar
+観測;かんそく<br><br>observation
+銅山;どうざん<br><br>copper mine
+講師;こうし<br><br>lecturer, instructor
+炎;ほのお<br><br>big fire, flame
+亀;かめ<br><br>turtle
+諸々;もろもろ<br><br>various, all kinds of
+酔う;よう<br><br>to be drunk
+払う;はらう<br><br>to pay
+盛り上げる;もりあげる<br><br>to heap up, to pile up
+垂れる;たれる<br><br>to dangle, to drip
+納まる;おさまる<br><br>to be supplied, to be delivered, to be paid
+尊敬する;そんけいする<br><br>to respect
+破る;やぶる<br><br>to tear, to rip, to break
+蒸し暑い;むしあつい<br><br>humid, hot and humid
+否定形;ひていけい<br><br>negative form, negative sentence, negative, negative tense
+彫刻;ちょうこく<br><br>sculpture
+推測;すいそく<br><br>conjecture, speculation
+破壊;はかい<br><br>destruction, demolition
+福寿;ふくじゅ<br><br>happiness and longevity
+真剣;しんけん<br><br>serious
+庁舎;ちょうしゃ<br><br>government office building
+味噌;みそ<br><br>miso
+予測;よそく<br><br>prediction
+油田;ゆでん<br><br>oil field
+尊敬語;そんけいご<br><br>honorific japanese, honorific language, formal japanese, formal language
+宝くじ;たからくじ<br><br>lottery, public lottery
+油;あぶら<br><br>oil
+厄介;やっかい<br><br>troublesome, burdensome, hard to deal with, trouble, burden, nuisance
+酢の物;すのもの<br><br>vinegared food, pickled food
+交互;こうご<br><br>alternately
+破産;はさん<br><br>bankruptcy
+己;おのれ<br><br>oneself, myself, i
+装う;よそおう<br><br>to feign, to wear, to pretend
+宣言する;せんげんする<br><br>to proclaim
+裏切り者;うらぎりもの<br><br>traitor
+閉まる;しまる<br><br>to be shut, to be closed
+否定する;ひていする<br><br>to deny
+同音異義語;どうおんいぎご<br><br>homonym
+著作権;ちょさくけん<br><br>copyright
+白熊;しろくま<br><br>polar bear
+暮れる;くれる<br><br>to get dark, to end, to close, to run out, to be lost
+石油;せきゆ<br><br>oil, petroleum, kerosene
+恥;はじ<br><br>shame, embarrassment, disgrace

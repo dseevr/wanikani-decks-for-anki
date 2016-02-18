@@ -1,0 +1,471 @@
+#front;back
+邸内;ていない<br><br>grounds, premises
+私邸;してい<br><br>private residence
+塚;つか<br><br>mound
+慈愛;じあい<br><br>affection, kindness, love
+浦;うら<br><br>bay, inlet
+脂肪;しぼう<br><br>fat, grease, blubber
+近郊;きんこう<br><br>suburbs, outskirts
+釈明;しゃくめい<br><br>explanation, vindication
+貞操;ていそう<br><br>chastity, virtue, fidelity
+蓮花;れんげ<br><br>lotus flower, lotus
+軒;のき<br><br>eaves, stand in a row, stand side by side
+覆う;おおう<br><br>to cover, to hide, to conceal
+貞節;ていせつ<br><br>chastity, virtue, fidelity
+不貞;ふてい<br><br>unfaithful, infidelity
+官邸;かんてい<br><br>official residence
+柔軟;じゅうなん<br><br>flexible, pliable
+軟禁;なんきん<br><br>house arrest
+公邸;こうてい<br><br>official residence
+邸宅;ていたく<br><br>mansion, residence
+郊外;こうがい<br><br>suburb, outskirts
+郡;ぐん<br><br>district, county
+注釈;ちゅうしゃく<br><br>notes, comment, remark, annotation
+会釈;えしゃく<br><br>nod, greeting, bow
+解釈;かいしゃく<br><br>explanation, interpretation
+隅;すみ<br><br>corner, nook, recess
+片隅;かたすみ<br><br>corner, nook
+四隅;よすみ<br><br>four corners
+隅々;すみずみ<br><br>nooks, corners
+〜隻;せき<br><br>ship counter, counter for ships
+頂く;いただく<br><br>to humbly receive, to humbly accept, to humbly eat, to humbly drink
+山頂;さんちょう<br><br>summit
+襟;えり<br><br>collar, lapel, neck
+偉人;いじん<br><br>great person, great man, hero
+瓶;びん<br><br>bottle
+偉大;いだい<br><br>greatness, grand, outstanding
+洗濯機;せんたくき, せんたっき<br><br>washing machine, laundry machine
+勘定;かんじょう<br><br>calculation, counting, allowance, payment, bill, check
+喚起;かんき<br><br>awaken, rouse, evoke, excite
+召す;めす<br><br>to humbly call, to humbly invite, to humbly eat, to humbly drink
+喚く;わめく<br><br>to shout, to scream
+召喚;しょうかん<br><br>summon, summons
+洗濯屋;せんたくや<br><br>laundromat
+愛媛県;えひめけん<br><br>ehime prefecture
+慈悲;じひ<br><br>compassion, benevolence, charity, mercy
+沸点;ふってん<br><br>boiling point
+慈善;じぜん<br><br>charity, philanthropy
+挟む;はさむ<br><br>to insert, to put between
+枯渇;こかつ<br><br>drying up, dry up, running dry
+玄米;げんまい<br><br>unpolished rice, unmilled rice, brown rice
+枯れる;かれる<br><br>to wither, to die
+浸す;ひたす<br><br>to soak, to dip, to drench
+渦;うず<br><br>whirlpool, eddy, vortex
+渦中;かちゅう<br><br>vortex, maelstrom
+瓶詰;びんづめ<br><br>bottling, bottled
+潤い;うるおい<br><br>moisture, damp, wetness
+洗濯粉;せんたくこ<br><br>detergent
+乾燥;かんそう<br><br>dehydration, dryness
+焦燥;しょうそう<br><br>impatience, uneasy, irritation
+農耕;のうこう<br><br>farming, agriculture
+玄関;げんかん<br><br>entranceway, entry hall, foyer, entryway
+耕作;こうさく<br><br>cultivation, farming
+〜軒;けん<br><br>house counter, counter for houses
+花瓶;かびん<br><br>vase, flower vase
+空き瓶;あきびん, からびん<br><br>empty bottle
+火炎瓶;かえんびん<br><br>molotov cocktail
+聡明;そうめい<br><br>wisdom, sagacity
+耕す;たがやす<br><br>to till, to plow, to plough, to cultivate
+耕地;こうち<br><br>arable land
+苗;なえ<br><br>seedling
+聡い;さとい<br><br>smart, sensitive, discerning
+肯定;こうてい<br><br>positive, affirmation
+樹脂;じゅし<br><br>resin
+皮膚;ひふ<br><br>skin
+苗字;みょうじ<br><br>surname, family name
+蓮;はす<br><br>sacred lotus
+偉い;えらい<br><br>great, excellent, admirable, remarkable
+沸く;わく<br><br>to boil, to grow hot, to get excited
+孤児;こじ<br><br>orphan
+孤独;こどく<br><br>isolation, loneliness, solitude
+恒常;こうじょう<br><br>constant, routine
+没落;ぼつらく<br><br>ruin, fall, collapse
+猟;りょう<br><br>hunting, game
+猟師;りょうし<br><br>hunter, huntsman
+発祥;はっしょう<br><br>origin
+秩序;ちつじょ<br><br>order, regularity, system, method
+擁する;ようする<br><br>to have, to possess
+〜貫;かん<br><br>sushi pieces counter, counter for pieces of sushi
+茨;いばら<br><br>thorn, briar, wild rose
+擁立;ようりつ<br><br>backing, support
+貫通;かんつう<br><br>pierce, penetrate, perforate
+貫徹;かんてつ<br><br>realization, realisation, penetration, accomplishment
+没後;ぼつご<br><br>after death, posthumously
+遭遇;そうぐう<br><br>encounter
+待遇;たいぐう<br><br>treatment, reception
+優遇;ゆうぐう<br><br>favorable treatment, hospitality, warm reception, favourable treatment
+覇気;はき<br><br>ambition, aspiration
+鰐蟹;わにかに<br><br>wani kani
+不倫;ふりん<br><br>adultery
+倫理;りんり<br><br>ethics, morals
+偏る;かたよる<br><br>to be biased, to be one sided, to be partial, to be prejudiced
+偏見;へんけん<br><br>prejudice
+偏狭;へんきょう<br><br>narrow minded, intolerance
+恒星;こうせい<br><br>star
+陳列;ちんれつ<br><br>exhibition, display, show
+陳情;ちんじょう<br><br>petition, appeal
+必須;ひっす<br><br>indispensable, required, essential
+颯と;さっと<br><br>quickly, suddenly
+噴射;ふんしゃ<br><br>jet, spray, injection, jet propulsion
+噴水;ふんすい<br><br>water fountain
+芳香;ほうこう<br><br>perfume, fragrance, aroma
+噴出;ふんしゅつ<br><br>spewing, gushing, spouting, eruption
+偏食;へんしょく<br><br>unbalanced diet
+日没;にちぼつ<br><br>sunset
+噴火;ふんか<br><br>eruption
+噴煙;ふんえん<br><br>eruption of smoke
+孤島;ことう<br><br>solitary island
+殊勝;しゅしょう<br><br>admirable
+孤立;こりつ<br><br>isolation, alone, friendless
+怠惰;たいだ<br><br>laziness, idleness, sloth
+特殊;とくしゅ<br><br>special, unique
+恒例;こうれい<br><br>established practice, established practise, custom
+恒久;こうきゅう<br><br>permanent, perpetual
+惰性;だせい<br><br>inertia, habit, momentum
+怠慢;たいまん<br><br>negligence, procrastination, carelessness
+慢性;まんせい<br><br>chronic
+擁護;ようご<br><br>protection, advocacy, support, defence
+犠牲;ぎせい<br><br>victim, sacrifice, scapegoat
+埋没;まいぼつ<br><br>implantation, burying, embedding
+出没;しゅつぼつ<br><br>appearing frequently, infesting
+没収;ぼっしゅう<br><br>forfeiture, seizure, confiscation, impounding
+密猟;みつりょう<br><br>poaching
+狩猟;しゅりょう<br><br>hunting
+猟犬;りょうけん<br><br>hunting dog, hound
+不祥事;ふしょうじ<br><br>scandal
+膨張;ぼうちょう<br><br>expansion, swelling, increase, growth
+食糧;しょくりょう<br><br>provisions, rations, food supply
+膨大;ぼうだい<br><br>huge, bulky, enormous, extensive
+芳しい;かんばしい<br><br>sweet, fragrant, aromatic
+覇者;はしゃ<br><br>supreme ruler, champion
+連覇;れんぱ<br><br>successive championships
+一貫;いっかん<br><br>one piece of sushi, one sushi
+賠償;ばいしょう<br><br>reparations, compensation
+陳述;ちんじゅつ<br><br>statement, declaration
+傲慢;ごうまん<br><br>pride, haughtiness, arrogance, insolence
+貫く;つらぬく<br><br>to go through, to pierce, to penetrate, to persist, to stick to
+冷遇;れいぐう<br><br>cold reception, inhospitality
+境遇;きょうぐう<br><br>environment, circumstances
+遭難;そうなん<br><br>disaster, shipwreck, accident, being stranded
+陳腐;ちんぷ<br><br>cliched, stale, hackneyed
+遭う;あう<br><br>to meet, to encounter
+陥落;かんらく<br><br>fall, sinking, surrender
+鎖国;さこく<br><br>national isolation, exclusion of foreigners
+封鎖;ふうさ<br><br>blockade, freezing
+陥る;おちいる<br><br>to cave in, to collapse, to fall, to trap
+閉鎖;へいさ<br><br>closing, closure, shutdown, lockout, unsociable
+連鎖;れんさ<br><br>chain, chaining, connection
+陥没;かんぼつ<br><br>cave in, collapse, sinking, depression
+欠陥;けっかん<br><br>defect, fault, deficiency, deformity, shortage
+隼;はやぶさ<br><br>falcon
+お風呂;おふろ<br><br>bath
+我慢;がまん<br><br>endurance, perseverance, tolerance, patience, self control
+自慢;じまん<br><br>pride, boast
+制覇;せいは<br><br>conquest, domination, mastery
+覇権;はけん<br><br>hegemony
+没;ぼつ<br><br>discard, reject
+突貫;とっかん<br><br>charge, rush, lightning attack
+戦没;せんぼつ<br><br>killed in action, death in battle, kia
+沈没;ちんぼつ<br><br>sinking, going down, submersion
+処遇;しょぐう<br><br>treatment, dealing with
+示唆;しさ<br><br>suggestion, hint, implication
+怠る;おこたる<br><br>to be negligent, to shirk, to be off one's guard
+緩慢;かんまん<br><br>slow, sluggish, dull
+抱擁;ほうよう<br><br>embrace, hug
+没頭;ぼっとう<br><br>immersing oneself, immersing yourself, immerse oneself, immerse yourself
+膨れる;ふくれる<br><br>to swell, to expand, to be inflated, to distend, to bulge
+鎖;くさり<br><br>chain, chains
+皮膚科;ひふか<br><br>dermatology
+皮膚病;ひふびょう<br><br>skin disease
+剰余金;じょうよきん<br><br>surplus, balance
+悲惨;ひさん<br><br>disastrous, tragic, miserable, wretched, pitiful
+惨敗;ざんぱい<br><br>crushing failure, utterly beaten, overwhelming defeat
+惨状;さんじょう<br><br>disastrous scene, terrible spectacle
+原稿;げんこう<br><br>manuscript, copy
+化繊;かせん<br><br>synthetic fibers, synthetic fibres
+蓮根;れんこん, はすね<br><br>lotus root
+披露;ひろう<br><br>announcement, show, display, introduction, perform
+挟まる;はさまる<br><br>to get between, to be caught in
+据える;すえる<br><br>to install, to place, to fix, to set, to lay, to seat
+搭載;とうさい<br><br>built in, equipped with
+搭乗;とうじょう<br><br>boarding, check in, embarkation
+曙;あけぼの<br><br>dawn, daybreak, beginning
+胞子;ほうし<br><br>spore
+枯れ木;かれき<br><br>dead tree, dry wood
+枯らす;からす<br><br>to let dry, to kill, to season
+稿料;こうりょう<br><br>advance for manuscript, copy money
+沸かす;わかす<br><br>to boil, to heat, to excite
+沸騰;ふっとう<br><br>boiling, seething
+自浄;じじょう<br><br>self purification, self cleansing
+浄化;じょうか<br><br>purification, cleanup
+浄土;じょうど<br><br>pure land
+不浄;ふじょう<br><br>uncleanliness, dirtiness, impurity, filthiness, defilement;
+浄水;じょうすい<br><br>clean water
+清浄;せいじょう, しょうじょう<br><br>pure, clean, purity
+洗浄;せんじょう<br><br>washing, cleaning, laundering
+渦巻き;うずまき<br><br>whirlpool, eddy, coil
+西瓜;すいか<br><br>watermelon
+真鯉;まごい<br><br>black carp, black koi
+襟元;えりもと<br><br>collar, front of the neck, nape of the neck
+襟巻き;えりまき<br><br>scarf, muffler, comforter
+丹誠;たんせい<br><br>working earnestly, sincerity, diligence, effort
+批准;ひじゅん<br><br>ratification, ratify
+丹念;たんねん<br><br>diligence, application
+過剰;かじょう<br><br>excess, over
+余剰;よじょう<br><br>redundant, surplus, residue, balance
+召し上がる;めしあがる<br><br>to humbly eat
+啓示;けいじ<br><br>revelation
+啓発;けいはつ<br><br>enlightenment, development, illumination, education, inspiration
+寛容;かんよう<br><br>tolerance, open minded, forbearance, generous
+総帥;そうすい<br><br>commander, leader, fuhrer
+統帥;とうすい<br><br>supreme command, high command
+徐行;じょこう<br><br>going slowly
+徐々;じょじょ<br><br>gradually, steadily, quietly, slowly
+惨事;さんじ<br><br>disaster, horrible accident
+緯度;いど<br><br>latitude
+肯く;うなずく, うなづく<br><br>to nod, to bow one's head
+瓜;うり<br><br>melon, gourd
+草稿;そうこう<br><br>notes, draft, manuscript
+投稿;とうこう<br><br>submit, post, contribution
+北緯;ほくい<br><br>northern latitude, north latitude
+緯線;いせん<br><br>parallel
+南緯;なんい<br><br>southern latitude, south latitude
+合繊;ごうせん<br><br>synthetic fiber, synthetic fibre
+繊細;せんさい<br><br>delicate, dainty, fine, slim, sensitive, subtle
+細胞;さいぼう, さいほう<br><br>cell, biological cell
+同胞;どうほう, どうぼう<br><br>brethren, brothers, fellow countrymen, compatriot
+本舗;ほんぽ<br><br>head office, main shop
+胡瓜;きゅうり<br><br>cucumber
+脂身;あぶらみ<br><br>fat meat, fatty meat
+舗;ほ, ぽ<br><br>shop, store
+店舗;てんぽ<br><br>shop, store
+舗装;ほそう<br><br>pavement, road surface
+艦艇;かんてい<br><br>military vessel, war fleet
+競艇;きょうてい<br><br>boat race
+苗木;なえぎ<br><br>seedling, sapling, young tree
+蒙古;もうこ<br><br>mongolia
+教諭;きょうゆ<br><br>teacher
+虐殺;ぎゃくさつ<br><br>atrocity, massive killing
+錦;にしき<br><br>brocade, fine dress, fine clothes
+啓蒙;けいもう<br><br>enlightenment, instruction
+寛大;かんだい<br><br>tolerance, liberality, leniency
+虐待;ぎゃくたい<br><br>abuse, maltreatment, mistreatment, cruelty
+諭す;さとす<br><br>to admonish, to persuade, to warn
+暴虐;ぼうぎゃく<br><br>tyranny, outrage, atrocity, cruel
+軒並;のきなみ<br><br>across the board, row of houses, altogether
+暴騰;ぼうとう<br><br>sudden rise, sharp rise, boom, skyrocketing
+随時;ずいじ<br><br>at any time
+随所;ずいしょ<br><br>everywhere, at every turn
+随筆;ずいひつ<br><br>essays, miscellaneous writings, literary jottings
+随分;ずいぶん<br><br>very, extremely, surprisingly, considerably
+鯉;こい<br><br>carp, koi
+元帥;げんすい<br><br>general of the army, marshal, admiral
+追随;ついずい<br><br>follow, take after
+頂;いただき<br><br>crown, summit, spire, easy win for one, something received
+高騰;こうとう<br><br>sudden price jump, steep price rise
+急騰;きゅうとう<br><br>sudden rise, jump, sharp rise
+平壌;へいじょう, ぴょんやん<br><br>pyongyang
+苗床;なえどこ<br><br>nursery, seedbed
+葵;あおい<br><br>hollyhock
+経緯;けいい, いきさつ<br><br>details, particulars, whole story, how it started, longitude and latitude
+繊維;せんい<br><br>fiber, fibre, textile
+土壌;どじょう<br><br>soil
+惨め;みじめ<br><br>miserable, wretched, unhappy, sad
+残虐;ざんぎゃく<br><br>cruelty, brutality
+玄人;くろうと<br><br>expert, professional, specialist, woman of the red light district
+緋鯉;ひごい<br><br>red carp, golden carp, red koi, golden koi
+胡座;あぐら<br><br>sitting cross legged, sit cross legged
+寛ぐ;くつろぐ<br><br>to relax, to feel at home
+虐げる;しいたげる<br><br>to oppress, to persecute, to tyrannize
+錦鯉;にしきごい<br><br>colored carp, coloured carp, colored koi, coloured koi
+頂戴;ちょうだい<br><br>humbly receiving, humble eating, humble having
+銀杏;いちょう, ぎんなん<br><br>ginkgo nut, ginkgo
+偏り;かたより<br><br>bias, deviation, prejudice
+風呂場;ふろば<br><br>bathroom
+倫理学;りんりがく<br><br>ethics, moral philosophy
+倫理的;りんりてき<br><br>ethical
+静粛;せいしゅく<br><br>silent
+茎;くき<br><br>stem, stalk
+新陳代謝;しんちんたいしゃ<br><br>metabolism
+愚;ぐ<br><br>foolish, silly, stupid
+歌謡;かよう<br><br>song, ballad
+疾走;しっそう<br><br>sprint, dash
+顕在;けんざい<br><br>actual, obvious, explicit, overt, apparent, evident
+捕鯨;ほげい<br><br>whaling, whale fishing
+盆栽;ぼんさい<br><br>bonsai
+疾病;しっぺい<br><br>illness, disease
+酷評;こくひょう<br><br>severe criticism, damnation
+音痴;おんち<br><br>tone deafness, tone deaf, off key
+冠;かん, かむり, かんむり<br><br>traditional cap, crown, diadem, coronet;
+王冠;おうかん<br><br>crown, diadem, bottle cap
+殊勲;しゅくん<br><br>meritorious deeds
+叙勲;じょくん<br><br>conferring of decorations, decorate
+勲章;くんしょう<br><br>decoration, order, medal
+痴漢;ちかん<br><br>molester, pervert
+卸;おろし<br><br>wholesale
+卸す;おろす<br><br>to sell wholesale, to grate
+卸値;おろしね<br><br>wholesale price
+卸売;おろしうり<br><br>wholesale
+哺乳瓶;ほにゅうびん<br><br>baby bottle
+空疎;くうそ<br><br>vain, groundless, futile
+疎遠;そえん<br><br>estrangement, neglect
+疎ら;まばら<br><br>sparse, thin, scattered, straggling, sporadic
+叙情;じょじょう<br><br>lyricism, description of feelings, expression of feelings
+疾風;しっぷう, はやて<br><br>gale, strong wind, fresh breeze
+残酷;ざんこく<br><br>cruelty, harshness
+自粛;じしゅく<br><br>self control, self discipline, self restraint
+叙事詩;じょじし<br><br>epic poem, descriptive poetry
+叙述;じょじゅつ<br><br>description
+厳粛;げんしゅく<br><br>gravity, solemnity, severity, seriousness
+庶民;しょみん<br><br>masses, common people
+呆ける;ぼける, ほうける<br><br>to grow senile, to be mentally slow
+露呈;ろてい<br><br>exposure, disclosure
+進呈;しんてい<br><br>presentation
+酷い;ひどい<br><br>cruel, awful, severe, terrible, violent
+冷酷;れいこく<br><br>cruel, coldhearted, relentless, ruthless
+哺育;ほいく<br><br>nursing, suckling
+疎開;そかい<br><br>evacuation
+指紋;しもん<br><br>fingerprint
+賠償金;ばいしょうきん<br><br>reparations, compensation
+実践;じっせん<br><br>practice, practise, put into practice, put into practise
+波紋;はもん<br><br>ripple, repercussions
+孤児院;こじいん<br><br>orphanage
+紋章;もんしょう<br><br>crest, coat of arms
+鎌;かま<br><br>sickle, scythe
+過疎;かそ<br><br>depopulation
+尚;なお<br><br>furthermore, still, more, greater
+無秩序;むちつじょ<br><br>disorder, chaos, confusion
+和尚;おしょう<br><br>buddhist high priest, high priest, buddhist priest
+疾患;しっかん<br><br>disease, ailment, disorder
+逸品;いっぴん<br><br>gem, treasure, article of rare beauty, fine article
+秀逸;しゅういつ<br><br>excellence
+高尚;こうしょう<br><br>high, noble, refined
+逸脱;いつだつ<br><br>deviation, departure, omission
+庶務;しょむ<br><br>general affairs
+山荘;さんそう<br><br>mountain retreat, mountain cottage, mountain villa
+陳列室;ちんれつしつ<br><br>showroom
+必須条件;ひっすじょうけん<br><br>essential condition, requisite, must
+悠久;ゆうきゅう<br><br>eternity, perpetuity, permanence
+荘厳;そうごん<br><br>solemnity, gravity
+露顕;ろけん<br><br>discovery, detection, exposure
+鯨肉;げいにく<br><br>whale meat
+噴き出す;ふきだす<br><br>to burst out, to spout out, to bud, to sprout
+悠長;ゆうちょう<br><br>leisurely, slow, deliberate, easygoing
+別荘;べっそう<br><br>holiday house, villa
+愚痴;ぐち<br><br>idle complaint, grumble
+欄;らん<br><br>column, column of text, field
+痴呆;ちほう<br><br>dementia
+童謡;どうよう<br><br>nursery rhyme, children's song
+顕著;けんちょ<br><br>remarkable, striking, obvious
+民謡;みんよう<br><br>folk song, popular song
+顕彰;けんしょう<br><br>honoring, honouring
+疎通;そつう<br><br>mutual understanding, removal of blockage, drainage
+誘拐;ゆうかい<br><br>kidnapping, abduction
+貫き通す;つらぬきとおす<br><br>to follow, to stick with, to stick to, to go through
+鯨;くじら<br><br>whale
+杏;あんず<br><br>apricot
+逸話;いつわ<br><br>anecdote
+栞;しおり<br><br>bookmark
+最優遇;さいゆうぐう<br><br>most favorable treatment, most favourable treatment, very warm reception, warm reception
+酷;こく<br><br>severe, harsh, strict, unfair
+栽培;さいばい<br><br>cultivation
+疎外;そがい<br><br>estrangement, neglect, alienation
+応酬;おうしゅう<br><br>exchange, reciprocation
+空欄;くうらん<br><br>blank space
+酷使;こくし<br><br>exploitation, overuse, abuse
+欄干;らんかん<br><br>guardrail, handrail, bannister
+欄外;らんがい<br><br>margin
+殊に;ことに<br><br>especially, particularly, additionally, unusually
+犠牲者;ぎせいしゃ<br><br>victim
+自叙伝;じじょでん<br><br>autobiography
+阿呆;あほう, あほ<br><br>fool, simpleton, idiot
+時期尚早;じきしょうそう<br><br>premature
+悠々;ゆうゆう<br><br>quiet, calm, leisurely, easy
+風呂屋;ふろや<br><br>public bathhouse
+報酬;ほうしゅう<br><br>reward, compensation
+贈呈;ぞうてい<br><br>presentation
+紋;もん<br><br>family crest, crest, coat of arms
+兵糧;ひょうろう<br><br>army provisions, provisions
+茨城県;いばらきけん<br><br>ibaraki prefecture
+怠ける;なまける<br><br>to neglect, to be idle, to slack
+膨らむ;ふくらむ<br><br>to expand, to swell, to get big, to become inflated
+逸らす;そらす<br><br>to turn away, to avert
+酷暑;こくしょ<br><br>intense heat
+過酷;かこく<br><br>severity, rigor, cruelty, harsh
+酷似;こくじ<br><br>resemblance, resemble
+癒着;ゆちゃく<br><br>adhesion, collusion
+国賓;こくひん<br><br>state guest
+脊髄;せきずい<br><br>spinal cord
+栓抜き;せんぬき<br><br>bottle opener, corkscrew
+栓;せん<br><br>cork, stopper, plug
+来賓;らいひん<br><br>guest, visitor
+真髄;しんずい<br><br>essence, pith, true meaning
+老舗;しにせ, ろうほ<br><br>old shop, old store
+虜;とりこ<br><br>captive, prisoner, victim to love, slave to lust
+赴任;ふにん<br><br>move for a different job, move for a job
+一旦;いったん<br><br>once, for a moment, temporarily
+旦那;だんな<br><br>master, husband, male patron
+輪郭;りんかく<br><br>outline, border, silhouette, summary, features, appearance
+鎮圧;ちんあつ<br><br>suppression, subjugation
+鎮痛剤;ちんつうざい<br><br>painkiller, pain reliever, sedative, tranquilizer, tranquiliser
+骨髄;こつずい<br><br>bone marrow, marrow
+該当;がいとう<br><br>correspond, fulfilling, applicable to, qualifying as
+披露宴;ひろうえん<br><br>wedding reception, reception
+賓客;ひんきゃく, ひんかく<br><br>guest of honor, privileged guest, guest of honour
+傍;そば, はた<br><br>near, close, beside
+抹殺;まっさつ<br><br>denial, erasure, obliteration, ignoring
+傍観;ぼうかん<br><br>look on, sit by and watch, spectate
+鎮魂;ちんこん<br><br>repose of souls
+憂国;ゆうこく<br><br>patriotism
+抹茶;まっちゃ<br><br>matcha, powdered green tea
+抹消;まっしょう<br><br>erase, delete
+傍受;ぼうじゅ<br><br>monitoring, interception, tapping
+凝固;ぎょうこ<br><br>solidify, coagulate, freeze
+凝視;ぎょうし<br><br>stare, gaze, fixation
+貴賓;きひん<br><br>noble visitor
+累計;るいけい<br><br>cumulative total, accumulated total
+粗野;そや<br><br>rustic, rough, rude, vulgar
+山葵;わさび<br><br>wasabi, japanese horseradish
+粗悪;そあく<br><br>coarse, crude, inferior
+神髄;しんずい<br><br>essence, spirit, true meaning
+凝る;こる<br><br>to be absorbed in, to grow stiff, to be devoted to
+捕虜;ほりょ<br><br>prisoner of war, captive
+奉仕;ほうし<br><br>attendance, service, ministry
+信奉;しんぽう<br><br>belief, faith
+元旦;がんたん<br><br>new year's day, new year's morning
+奉公;ほうこう<br><br>service, apprenticeship, public duty
+素朴;そぼく<br><br>simple, naive
+奉納;ほうのう<br><br>dedication, offering, presentation
+繁昌;はんじょう<br><br>prosperity, flourishing, thriving
+弥生;やよい<br><br>yayoi period, yayoi
+循環;じゅんかん<br><br>circulation, rotation, cycle
+治癒;ちゆ<br><br>healing, cure, recovery
+之;これ<br><br>this
+佳作;かさく<br><br>fine work, good piece of work
+哀悼;あいとう<br><br>condolence, regret, sympathy, lament
+起伏;きふく<br><br>undulation, ups and downs, highs and lows
+追悼;ついとう<br><br>mourning, memorial
+惜敗;せきはい<br><br>loss of a close game, regrettable defeat
+憂慮;ゆうりょ<br><br>anxiety, concern, fear
+降伏;こうふく<br><br>surrender, submission
+愉快;ゆかい<br><br>pleasant, happy
+遺憾;いかん<br><br>regrettable, unsatisfactory
+潜伏;せんぷく<br><br>conceal, hiding, ambush
+憂鬱;ゆううつ<br><br>depression, melancholy, dejection, gloom
+一抹;いちまつ<br><br>a little, a touch, slightly
+伏線;ふくせん<br><br>foreshadowing
+伏兵;ふくへい<br><br>ambush
+粗い;あらい<br><br>coarse, rough
+累積;るいせき<br><br>accumulation
+栃木県;とちぎけん<br><br>tochigi prefecture
+尿;にょう<br><br>urine, pee
+累進;るいしん<br><br>successive promotion, gradual promotion
+据え付ける;すえつける<br><br>to install, to equip, to mount
+鎮める;しずめる<br><br>to appease, to suppress, to calm
+重鎮;じゅうちん<br><br>leader, authority
+南瓜;かぼちゃ<br><br>pumpkin, squash, kabocha
+洗浄剤;せんじょうざい<br><br>detergent
+憂える;うれえる<br><br>to grieve, to lament, to be anxious, to be distressed
+惜しむ;おしむ<br><br>to be frugal, to be sparing
+伏せる;ふせる<br><br>to cover, to hide, to lay upside down, to turn over
+瓜実顔;うりざねがお<br><br>oval face, classic features
