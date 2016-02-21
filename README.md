@@ -24,13 +24,13 @@ for f in {1..60}; do
 done
 ```
 
+You'll also need the **anki** gem installed.  Run `bundle install` to get it.
+
 Then run:
 
 ```rb
 ruby make_decks.rb
 ```
-
-You'll need the `anki` gem installed.  `gem install anki` to get it.
 
 ## License
 
