@@ -13,11 +13,11 @@ You can get Anki here:  [Anki website](http://ankisrs.net/)
 If you want to regenerate the decks from scratch, you will need to generate an API key on the WaniKani site and run the following in the **data** directory to download all the JSON used by **make_decks.rb**:
 
 ```sh
-export API_KEY="your api key here"
+export WANIKANI_API_KEY="your api key here"
 
 # grab all 60 levels of vocab words
 for f in {1..60}; do
-  URL="https://www.wanikani.com/api/user/${YOUR_API_KEY}/vocabulary/$f"
+  URL="https://www.wanikani.com/api/user/${WANIKANI_API_KEY}/vocabulary/$f"
   echo $URL;
   curl -o $f.json $URL
   sleep 2
