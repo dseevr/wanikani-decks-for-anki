@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem "anki", "0.0.3"
+gem "anki", "0.0.4"
