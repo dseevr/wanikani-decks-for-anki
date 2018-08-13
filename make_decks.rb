@@ -12,7 +12,7 @@ headers = %w[front back]
   start_level = (index * 5) + 1
   end_level   = start_level + 4
 
-  output_deck_filename = "wanikani-vocabulary-levels-#{start_level}-through-#{end_level}.txt"
+  output_deck_filename = "wanikani-vocabulary-levels-%02d-through-%02d.txt" % [start_level, end_level]
 
   puts "Generating: #{output_deck_filename}"
 
