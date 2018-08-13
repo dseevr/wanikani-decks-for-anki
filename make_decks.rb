@@ -24,7 +24,8 @@ headers = %w[front back]
     JSON.parse(f)["requested_information"].each do |word|
       cards << {
         "front" => word["character"],
-        "back" =>  word["kana"] + "<br><br>" + word["meaning"]
+        # sometimes there is a trailing semicolon in the meaning text
+        "back" =>  word["kana"] + "<br><br>" + word["meaning"].chomp(";")
       }
     end
   end

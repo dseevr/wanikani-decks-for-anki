@@ -199,7 +199,7 @@
 自浄;じじょう<br><br>self purification, self cleansing
 浄化;じょうか<br><br>purification, cleanup
 浄土;じょうど<br><br>pure land
-不浄;ふじょう<br><br>uncleanliness, dirtiness, impurity, filthiness, defilement;
+不浄;ふじょう<br><br>uncleanliness, dirtiness, impurity, filthiness, defilement
 浄水;じょうすい<br><br>clean water
 清浄;せいじょう, しょうじょう<br><br>pure, clean, purity
 洗浄;せんじょう<br><br>washing, cleaning, laundering
@@ -296,7 +296,7 @@
 疾病;しっぺい<br><br>illness, disease
 酷評;こくひょう<br><br>severe criticism, damnation
 音痴;おんち<br><br>tone deafness, tone deaf, off key
-冠;かん, かむり, かんむり<br><br>traditional cap, crown, diadem, coronet;
+冠;かん, かむり, かんむり<br><br>traditional cap, crown, diadem, coronet
 王冠;おうかん<br><br>crown, diadem, bottle cap
 殊勲;しゅくん<br><br>meritorious deeds
 叙勲;じょくん<br><br>conferring of decorations, decorate
