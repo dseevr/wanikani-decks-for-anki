@@ -31,5 +31,7 @@ headers = %w[front back]
 
   deck = Anki::Deck.new(card_headers: headers, card_data: cards)
 
-  deck.generate_deck(file: "decks/#{output_deck_filename}")
+  # manually write the file instead of letting the anki gem do it so that
+  # we can guarantee there's a newline on the end
+  File.write("decks/#{output_deck_filename}", deck.generate_deck + "\n")
 end
